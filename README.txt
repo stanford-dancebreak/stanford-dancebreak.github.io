@@ -29,8 +29,8 @@ That is, unless you're the webmaster -- you get the privilege of being able to
 push to the site. This doesn't require any additional setup, so here's the
 procedure:
 
-1. SSH onto corn or myth.
-	> ssh [your-sunet-id]@corn.stanford.edu
+1. SSH onto rice.
+	> ssh [your-sunet-id]@rice.stanford.edu
 
 2. Go to the website directory.
 	> cd /afs/ir/group/dancebreak/WWW
@@ -106,8 +106,8 @@ A.  GitLab setup.
 
 B.  Stanford webserver setup.
 
-    1. SSH onto corn or myth.
-	> ssh [your-sunet-id]@corn.stanford.edu
+    1. SSH onto rice.
+	> ssh [your-sunet-id]@rice.stanford.edu
 
     2. Create the website directory (if necessary) and go to it.
 	> mkdir -m 0755 /afs/ir/group/dancebreak/WWW
