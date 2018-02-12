@@ -96,7 +96,7 @@ var TimetableTables = (function () {
       ['2018 Jan 22', site_RobleGymBigStudio, notes_Warn10pmStartTime],
       ['2018 Jan 29', site_RobleGymBigStudio, notes_NONE],
       ['2018 Feb 5', site_AOERC, notes_ParkingAOERC],
-      ['2018 Feb 12', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Feb 12', site_RobleGymBigStudio, notes_Warn10pmStartTime],
       [
          '2018 Feb 19',
          site_WarnSessionCancelled,
