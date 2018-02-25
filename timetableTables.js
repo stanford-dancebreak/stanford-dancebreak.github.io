@@ -20,9 +20,14 @@
 //
 //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
 //
-// For details on how to use this file and its contents
-// (particularly, within HTML files), see the header comments in
-// file timetableCode.js.
+// For details on how to use this file and its contents, see the
+// header comments in file timetableCode.js.
+//
+// NOTE:  this file is meant to be loaded via timetableLoader.js.
+// Do NOT load it directly from an HTML file!
+//
+// In particular, it should be loaded via the updatePageEvents()
+// function in that file.
 /////////////////////////////////////////////////////////////////
 
 //---------------------------------------------------------------
@@ -154,5 +159,18 @@ var TimetableTables = (function () {
    //////////////////////////////////////////////////////////////
    return my;
 }());
+
+//---------------------------------------------------------------
+//---------------------------------------------------------------
+//---------------------------------------------------------------
+
+/////////////////////////////////////////////////////////////////
+// NOTE:  TimetableLoader, which is used to load this (and other)
+// Javascript files, needs to be told when this file has been
+// loaded and processed.  (It is assumed that the various files
+// are loaded and processed asynchronously.)  If the browser has
+// reached this point, then the rest of the file has been
+// processed, and so this file is ready to go.
+TimetableLoader.fileReady('timetableTables.js');
 
 // End hiding script from old browsers (TO HERE). -->

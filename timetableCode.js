@@ -15,38 +15,59 @@
 
 
 /////////////////////////////////////////////////////////////////
-// NOTE:  this file is meant to be *included* in HTML files.
-// There are 2 uses:  for pages displaying future events, and for
-// ones displaying past events:
+// NOTE:  this file is meant to be loaded via timetableLoader.js.
+// Do NOT load it directly from an HTML file!
 //
-// 1.  Future events.  Use something like this in the HTML file:
+// In particular, it should be loaded via the updatePageEvents()
+// function in that file.
 //
-//      [... in the <head> portion ...]
-//      <script src="timetableTables.js"></script>
-//      <script src="timetableCode.js"></script>
-//      <script>TimetableCode.preprocessEventsData();</script>
+//---------------------------------------------------------------
 //
-//      [... in the <body> portion ...]
-//      <script>TimetableCode.appendNextEventSite('home_textContent');</script>
-//      <script>TimetableCode.appendFutureEventsTable(
-//         'home_textContent',
-//         '<p>Separator <a href="https://url.url.url/">line</a> <em>text</em></p>');</script>
+// For code maintainers, the Javascript code in this file
+// implements these 2 features:
 //
-// 2.  Past events.  Use something like this in the HTML file:
+// 1.  Future events.  There are 2 functions provided:
 //
-//      [... in the <head> portion ...]
-//      <script src="timetableTables.js"></script>
-//      <script src="timetableCode.js"></script>
-//      <script>TimetableCode.preprocessEventsData();</script>
+//     --  appendNextEventSite()
 //
-//      [... in the <body> portion ...]
-//      <script>TimetableCode.appendPastEventsTable(
-//         'oldLocations_textContent');</script>
+//         Appends details regarding the chronologically next
+//         event into the <p> element whose ID is
+//         "home_textContent_nextEvent" (normally this <p>
+//         element is empty in the HTML file).
 //
-// It requires a public variable, TimetableTables, which contains
-// a public 2-dimensional array, allLocations.  This is provided
-// by timetableTables.js, which is why in the above examples it
-// is shown included before this file.
+//     --  appendFutureEventsTable()
+//
+//         Places a <table> of future events where the <p>
+//         element with ID "home_textContent_futureEventsTable"
+//         is located.  The <p> element is then used in the
+//         separator section of the table.
+//
+// 2.  Past events.  The following function is provided:
+//
+//     --  appendPastEventsTable()
+//
+//         Replaces a <p> element whose ID is
+//         "oldLocations_textContent_pastEventsTable" with a
+//         <table> of past events.
+//
+// (See the header comments in timetableLoader.js for examples of
+// the above <p> tags.)
+//
+// A preparatory function, to preprocess a table of events (in
+// timetableTables.js -- see below), preprocessEventsData(), is
+// invoked prior to the above.  That and the above functions are,
+// in turn, invoked by processDocument(), the sole public
+// function.  This last function determines which of the above 2
+// features are to be used, based on the document's title.  See
+// the header comments in timetableLoader.js for further details.
+//
+// The above depend upon a public class, TimetableTables, which
+// contains a public 2-dimensional array, allLocations.  These
+// are provided by timetableTables.js.
+//
+// See the bottom of this file for how loading and complete
+// processing of this and all dependent Javascript script files
+// is accomplished.
 /////////////////////////////////////////////////////////////////
 
 //---------------------------------------------------------------
@@ -92,7 +113,233 @@ var TimetableCode = (function () {
    dateToday.setHours(0,0,0,0);
 
    //////////////////////////////////////////////////////////////
-   // Private functions.
+   // These variables support the generation of events
+   // information.  There are 3:  the next upcoming event, a
+   // "future events" table, and a "past events" table.  The
+   // first is the earliest chronological event occurring on or
+   // after today.  The "future events" table consists of all
+   // events ocurring on or after the start date provided to the
+   // data preprocessor function, preprocessEventsData().  The
+   // "past events" table consists of all events occuring
+   // strictly before the aforementioned start date.
+   //
+   // The following 3 variables are set by the date preprocessor
+   // function, preprocessEventsData().  The first two determine
+   // the following subsets of events:
+   // - 0...pastStartIdx-1 : "past events"
+   // - pastStartIdx...pastEndIdx-1 : "future events" recent past
+   // - pastEndIdx : next upcoming event
+   // - pastEndIdx... : "future events" upcoming
+   var pastStartIdx = -1;
+   var pastEndIdx = -1;
+   var indicesAreValid = false;
+
+   //////////////////////////////////////////////////////////////
+   // Private functions -- top-level.
+   //////////////////////////////////////////////////////////////
+   /**
+    * Create a "future events" table, and place it in the current
+    * location of the paragraph element whose ID is provided.
+    * That paragraph element becomes the "separator" part of the
+    * table, which consists of 4 parts:  a header (column
+    * labels), upcoming events (starting from today), a separator
+    * row (consisting of the replaced paragraph), and events of
+    * the recent past.  (See header comments for my.past*Idx for
+    * what specific events are used.)
+    * @param {string} paraID - ID of the <p> element where the
+    *    generated table will be inserted.
+    */
+   function appendFutureEventsTable(paraId) {
+      // The indices must already be set.
+      if (!indicesAreValid) {
+         console.log(
+            'preprocessEventsData() was not run before ' +
+            'appendFutureEventsTable() was called.');
+         return;
+      }
+
+      // Locate the <p> element that will become the separator.
+      var thePara = document.getElementById(paraId);
+      var paraParent = thePara.parentNode;
+
+      // Create the table object, and replace the paragraph.
+      var table = document.createElement('table');
+      paraParent.replaceChild(table, thePara);
+      table.style.borderCollapse = 'collapse';
+
+      // Now work on the table.  Create the table's body first.
+      var tableBody = document.createElement('tbody');
+      table.appendChild(tableBody);
+      tableBody.appendChild(generateHeader());
+
+      // Generate table rows.
+      if (pastEndIdx == TimetableTables.allLocations.length) {
+         tableBody.appendChild(generateEmptyTableRow(
+            '<p>' + noFuturesMessage + '</p>'));
+      } else {
+         for (var jj = pastEndIdx;
+              jj < TimetableTables.allLocations.length;
+              ++jj) {
+            tableBody.appendChild(
+               generateEntryRow(
+                  TimetableTables.allLocations[jj]));
+         }
+      }
+
+      // Generate middle/separator rows.
+      tableBody.appendChild(generateFutureDatesWarning());
+      tableBody.appendChild(generateSeparatorRow(thePara));
+
+      // Note:  strikeout is applied to all (recent) past events
+      // in the future events table.
+      if (pastStartIdx < pastEndIdx) {
+         // The last row has a different style from the rest.
+         var kkLast = pastEndIdx - 1;
+         for (var kk = pastStartIdx; kk < kkLast; ++kk) {
+            tableBody.appendChild(
+               generateEntryRow(TimetableTables.allLocations[kk],
+                  true));
+         }
+         // The bottom row is underlined.
+         var bottomRow =
+            generateEntryRow(
+               TimetableTables.allLocations[kkLast],
+               true);
+         bottomRow.style.borderBottom = separatorStyle;
+         tableBody.appendChild(bottomRow);
+      }
+   };
+
+   /**
+    * Create an "upcoming event" string, and append it as the
+    * final child element to the paragraph element whose ID is
+    * provided.  The string will consist of the location and the
+    * date (in parentheses).
+    * @param {string} paraId - ID of the <p> element to which the
+    *    generated string will be appended as a child element.
+    */
+   function appendNextEventSite(paraId) {
+      // The indices must already be set.
+      if (!indicesAreValid) {
+         console.log(
+            'preprocessEventsData() was not run before ' +
+            'appendNextEventSite() was called.');
+         return;
+      }
+
+      var nextSite = 'Where: ';
+      if (pastEndIdx == TimetableTables.allLocations.length) {
+         nextSite += noFuturesMessage;
+      } else {
+         nextSite += TimetableTables.allLocations[pastEndIdx][1];
+         var nextDate = createDateObjCrossBrowser(
+            TimetableTables.allLocations[pastEndIdx][0]);
+         nextSite +=
+            ' (<em>' + nextDate.getFullYear() + ' ' +
+            monthNames[nextDate.getMonth()] + ' ' +
+            nextDate.getDate() + ', ' +
+            dayNames[nextDate.getDay()] + '</em>)';
+      }
+
+      var upcomingEventElem = createSafeCellContent(nextSite);
+
+      // Append the string to the <p> object.
+      var thePara = document.getElementById(paraId);
+      thePara.appendChild(upcomingEventElem);
+   };
+
+   /**
+    * Create a "future events" table, and place it in the current
+    * location of the paragraph element whose ID is provided.
+    * The table will consist of 2 parts:  a header (column
+    * labels), and past events.  (See header comments for
+    * my.past*Idx for what specific events are used.)
+    * @param {string} paraID - ID of the <p> element to be
+    *    replaced by the generated table.
+    */
+   function appendPastEventsTable(paraId) {
+      // The indices must already be set.
+      if (!indicesAreValid) {
+         console.log(
+            'preprocessEventsData() was not run before ' +
+            'appendPastEventsTable() was called.');
+         return;
+      }
+
+      // Locate the <p> element to be replaced.
+      var thePara = document.getElementById(paraId);
+      var paraParent = thePara.parentNode;
+
+      // Create the table object, and replace the paragraph.
+      var table = document.createElement('table');
+      paraParent.replaceChild(table, thePara);
+      table.style.borderCollapse = 'collapse';
+
+      // Now work on the table.  Create the table's body first.
+      var tableBody = document.createElement('tbody');
+      table.appendChild(tableBody);
+      tableBody.appendChild(generateHeader());
+
+      const emptyTableText =
+         '<p><em>No past sessions.</em></p>';
+      if (pastStartIdx == 0) {
+         tableBody.appendChild(generateEmptyTableRow(
+             emptyTableText));
+      } else {
+         // The last row has a different style from the rest.
+         for (var jj = pastStartIdx - 1; jj > 0; --jj) {
+            tableBody.appendChild(
+               generateEntryRow(
+                  TimetableTables.allLocations[jj]));
+         }
+         // The bottom row is underlined.
+         var bottomRow =
+            generateEntryRow(TimetableTables.allLocations[0]);
+         bottomRow.style.borderBottom = separatorStyle;
+         tableBody.appendChild(bottomRow);
+      }
+   };
+
+   /**
+    * Process the events in the allLocations array so that
+    * information regarding it can be subsequently generated.
+    * Only events starting on or after the provided start date
+    * will be used.
+    * @param {string} [startDate=TimetableTables.thisQuarterStart] -
+    *    The date the table begins.
+    */
+   function preprocessEventsData(
+         startDate = TimetableTables.thisQuarterStart) {
+      var startDateObj = createDateObjCrossBrowser(startDate);
+      // Determine past (before startDate) events first.  This
+      // sets pastStartIdx.
+      for (pastStartIdx = 0;
+              pastStartIdx < TimetableTables.allLocations.length;
+              ++pastStartIdx) {
+         var pastDate = createDateObjCrossBrowser(
+            TimetableTables.allLocations[pastStartIdx][0]);
+         if (dateObjectCompare(pastDate, startDateObj) >= 0) {
+            break;
+         }
+      }
+      // Now determine the upcoming events (which also determines
+      // the recent-past events).  This sets pastEndIdx.
+      for (pastEndIdx = pastStartIdx;
+           pastEndIdx < TimetableTables.allLocations.length;
+           ++pastEndIdx) {
+         var recentDate = createDateObjCrossBrowser(
+            TimetableTables.allLocations[pastEndIdx][0]);
+         if (dateObjectCompare(recentDate, dateToday) >= 0) {
+            break;
+         }
+      }
+
+      // Make it okay to obtain future-events information.
+      indicesAreValid = true;
+   };
+
+   //////////////////////////////////////////////////////////////
+   // Private functions -- utilities.
    //////////////////////////////////////////////////////////////
    /**
     * Return a date object created from the supplied date
@@ -288,7 +535,7 @@ var TimetableCode = (function () {
 
       var dateRow = createDateObjCrossBrowser(rowData[0]);
       rowElem.appendChild(createSafeCellElement(
-	 generateEntryDateString(dateRow), strikeoutRow));
+         generateEntryDateString(dateRow), strikeoutRow));
       rowElem.appendChild(createSafeCellElement(
          rowData[1], strikeoutRow));
       rowElem.appendChild(createSafeCellElement(
@@ -319,10 +566,9 @@ var TimetableCode = (function () {
 
    /**
     * Returns a table body row object ("tr") consisting of a
-    * single cell containing the provided separator content
-    * (which can be plain text or HTML), enclosed in a box.
-    * @param {string} separatorContent - The separator row's
-    *    content (which may include HTML).
+    * single cell containing the provided separator content,
+    * enclosed in a box.
+    * @param {Node} separatorContent - The separator row content.
     * @return {Element} The generated table row ("tr") object
     *    that is the separator row.
     */
@@ -333,10 +579,10 @@ var TimetableCode = (function () {
       separatorRow.style.borderRight = separatorStyle;
       separatorRow.style.borderTop = separatorStyle;
 
-      var separatorCell = createSafeCellElement(
-         separatorContent);
+      var separatorCell = document.createElement('td');
       separatorCell.colSpan = 3;
       separatorCell.style = 'text-align:left';
+      separatorCell.appendChild(separatorContent);
       separatorRow.appendChild(separatorCell);
 
       return separatorRow;
@@ -354,230 +600,40 @@ var TimetableCode = (function () {
    };
 
    //////////////////////////////////////////////////////////////
-   // Public variables and functions.
+   // Public functions.
    //////////////////////////////////////////////////////////////
 
-   //------------------------------------------------------------
-   // These variables support the generation of events
-   // information.  There are 3:  the next upcoming event, a
-   // "future events" table, and a "past events" table.  The
-   // first is the earliest chronological event occurring on or
-   // after today.  The "future events" table consists of all
-   // events ocurring on or after the start date provided to the
-   // data preprocessor function, preprocessEventsData().  The
-   // "past events" table consists of all events occuring
-   // strictly before the aforementioned start date.
-   //
-   // The following 3 variables are set by the date preprocessor
-   // function, preprocessEventsData().  The first two determine
-   // the following subsets of events:
-   // - 0...pastStartIdx-1 : "past events"
-   // - pastStartIdx...pastEndIdx-1 : "future events" recent past
-   // - pastEndIdx : next upcoming event
-   // - pastEndIdx... : "future events" upcoming
-   my.pastStartIdx = -1;
-   my.pastEndIdx = -1;
-   my.indicesAreValid = false;
-   //------------------------------------------------------------
-
    /**
-    * Process the events in the allLocations array so that
-    * information regarding it can be subsequently generated.
-    * Only events starting on or after the provided start date
-    * will be used.
-    * @param {string} [startDate=TimetableTables.thisQuarterStart] -
-    *    The date the table begins.
+    * Top-level function to process the document (based on its
+    * title -- see below).
+    * @param {string} startDate - the start date passed to
+    *    function preprocessEventsData().
     */
-   my.preprocessEventsData = function (
-         startDate = TimetableTables.thisQuarterStart) {
-      var startDateObj = createDateObjCrossBrowser(startDate);
-      // Determine past (before startDate) events first.  This
-      // sets my.pastStartIdx.
-      for (my.pastStartIdx = 0;
-              my.pastStartIdx < TimetableTables.allLocations.length;
-              ++my.pastStartIdx) {
-         var pastDate = createDateObjCrossBrowser(
-            TimetableTables.allLocations[my.pastStartIdx][0]);
-         if (dateObjectCompare(pastDate, startDateObj) >= 0) {
-            break;
-         }
-      }
-      // Now determine the upcoming events (which also determines
-      // the recent-past events).  This sets my.pastEndIdx.
-      for (my.pastEndIdx = my.pastStartIdx;
-           my.pastEndIdx < TimetableTables.allLocations.length;
-           ++my.pastEndIdx) {
-         var recentDate = createDateObjCrossBrowser(
-            TimetableTables.allLocations[my.pastEndIdx][0]);
-         if (dateObjectCompare(recentDate, dateToday) >= 0) {
-            break;
-         }
-      }
+   my.processDocument = function (startDate) {
+      // All documents start by preprocessing the events data.
+      preprocessEventsData(startDate);
 
-      // Make it okay to obtain future-events information.
-      my.indicesAreValid = true;
-   };
-
-   /**
-    * Create a "future events" table, and append it to the div
-    * element whose ID is provided.  The table will consist of 4
-    * parts:  a header (column labels), upcoming events (starting
-    * from today), a separator row (consisting of the supplied
-    * separator contents), and events of the recent past.  (See
-    * header comments for my.past*Idx for what specific events
-    * are used.)
-    * @param {string} divId - ID of the <div> element to which
-    *    the generated table will be appended.
-    * @param {string} separator - The text/HTML that the
-    *    separator row will contain.
-    */
-   my.appendFutureEventsTable = function (divId, separator) {
-      // The indices must already be set.
-      if (!my.indicesAreValid) {
-         console.log(
-            'preprocessEventsData() was not run before ' +
-            'appendFutureEventsTable() was called.');
-         return;
-      }
-
-      // Create the table's body first.
-      var tableBody = document.createElement('tbody');
-      tableBody.appendChild(generateHeader());
-
-      // Generate table rows.
-      if (my.pastEndIdx == TimetableTables.allLocations.length) {
-         tableBody.appendChild(generateEmptyTableRow(
-            '<p>' + noFuturesMessage + '</p>'));
+      // Determine which function(s) to call based on the
+      // document's title, which update particular <div>s.
+      //
+      // *  Dancebreak - Home
+      //    --  home_textContent_nextEvent
+      //    --  home_textContent_futureEventsTable
+      // *  Dancebreak - Old Locations
+      //    --  oldLocations_textContent_pastEventsTable
+      docTitle = document.title;
+      if (docTitle == 'Dancebreak - Home') {
+         appendNextEventSite('home_textContent_nextEvent');
+         appendFutureEventsTable(
+            'home_textContent_futureEventsTable');
+      } else if (docTitle == 'Dancebreak - Old Locations') {
+         appendPastEventsTable(
+            'oldLocations_textContent_pastEventsTable');
       } else {
-         for (var jj = my.pastEndIdx;
-              jj < TimetableTables.allLocations.length;
-              ++jj) {
-            tableBody.appendChild(
-               generateEntryRow(
-                  TimetableTables.allLocations[jj]));
-         }
-      }
-
-      // Generate middle/separator rows.
-      tableBody.appendChild(generateFutureDatesWarning());
-      tableBody.appendChild(generateSeparatorRow(separator));
-
-      // Note:  strikeout is applied to all (recent) past events
-      // in the future events table.
-      if (my.pastStartIdx < my.pastEndIdx) {
-         // The last row has a different style from the rest.
-         var kkLast = my.pastEndIdx - 1;
-         for (var kk = my.pastStartIdx; kk < kkLast; ++kk) {
-            tableBody.appendChild(
-               generateEntryRow(TimetableTables.allLocations[kk],
-                  true));
-         }
-         // The bottom row is underlined.
-         var bottomRow =
-            generateEntryRow(
-               TimetableTables.allLocations[kkLast],
-               true);
-         bottomRow.style.borderBottom = separatorStyle;
-         tableBody.appendChild(bottomRow);
-      }
-
-      // Create the containing table object.
-      var table = document.createElement('table');
-      table.style.borderCollapse = 'collapse';
-      table.appendChild(tableBody);
-
-      // Append the table to the <div> object.
-      var theDiv = document.getElementById(divId);
-      theDiv.appendChild(table);
-   };
-
-   /**
-    * Create an "upcoming event" string, and append it to the div
-    * element whose ID is provided.  The string will consist of
-    * the location and the date (in parentheses).
-    * @param {string} divId - ID of the <div> element to which
-    *    the generated string will be appended.
-    */
-   my.appendNextEventSite = function (divId) {
-      // The indices must already be set.
-      if (!my.indicesAreValid) {
          console.log(
-            'preprocessEventsData() was not run before ' +
-            'appendNextEventSite() was called.');
-         return;
+            'processDocument() invoked from unkown document, ' +
+            'title: "' + docTitle + '"');
       }
-
-      var nextSite = '<p>Where: ';
-      if (my.pastEndIdx == TimetableTables.allLocations.length) {
-         nextSite += noFuturesMessage;
-      } else {
-         nextSite += TimetableTables.allLocations[my.pastEndIdx][1];
-         var nextDate = createDateObjCrossBrowser(
-            TimetableTables.allLocations[my.pastEndIdx][0]);
-         nextSite +=
-            ' (<em>' + nextDate.getFullYear() + ' ' +
-            monthNames[nextDate.getMonth()] + ' ' +
-            nextDate.getDate() + ', ' +
-            dayNames[nextDate.getDay()] + '</em>)';
-      }
-      nextSite += '</p>';
-
-      var upcomingEventElem = createSafeCellContent(nextSite);
-
-      // Append the table to the <div> object.
-      var theDiv = document.getElementById(divId);
-      theDiv.appendChild(upcomingEventElem);
-   };
-
-   /**
-    * Create a "past events" table, and append it to the div
-    * element whose ID is provided.  The table will consist of 2
-    * parts:  a header (column labels), and past events.  (See
-    * header comments for my.past*Idx for what specific events
-    * are used.)
-    * @param {string} divId - ID of the <div> element to which
-    *    the generated table will be appended.
-    */
-   my.appendPastEventsTable = function (divId) {
-      // The indices must already be set.
-      if (!my.indicesAreValid) {
-         console.log(
-            'preprocessEventsData() was not run before ' +
-            'appendPastEventsTable() was called.');
-         return;
-      }
-
-      // Create the table's body first.
-      var tableBody = document.createElement('tbody');
-      tableBody.appendChild(generateHeader());
-
-      const emptyTableText =
-         '<p><em>No past sessions.</em></p>';
-      if (my.pastStartIdx == 0) {
-         tableBody.appendChild(generateEmptyTableRow(
-             emptyTableText));
-      } else {
-         // The last row has a different style from the rest.
-         for (var jj = my.pastStartIdx - 1; jj > 0; --jj) {
-            tableBody.appendChild(
-               generateEntryRow(
-                  TimetableTables.allLocations[jj]));
-         }
-         // The bottom row is underlined.
-         var bottomRow =
-            generateEntryRow(TimetableTables.allLocations[0]);
-         bottomRow.style.borderBottom = separatorStyle;
-         tableBody.appendChild(bottomRow);
-      }
-
-      // Create the containing table object.
-      var table = document.createElement('table');
-      table.style.borderCollapse = 'collapse';
-      table.appendChild(tableBody);
-
-      // Append the table to the <div> object.
-      var theDiv = document.getElementById(divId);
-      theDiv.appendChild(table);
    };
 
    //////////////////////////////////////////////////////////////
@@ -585,5 +641,19 @@ var TimetableCode = (function () {
    //////////////////////////////////////////////////////////////
    return my;
 }());
+
+//---------------------------------------------------------------
+//---------------------------------------------------------------
+//---------------------------------------------------------------
+
+/////////////////////////////////////////////////////////////////
+// NOTE:  TimetableLoader, which is used to load this (and other)
+// Javascript files, needs to be told when this file has been
+// loaded and processed.  (It is assumed that the various files
+// are loaded and processed asynchronously.)  If the browser has
+// reached this point, then the rest of the file has been
+// processed, and so this file is ready to go.
+TimetableLoader.fileReady(
+   'timetableCode.js', TimetableCode.processDocument);
 
 // End hiding script from old browsers (TO HERE). -->

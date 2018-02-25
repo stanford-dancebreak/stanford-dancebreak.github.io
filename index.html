@@ -11,9 +11,6 @@
     do much more, and all are welcome."  />
 
     <!--#include virtual="includes/stdhead.ssi" -->
-    <script src="timetableTables.js"></script>
-    <script src="timetableCode.js"></script>
-    <script>TimetableCode.preprocessEventsData();</script>
   </head>
 
   <body>
@@ -99,7 +96,7 @@
 
           <p>When: Mondays 9-11pm (<em>during academic year</em>)</p>
 
-          <script>TimetableCode.appendNextEventSite('home_textContent');</script>
+          <p id="home_textContent_nextEvent"></p>
           <noscript><p><span class="red"><strong><em>You must enable Javascript to see the location.</em></strong></span></p></noscript>
 
           <p style="margin-left: 40px"><em>(For all upcoming session times &amp; locations, see the table below!)</em></p>
@@ -161,9 +158,7 @@
 
           <p>&nbsp;</p>
 
-          <script>TimetableCode.appendFutureEventsTable(
-            'home_textContent',
-            '<p><em>Previous locations this quarter:</em></p>');</script>
+          <p id="home_textContent_futureEventsTable"><em>Previous locations this quarter:</em></p>
           <noscript><p><span class="red"><strong><em>You must enable Javascript to view the locations table.</em></strong></span></p></noscript>
 
           <p>&nbsp;</p>
@@ -179,5 +174,24 @@
       </div> <!-- end content -->
       <div class="sidebar2"> <h4>&nbsp;</h4> </div>
     </div> <!-- end containter -->
+
+    <!-- ================================================== -->
+    <!-- Loading and invocation of all Javascript code, to  -->
+    <!-- generate the next event location line ("Where")    -->
+    <!-- and the whole events location table, is isolated   -->
+    <!-- here for two reasons.  (1) This minimizes          -->
+    <!-- pollution of HTML with <script> entries.  (2) The  -->
+    <!-- <p> elements that updatePageEvents() will,         -->
+    <!-- indirectly, update (based on this document's       -->
+    <!-- <title>), guaranteed to have been read in.  Those  -->
+    <!-- <p> elements are:                                  -->
+    <!--      home_textContent_nextEvent                    -->
+    <!--      home_textContent_futureEventsTable            -->
+    <!-- Note:  the contents of the 2nd one are used as-is  -->
+    <!-- in the generated future-events table, as its       -->
+    <!-- "separator" section contents.                      -->
+    <!-- ================================================== -->
+    <script src="timetableLoader.js"></script>
+    <script>TimetableLoader.updatePageEvents();</script>
   </body>
 </html>

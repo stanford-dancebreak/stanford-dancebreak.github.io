@@ -1,12 +1,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-   
+
   <head>
     <title>Dancebreak - Old Locations</title>
     <!--#include virtual="includes/stdhead.ssi" -->
-    <script src="timetableTables.js"></script>
-    <script src="timetableCode.js"></script>
-    <script>TimetableCode.preprocessEventsData();</script>
   </head>
 
   <body>
@@ -18,8 +15,8 @@
           <p><strong>Past Locations</strong></p>
 
           <p>&nbsp;</p>
-          
-          <script>TimetableCode.appendPastEventsTable('oldLocations_textContent');</script>
+
+          <p id="oldLocations_textContent_pastEventsTable"></p>
           <noscript><p><span class="red"><strong><em>You must enable Javascript to view the old locations table.</em></strong></span></p></noscript>
 
           <p>&nbsp;</p>
@@ -28,5 +25,20 @@
       </div> <!-- end content -->
       <div class="sidebar2"> <h4>&nbsp;</h4> </div>
     </div> <!-- end containter -->
+
+    <!-- ================================================== -->
+    <!-- Loading and invocation of all Javascript code, to  -->
+    <!-- generate the next event location line ("Where")    -->
+    <!-- and the whole events location table, is isolated   -->
+    <!-- here for two reasons.  (1) This minimizes          -->
+    <!-- pollution of HTML with <script> entries.  (2) The  -->
+    <!-- <p> element that updatePageEvents() will,          -->
+    <!-- indirectly, update (based on this document's       -->
+    <!-- <title>), guaranteed to have been read in.  The    -->
+    <!-- <p> element is:                                    -->
+    <!--      oldLocations_textContent_pastEventsTable      -->
+    <!-- ================================================== -->
+    <script src="timetableLoader.js"></script>
+    <script>TimetableLoader.updatePageEvents();</script>
   </body>
 </html>
