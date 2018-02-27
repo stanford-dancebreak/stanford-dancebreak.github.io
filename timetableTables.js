@@ -80,6 +80,9 @@ var TimetableTables = (function () {
    const site_RobleGymBigStudio =
       '<a href="http://goo.gl/YelGJQ" ' +
          'target="_blank">Roble Gym</a>, Big Studio/R113';
+   const site_RobleGymNewStudio =
+      '<a href="http://goo.gl/YelGJQ" ' +
+         'target="_blank">Roble Gym</a>, New Studio/R115';
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
    const site_WarnSessionCancelled =
       '<span class="red"><em>Session cancelled</em></span>';
@@ -107,7 +110,7 @@ var TimetableTables = (function () {
          site_WarnSessionCancelled,
          'President\'s Day'
       ],
-      ['2018 Feb 26', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Feb 26', site_RobleGymNewStudio, notes_NONE],
       ['2018 Mar 5', site_RobleGymBigStudio, notes_NONE],
       ['2018 Mar 12', site_RobleGymBigStudio, notes_NONE],
       ['2018 Mar 19', site_RobleGymBigStudio, notes_NONE],
