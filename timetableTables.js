@@ -111,7 +111,7 @@ var TimetableTables = (function () {
          'President\'s Day'
       ],
       ['2018 Feb 26', site_RobleGymNewStudio, notes_NONE],
-      ['2018 Mar 5', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Mar 5', site_RobleGymBigStudio, notes_Warn10pmStartTime],
       ['2018 Mar 12', site_RobleGymBigStudio, notes_NONE],
       ['2018 Mar 19', site_RobleGymBigStudio, notes_NONE],
       ['2018 Mar 26', site_WarnSessionCancelled, notes_BreakSpring]
