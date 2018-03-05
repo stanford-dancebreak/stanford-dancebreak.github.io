@@ -64,6 +64,8 @@ var TimetableTables = (function () {
    const notes_BreakThanksgiving = 'Thanksgiving break';
    const notes_BreakWinter = 'Winter break';
    const notes_FinalsWeek = 'Finals week special:<br>';
+   const notes_HolidayMLK = 'Martin Luther King Jr. Day';
+   const notes_HolidayPresidents = 'President\'s Day';
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
    const notes_ParkingAOERC =
       'Parking: ' + here_RobleFieldGarage + ' or ' +
@@ -83,6 +85,11 @@ var TimetableTables = (function () {
    const site_RobleGymNewStudio =
       '<a href="http://goo.gl/YelGJQ" ' +
          'target="_blank">Roble Gym</a>, New Studio/R115';
+   const site_RobleGymMultiSmallThenBigStudios =
+      '<a href="http://goo.gl/YelGJQ" ' +
+         'target="_blank">Roble Gym</a>, Small Studio/R114' +
+         '<br>&nbsp;&nbsp;&nbsp;<strong><em>THEN</em></strong> &nbsp;&nbsp;' +
+         'Big Studio/R113';
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
    const site_WarnSessionCancelled =
       '<span class="red"><em>Session cancelled</em></span>';
@@ -99,7 +106,7 @@ var TimetableTables = (function () {
       [
          '2018 Jan 15',
          site_WarnSessionCancelled,
-         'Martin Luther King Jr. Day'
+         notes_HolidayMLK
       ],
       ['2018 Jan 22', site_RobleGymBigStudio, notes_Warn10pmStartTime],
       ['2018 Jan 29', site_RobleGymBigStudio, notes_NONE],
@@ -108,10 +115,14 @@ var TimetableTables = (function () {
       [
          '2018 Feb 19',
          site_WarnSessionCancelled,
-         'President\'s Day'
+         notes_HolidayPresidents
       ],
       ['2018 Feb 26', site_RobleGymNewStudio, notes_NONE],
-      ['2018 Mar 5', site_RobleGymBigStudio, notes_Warn10pmStartTime],
+      [
+         '2018 Mar 5',
+         site_RobleGymMultiSmallThenBigStudios,
+         notes_NONE
+      ],
       ['2018 Mar 12', site_RobleGymBigStudio, notes_NONE],
       ['2018 Mar 19', site_RobleGymBigStudio, notes_NONE],
       ['2018 Mar 26', site_WarnSessionCancelled, notes_BreakSpring]
