@@ -124,7 +124,11 @@ var TimetableTables = (function () {
          notes_NONE
       ],
       ['2018 Mar 12', site_RobleGymBigStudio, notes_NONE],
-      ['2018 Mar 19', site_RobleGymBigStudio, notes_NONE],
+      [
+         '2018 Mar 19',
+         site_TBD,
+         notes_FinalsWeek + 'TBD'
+      ],
       ['2018 Mar 26', site_WarnSessionCancelled, notes_BreakSpring]
    ];
    var locations_2017 = [
