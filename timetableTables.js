@@ -59,11 +59,12 @@ var TimetableTables = (function () {
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
    const notes_NONE = '';
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
+   const notes_FinalsWeek = 'Finals week';
    const notes_BreakSpring = 'Spring break';
    const notes_BreakSummer = 'Summer break';
    const notes_BreakThanksgiving = 'Thanksgiving break';
    const notes_BreakWinter = 'Winter break';
-   const notes_FinalsWeek = 'Finals week special:<br>';
+   const notes_FinalsWeekSpecial = 'Finals week special:<br>';
    const notes_HolidayMLK = 'Martin Luther King Jr. Day';
    const notes_HolidayPresidents = 'President\'s Day';
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
@@ -124,11 +125,7 @@ var TimetableTables = (function () {
          notes_NONE
       ],
       ['2018 Mar 12', site_RobleGymBigStudio, notes_NONE],
-      [
-         '2018 Mar 19',
-         site_TBD,
-         notes_FinalsWeek + 'TBD'
-      ],
+      ['2018 Mar 19', site_WarnSessionCancelled, notes_FinalsWeek],
       ['2018 Mar 26', site_WarnSessionCancelled, notes_BreakSpring]
    ];
    var locations_2017 = [
@@ -146,7 +143,7 @@ var TimetableTables = (function () {
       [
          '2017 Dec 12',
          site_RobleGymBigStudio,
-         notes_FinalsWeek + '<span class="red">2-4pm</span>'
+         notes_FinalsWeekSpecial + '<span class="red">2-4pm</span>'
       ],
       ['2017 Dec 17', site_WarnSessionCancelled, notes_BreakWinter],
       ['2017 Dec 24', site_WarnSessionCancelled, notes_BreakWinter]
