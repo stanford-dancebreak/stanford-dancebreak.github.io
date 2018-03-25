@@ -66,6 +66,7 @@ var TimetableTables = (function () {
    const notes_BreakWinter = 'Winter break';
    const notes_FinalsWeekSpecial = 'Finals week special:<br>';
    const notes_HolidayMLK = 'Martin Luther King Jr. Day';
+   const notes_HolidayMemorial = 'Memorial Day';
    const notes_HolidayPresidents = 'President\'s Day';
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
    const notes_ParkingAOERC =
@@ -126,7 +127,18 @@ var TimetableTables = (function () {
       ],
       ['2018 Mar 12', site_RobleGymBigStudio, notes_NONE],
       ['2018 Mar 19', site_WarnSessionCancelled, notes_FinalsWeek],
-      ['2018 Mar 26', site_WarnSessionCancelled, notes_BreakSpring]
+      ['2018 Mar 26', site_WarnSessionCancelled, notes_BreakSpring],
+      ['2018 Apr 2', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Apr 9', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Apr 16', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Apr 23', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Apr 30', site_RobleGymBigStudio, notes_NONE],
+      ['2018 May 7', site_RobleGymBigStudio, notes_NONE],
+      ['2018 May 14', site_RobleGymBigStudio, notes_NONE],
+      ['2018 May 21', site_RobleGymBigStudio, notes_NONE],
+      ['2018 May 28', site_WarnSessionCancelled, notes_HolidayMemorial],
+      ['2018 Jun 4', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Jun 11', site_RobleGymBigStudio, notes_FinalsWeek]
    ];
    var locations_2017 = [
       ['2017 Sep 25', site_RobleGymBigStudio, notes_NONE],
@@ -166,7 +178,12 @@ var TimetableTables = (function () {
    // quarter permits all normal date-related updates to occur in
    // just this file (and, in particular, *not* in index.html and
    // oldLocatios.html).
-   my.thisQuarterStart = '2018 Jan 8'
+   //
+   // NOTE:  for 2018 Spring Quarter, this was set to the start
+   // of Spring Break, as the update occurred before then, and
+   // setting it to the actual start of Spring Quarter would have
+   // eliminated the entry for Spring Break ("cancelled").
+   my.thisQuarterStart = '2018 Mar 26'
    //------------------------------------------------------------
 
    //////////////////////////////////////////////////////////////
