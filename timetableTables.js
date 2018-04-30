@@ -84,14 +84,17 @@ var TimetableTables = (function () {
    const site_RobleGymBigStudio =
       '<a href="http://goo.gl/YelGJQ" ' +
          'target="_blank">Roble Gym</a>, Big Studio/R113';
-   const site_RobleGymNewStudio =
-      '<a href="http://goo.gl/YelGJQ" ' +
-         'target="_blank">Roble Gym</a>, New Studio/R115';
    const site_RobleGymMultiSmallThenBigStudios =
       '<a href="http://goo.gl/YelGJQ" ' +
          'target="_blank">Roble Gym</a>, Small Studio/R114' +
          '<br>&nbsp;&nbsp;&nbsp;<strong><em>THEN</em></strong> &nbsp;&nbsp;' +
          'Big Studio/R113';
+   const site_RobleGymNewStudio =
+      '<a href="http://goo.gl/YelGJQ" ' +
+         'target="_blank">Roble Gym</a>, New Studio/R115';
+   const site_RobleGymSmallStudio =
+      '<a href="http://goo.gl/YelGJQ" ' +
+         'target="_blank">Roble Gym</a>, Small Studio/R114';
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
    const site_WarnSessionCancelled =
       '<span class="red"><em>Session cancelled</em></span>';
@@ -132,7 +135,7 @@ var TimetableTables = (function () {
       ['2018 Apr 9', site_RobleGymBigStudio, notes_NONE],
       ['2018 Apr 16', site_RobleGymBigStudio, notes_NONE],
       ['2018 Apr 23', site_RobleGymBigStudio, notes_NONE],
-      ['2018 Apr 30', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Apr 30', site_RobleGymSmallStudio, notes_NONE],
       ['2018 May 7', site_RobleGymBigStudio, notes_NONE],
       ['2018 May 14', site_RobleGymBigStudio, notes_NONE],
       ['2018 May 21', site_RobleGymBigStudio, notes_NONE],
