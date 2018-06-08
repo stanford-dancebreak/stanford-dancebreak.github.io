@@ -11,8 +11,9 @@
 // array for a new year, be sure to add an entry for it in the
 // "combined" allLocations 2-dimensional array.
 //
-// At the start of each quarter, update thisQuarterStart to the
-// first day of the current quarter.
+// At the start of each quarter, update thisQuarterStart (to the
+// first day of the current quarter) and isSummerQuarter (to
+// either "true" or "false").
 //
 //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
 //
@@ -187,6 +188,18 @@ var TimetableTables = (function () {
    // setting it to the actual start of Spring Quarter would have
    // eliminated the entry for Spring Break ("cancelled").
    my.thisQuarterStart = '2018 Mar 26'
+   //------------------------------------------------------------
+   // Whether it is currently the summer quarter.
+   //
+   // During the regular school year, Dancebreak sessions occur
+   // in Roble Gym, and studio reservations must be made on a
+   // weekly basis -- and are not confirmed until Friday of the
+   // week prior.
+   //
+   // During summer, this doesn't apply:  sessions occur outside
+   // Roble Gym, and reservations are confirmed prior to being
+   // added to the locations_* table.
+   my.isSummerQuarter = false;
    //------------------------------------------------------------
 
    //////////////////////////////////////////////////////////////
