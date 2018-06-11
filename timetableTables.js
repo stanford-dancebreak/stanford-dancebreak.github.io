@@ -54,6 +54,9 @@ var TimetableTables = (function () {
    const here_AOERCLot =
       '<a href="https://goo.gl/maps/eZ6Y9GaEZgF2" ' +
          'target="_blank">here</a>';
+   const here_RainsNorthLot =
+      '<a href="https://goo.gl/maps/o3kgyzRkkv32" ' +
+         'target="_blank">here</a>';
    const here_RobleFieldGarage =
       '<a href="https://goo.gl/maps/8o5T13upVWm" ' +
          'target="_blank">here</a>';
@@ -73,8 +76,12 @@ var TimetableTables = (function () {
    const notes_ParkingAOERC =
       'Parking: ' + here_RobleFieldGarage + ' or ' +
          here_AOERCLot;
+   const notes_ParkingKennedyCommons =
+      'Parking: ' + here_RainsNorthLot;
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
-   const notes_Warn10pmStartTime =
+   const notes_Warn2000To2300 =
+      '<span class="red">8-11pm!</span>';
+   const Notes_Warn2200StartTime =
       '<span class="red">Later start:  10pm!</span>';
    //------------------------------------------------------------
    const site_TBD = 'TBD';
@@ -82,6 +89,9 @@ var TimetableTables = (function () {
    const site_AOERC =
       '<a href="https://goo.gl/maps/niFAbYdB2r82" ' +
          'target="_blank">AOERC</a>, Room 111';
+   const site_KennedyCommons =
+      '<a href="https://goo.gl/maps/vRGsECU8Q8w" ' +
+         'target="_blank">Kennedy Commons</a> Great Room';
    const site_RobleGymBigStudio =
       '<a href="http://goo.gl/YelGJQ" ' +
          'target="_blank">Roble Gym</a>, Big Studio/R113';
@@ -114,10 +124,10 @@ var TimetableTables = (function () {
          site_WarnSessionCancelled,
          notes_HolidayMLK
       ],
-      ['2018 Jan 22', site_RobleGymBigStudio, notes_Warn10pmStartTime],
+      ['2018 Jan 22', site_RobleGymBigStudio, Notes_Warn2200StartTime],
       ['2018 Jan 29', site_RobleGymBigStudio, notes_NONE],
       ['2018 Feb 5', site_AOERC, notes_ParkingAOERC],
-      ['2018 Feb 12', site_RobleGymBigStudio, notes_Warn10pmStartTime],
+      ['2018 Feb 12', site_RobleGymBigStudio, Notes_Warn2200StartTime],
       [
          '2018 Feb 19',
          site_WarnSessionCancelled,
@@ -143,6 +153,10 @@ var TimetableTables = (function () {
       ['2018 May 28', site_WarnSessionCancelled, notes_HolidayMemorial],
       ['2018 Jun 4', site_RobleGymBigStudio, notes_NONE],
       ['2018 Jun 11', site_WarnSessionCancelled, notes_FinalsWeek],
+      [
+         '2018 Jun 25',
+         site_KennedyCommons,
+         notes_Warn2000To2300 + '<br>' + notes_ParkingKennedyCommons]
    ];
    var locations_2017 = [
       ['2017 Sep 25', site_RobleGymBigStudio, notes_NONE],
