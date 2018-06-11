@@ -142,7 +142,7 @@ var TimetableTables = (function () {
       ['2018 May 21', site_RobleGymBigStudio, notes_NONE],
       ['2018 May 28', site_WarnSessionCancelled, notes_HolidayMemorial],
       ['2018 Jun 4', site_RobleGymBigStudio, notes_NONE],
-      ['2018 Jun 11', site_RobleGymBigStudio, notes_FinalsWeek]
+      ['2018 Jun 11', site_WarnSessionCancelled, notes_FinalsWeek],
    ];
    var locations_2017 = [
       ['2017 Sep 25', site_RobleGymBigStudio, notes_NONE],
