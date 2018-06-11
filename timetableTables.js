@@ -201,7 +201,7 @@ var TimetableTables = (function () {
    // of Spring Break, as the update occurred before then, and
    // setting it to the actual start of Spring Quarter would have
    // eliminated the entry for Spring Break ("cancelled").
-   my.thisQuarterStart = '2018 Mar 26'
+   my.thisQuarterStart = '2018 Jun 18'
    //------------------------------------------------------------
    // Whether it is currently the summer quarter.
    //
@@ -213,7 +213,7 @@ var TimetableTables = (function () {
    // During summer, this doesn't apply:  sessions occur outside
    // Roble Gym, and reservations are confirmed prior to being
    // added to the locations_* table.
-   my.isSummerQuarter = false;
+   my.isSummerQuarter = true;
    //------------------------------------------------------------
 
    //////////////////////////////////////////////////////////////
