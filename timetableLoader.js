@@ -214,11 +214,12 @@ var TimetableLoader = (function () {
     * theStartDate as its sole parameter.  The callback is called
     * by this function when all files have been processed -- i.e.
     * everything is ready to go.
-    * Note:  it is not an error for
-    * multiple files to set the callback function, but the loader
-    * cannot guarantee load order because files are loaded in
-    * parallel, plus load times may be affected -- e.g. by
-    * network delays.  However, if the callback function had been
+    * Note:  it is not an error for multiple files to set the
+    * callback function, but because the loader cannot guarantee
+    * load order because files are loaded in parallel, plus load
+    * times may be affected -- e.g. by network delays -- it is
+    * undefined which callback function will ultimately be
+    * registered.  However, if the callback function had been
     * previously set, then a warning message is sent to the
     * browser console indicating this replacement.
     * Note:  if no callback function has been registered, then a
@@ -256,13 +257,6 @@ var TimetableLoader = (function () {
          }
       }
    };
-
-   /**
-    * The callback function invoked when all Javascript files are
-    * loaded *and* processed.
-    * @callback allReadyCallback
-    * @param {string} - The start data of the current events.
-    */
 
    //////////////////////////////////////////////////////////////
    // Export everything above within a class object.
