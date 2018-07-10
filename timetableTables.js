@@ -54,11 +54,17 @@ var TimetableTables = (function () {
    const here_AOERCLot =
       '<a href="https://goo.gl/maps/eZ6Y9GaEZgF2" ' +
          'target="_blank">here</a>';
+   const here_HaciendaCommonsLot =
+      '<a href="http://g.co/maps/ehfkw"' +
+         'target="_blank">here</a>';
    const here_RainsNorthLot =
       '<a href="https://goo.gl/maps/o3kgyzRkkv32" ' +
          'target="_blank">here</a>';
    const here_RobleFieldGarage =
       '<a href="https://goo.gl/maps/8o5T13upVWm" ' +
+         'target="_blank">here</a>';
+   const here_RunningFarmLaneLot =
+      '<a href="https://goo.gl/maps/uRW5zBBRPcM2" ' +
          'target="_blank">here</a>';
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
    const notes_NONE = '';
@@ -76,9 +82,14 @@ var TimetableTables = (function () {
    const notes_ParkingAOERC =
       'Parking: ' + here_RobleFieldGarage + ' or ' +
          here_AOERCLot;
+   const notes_ParkingGCCHavanaRoom =
+      'Parking: ' + here_RunningFarmLaneLot + ' or ' +
+         here_HaciendaCommonsLot;
    const notes_ParkingKennedyCommons =
       'Parking: ' + here_RainsNorthLot;
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
+   const notes_Warn1900To2100 =
+      '<span class="red">7-9pm!</span>';
    const notes_Warn2000To2300 =
       '<span class="red">8-11pm!</span>';
    const Notes_Warn2200StartTime =
@@ -89,6 +100,9 @@ var TimetableTables = (function () {
    const site_AOERC =
       '<a href="https://goo.gl/maps/niFAbYdB2r82" ' +
          'target="_blank">AOERC</a>, Room 111';
+   const site_GCCHavanaRoom =
+      '<a href="https://goo.gl/maps/HuBbgLk1uVy" ' +
+         'target="_blank">GCC</a> Havana Room';
    const site_KennedyCommons =
       '<a href="https://goo.gl/maps/vRGsECU8Q8w" ' +
          'target="_blank">Kennedy Commons</a> Great Room';
@@ -156,7 +170,23 @@ var TimetableTables = (function () {
       [
          '2018 Jun 25',
          site_KennedyCommons,
-         notes_Warn2000To2300 + '<br>' + notes_ParkingKennedyCommons]
+         notes_Warn2000To2300 + '<br>' + notes_ParkingKennedyCommons
+      ],
+      [
+         '2018 Jul 10',
+         site_GCCHavanaRoom,
+         notes_Warn1900To2100 + '<br>' + notes_ParkingGCCHavanaRoom
+      ],
+      [
+         '2018 Jul 21',
+         site_GCCHavanaRoom,
+         notes_Warn1900To2100 + '<br>' + notes_ParkingGCCHavanaRoom
+      ],
+      [
+         '2018 Aug 13',
+         site_GCCHavanaRoom,
+         notes_Warn1900To2100 + '<br>' + notes_ParkingGCCHavanaRoom
+      ]
    ];
    var locations_2017 = [
       ['2017 Sep 25', site_RobleGymBigStudio, notes_NONE],
