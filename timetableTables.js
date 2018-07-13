@@ -186,6 +186,11 @@ var TimetableTables = (function () {
          '2018 Aug 13',
          site_GCCHavanaRoom,
          notes_Warn1900To2100 + '<br>' + notes_ParkingGCCHavanaRoom
+      ],
+      [
+         '2018 Sep 10',
+         site_GCCHavanaRoom,
+         notes_Warn1900To2100 + '<br>' + notes_ParkingGCCHavanaRoom
       ]
    ];
    var locations_2017 = [
