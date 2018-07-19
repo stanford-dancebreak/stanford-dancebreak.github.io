@@ -253,6 +253,9 @@ var TimetableCode = (function () {
             nextDate.getDate() + ', ' +
             dayNames[nextDate.getDay()] + '</em>)';
       }
+      if (dateObjectCompare(nextDate, dateToday) == 0) {
+         nextSite += createTonightText();
+      }
 
       var upcomingEventElem = createSafeCellContent(nextSite);
 
@@ -311,6 +314,16 @@ var TimetableCode = (function () {
          bottomRow.style.borderBottom = separatorStyle;
          tableBody.appendChild(bottomRow);
       }
+   };
+
+   /**
+    * Returns the string "[TONIGHT!]" in strong, emphasized red
+    * text, to empahsize that an event is this evening.
+    * @return {string} Highlighted "TONIGHT" text.
+    */
+   function createTonightText() {
+      return ('&nbsp;&nbsp;' + '<span class="red"><strong><em>' +
+         '[TONIGHT!]' + '</strong></em></span>');
    };
 
    /**
