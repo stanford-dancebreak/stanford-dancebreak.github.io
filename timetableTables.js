@@ -188,6 +188,11 @@ var TimetableTables = (function () {
          notes_Warn1900To2100 + '<br>' + notes_ParkingGCCHavanaRoom
       ],
       [
+         '2018 Aug 27',
+         site_KennedyCommons,
+         notes_Warn2000To2300 + '<br>' + notes_ParkingKennedyCommons
+      ],
+      [
          '2018 Sep 10',
          site_GCCHavanaRoom,
          notes_Warn1900To2100 + '<br>' + notes_ParkingGCCHavanaRoom
