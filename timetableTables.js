@@ -54,6 +54,9 @@ var TimetableTables = (function () {
    const here_AOERCLot =
       '<a href="https://goo.gl/maps/eZ6Y9GaEZgF2" ' +
          'target="_blank">here</a>';
+   const here_EscondidoRoad =
+      '<a href="https://goo.gl/maps/uhCFi56bBbS2" ' +
+         'target="_blank">here</a>';
    const here_HaciendaCommonsLot =
       '<a href="http://g.co/maps/ehfkw"' +
          'target="_blank">here</a>';
@@ -86,7 +89,8 @@ var TimetableTables = (function () {
       'Parking: ' + here_RunningFarmLaneLot + ' or ' +
          here_HaciendaCommonsLot;
    const notes_ParkingKennedyCommons =
-      'Parking: ' + here_RainsNorthLot;
+      'Parking: ' + here_RainsNorthLot + ' or ' +
+         here_EscondidoRoad;
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
    const notes_Warn1900To2100 =
       '<span class="red">7-9pm!</span>';
