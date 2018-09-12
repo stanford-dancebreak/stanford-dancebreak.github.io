@@ -252,9 +252,9 @@ var TimetableCode = (function () {
             monthNames[nextDate.getMonth()] + ' ' +
             nextDate.getDate() + ', ' +
             dayNames[nextDate.getDay()] + '</em>)';
-      }
-      if (dateObjectCompare(nextDate, dateToday) == 0) {
-         nextSite += createTonightText();
+         if (dateObjectCompare(nextDate, dateToday) == 0) {
+            nextSite += createTonightText();
+         }
       }
 
       var upcomingEventElem = createSafeCellContent(nextSite);
