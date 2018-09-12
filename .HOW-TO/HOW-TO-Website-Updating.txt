@@ -1,0 +1,48 @@
+About
+-----
+This How-To documents how to update the website on the Stanford
+webserver.
+
+For making changes, see HOW-TO-Setup-Editing.txt for details.
+
+WARNING:  NEVER EDIT/CHANGE FILES ON THE WEBSERVER!
+
+Updating the Website
+--------------------
+Here is the procedure:
+
+1.  SSH onto rice.
+
+        > ssh [your-sunet-id]@rice.stanford.edu
+
+2.  Go to the website directory.
+
+        > cd /afs/ir/group/dancebreak/WWW
+
+3.  Go into the staging directory.
+
+        > cd staging
+
+4.  Pull the changes into the staging site/directory (you'll need
+    your GitLab credentials).
+
+        > git pull
+
+5.  Check the staging site to make sure everything looks good.
+
+        Browser -> dancebreak.stanford.edu/staging
+
+6.  Go to the main directory, and pull into the main site:
+
+        > cd ..
+        > git pull staging
+
+7.  Check the main site to make sure everything looks good.
+
+        Browswer -> dancebreak.stanford.edu/
+
+8.  Done!
+
+Last updated
+------------
+Wed Sep 12 04:05:33 PDT 2018

@@ -1,0 +1,80 @@
+About
+-----
+This How-To documents how to duplicate this website setup at both
+GitLab and on the Stanford webserver.
+
+Prerequisites Notes
+-------------------
+
+1.  It is assumed that you already have an account on GitLab and
+    that you have already set up your GitLab credentials.  That
+    process is not detailed here, but is well-documented at
+    https://gitlab.com/.
+
+2.  It is assumed that you already have a group directory on the
+    Stanford webserver, and are authorized to log into it.  The
+    process for setting that up (as of 2018 September) is
+    detailed here:
+
+         Browser -> https://uit.stanford.edu/service/web/centralhosting/howto_group
+
+    Note:  this only provides you the long and unwieldly URL,
+    https://web.stanford.edu/group/<group>.  Once you have been
+    granted this, you can then obtain the more compact ("vanity"
+    or "reserved") URL, https://<group>.stanford.edu/, by filing
+    a "proxy" request.  The process for obtaining that is
+    detailed (as of 2018 September) here:
+
+         Browser -> https://uit.stanford.edu/service/vhost
+
+Setting up the Website
+----------------------
+A.  GitLab setup (as of 2018 September).
+
+    1.  Go to https://gitlab.com/ and sign in.
+
+    2.  Create a new group, with a unique name (for example,
+        "stanford-dancebreak").  You'll probably want to make the
+        group "Private" (so that projects can only be viewed by
+        group members, and cannot be publicly searched for).
+
+    3.  Create a new project under the new group (for example,
+        "website").  Use the "Blank project" tab.  (Note:  by
+        default, the new project will be "Private" if the group
+        was set to "Private," above.)
+
+    4.  GitLab provides instructions for populating the new
+        (empty) repository.  Follow the set that matches your
+        situation.  (Most likely, you have a directory of files
+        not already controlled by git, so use the "Existing
+        folder" instructions.)
+
+B.  Stanford webserver setup (as of 2018 September).
+
+    1.  SSH onto rice.
+
+        > ssh [your-sunet-id]@rice.stanford.edu
+
+    2.  Create the website directory (if necessary) and go to it.
+
+        > mkdir -m 0755 /afs/ir.stanford.edu/group/dancebreak/WWW
+        > cd /afs/ir.stanford.edu/group/dancebreak/WWW
+
+    3.  Create the staging and main clones (you'll need your
+        GitLab credentials).
+
+        > git clone git@gitlab.com:stanford-dancebreak/website.git
+        > mv website staging
+        > git clone git@gitlab.com:stanford-dancebreak/website.git
+        > mv staging website
+        > mv website/* website/.* .
+        > rmdir website
+
+    4.  Verify that the "Updating the Website" flow works.  (See
+        HOW-TO-Website-Updating.txt for details.)
+
+    5.  Done!
+
+Last updated
+------------
+Wed Sep 12 04:05:33 PDT 2018

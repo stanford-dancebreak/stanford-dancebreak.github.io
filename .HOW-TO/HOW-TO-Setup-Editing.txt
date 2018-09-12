@@ -1,0 +1,42 @@
+About
+-----
+This How-To documents how to set up your local computer in order
+to make changes to the website repository.
+
+Setup
+-----
+There's not much to do to setup, but here we go:
+
+1.  Pull the repository to your local machine with
+
+        > git clone git@gitlab.com:stanford-dancebreak/website.git
+
+That's it!  Everything is set up for you to edit the repository
+and pages and everything...
+
+Offsite Testing
+---------------
+In order to view these files in your browser, you must first run
+the "OffsiteMake.sh" script:
+
+        > ./OffsiteMake.sh
+
+HTML files will not properly render outside the Stanford
+webserver due to the use of Server Side Include (SSI) files.
+They look like the following:
+
+        <!--#include virtual="includes/stdhead.ssi"-->
+
+The script will create a copy of the files in your temporary
+directory (under "/tmp/dancebreak_website_<username>"), or update
+the ones there, with the HTML files modified to render correctly.
+You can then view the files with your browser at:
+
+        Browser -> file:///tmp/dancebreak_website_<username>/index.html
+
+REMINDER:  RUN THE SCRIPT BEFORE BROWSING IF YOU'VE PULLED DOWN A
+FRESH COPY OR MADE ANY CHANGES!
+
+Last updated
+------------
+Wed Sep 12 04:05:33 PDT 2018
