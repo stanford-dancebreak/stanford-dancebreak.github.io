@@ -11,6 +11,11 @@ There's not much to do to setup, but here we go:
 
         > git clone git@gitlab.com:stanford-dancebreak/website.git
 
+2.  Enable the git style checker script with
+
+        > cd website
+        > ln -s ../../.git_hooks/pre-commit .git/hooks/pre-commit
+
 That's it!  Everything is set up for you to edit the repository
 and pages and everything...
 
