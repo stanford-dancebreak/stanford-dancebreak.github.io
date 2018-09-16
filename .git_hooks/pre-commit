@@ -79,7 +79,8 @@ if [[ $# -gt 0 ]]; then
         FILENAME_CHECK_STYLE="specified"
     fi
 else
-    CHECK_FILES=( $( git diff --cached --name-only ) )
+    # Note:  avoid checking deleted files.
+    CHECK_FILES=( $( git diff --staged --diff-filter=ACMRTUXB --name-only ) )
     FILENAME_CHECK_STYLE="git_diff"
 fi
 
