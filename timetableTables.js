@@ -200,7 +200,27 @@ var TimetableTables = (function () {
          '2018 Sep 10',
          site_GCCHavanaRoom,
          notes_Warn1900To2100 + '<br>' + notes_ParkingGCCHavanaRoom
-      ]
+      ],
+      ['2018 Sep 24', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Oct 1', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Oct 8', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Oct 15', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Oct 22', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Oct 29', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Nov 5', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Nov 12', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Nov 19', site_WarnSessionCancelled, notes_BreakThanksgiving],
+      ['2018 Nov 26', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Dec 3', site_RobleGymBigStudio, notes_NONE],
+      [
+         '2018 Dec 10',
+         site_RobleGymBigStudio,
+         notes_FinalsWeekSpecial +
+            '<span class="red">(Stay tuned!)</span>'
+      ],
+      ['2018 Dec 17', site_WarnSessionCancelled, notes_BreakWinter],
+      ['2018 Dec 24', site_WarnSessionCancelled, notes_BreakWinter],
+      ['2018 Dec 31', site_WarnSessionCancelled, notes_BreakWinter]
    ];
    var locations_2017 = [
       ['2017 Sep 25', site_RobleGymBigStudio, notes_NONE],
@@ -212,15 +232,15 @@ var TimetableTables = (function () {
       ['2017 Nov 6', site_RobleGymBigStudio, notes_NONE],
       ['2017 Nov 13', site_RobleGymBigStudio, notes_NONE],
       ['2017 Nov 20', site_WarnSessionCancelled, notes_BreakThanksgiving],
-      ['2017 Nov 28', site_RobleGymBigStudio, notes_NONE],
+      ['2017 Nov 27', site_RobleGymBigStudio, notes_NONE],
       ['2017 Dec 4', site_RobleGymBigStudio, notes_NONE],
       [
          '2017 Dec 12',
          site_RobleGymBigStudio,
          notes_FinalsWeekSpecial + '<span class="red">2-4pm</span>'
       ],
-      ['2017 Dec 17', site_WarnSessionCancelled, notes_BreakWinter],
-      ['2017 Dec 24', site_WarnSessionCancelled, notes_BreakWinter]
+      ['2017 Dec 18', site_WarnSessionCancelled, notes_BreakWinter],
+      ['2017 Dec 25', site_WarnSessionCancelled, notes_BreakWinter]
    ];
 
    //////////////////////////////////////////////////////////////
@@ -245,7 +265,7 @@ var TimetableTables = (function () {
    // of Spring Break, as the update occurred before then, and
    // setting it to the actual start of Spring Quarter would have
    // eliminated the entry for Spring Break ("cancelled").
-   my.thisQuarterStart = '2018 Jun 18'
+   my.thisQuarterStart = '2018 Sep 24'
    //------------------------------------------------------------
    // Whether it is currently the summer quarter.
    //
