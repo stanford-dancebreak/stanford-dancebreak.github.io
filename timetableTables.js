@@ -207,7 +207,7 @@ var TimetableTables = (function () {
       ['2018 Oct 15', site_RobleGymBigStudio, notes_NONE],
       ['2018 Oct 22', site_RobleGymBigStudio, notes_NONE],
       ['2018 Oct 29', site_RobleGymSmallStudio, notes_NONE],
-      ['2018 Nov 5', site_RobleGymBigStudio, notes_NONE],
+      ['2018 Nov 5', site_RobleGymSmallStudio, notes_NONE],
       ['2018 Nov 12', site_RobleGymBigStudio, notes_NONE],
       ['2018 Nov 19', site_WarnSessionCancelled, notes_BreakThanksgiving],
       ['2018 Nov 26', site_RobleGymBigStudio, notes_NONE],
