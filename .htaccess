@@ -1,0 +1,15 @@
+# Turn rewrite engine on; otherwise, server will not do anything
+# in this file!
+RewriteEngine On
+
+# Provide an exception to the following RewriteRule directive, so
+# that if someone in the future wants to create a .well-known
+# subdirectory, it won't be hidden (and maybe confuse that future
+# website editor).
+RewriteCond %{REQUEST_URI} !^/\.well-known
+# Hide ALL hidden (dot) files and directories (except for the
+# exception created by the RewriteCond directive, above).
+RewriteRule (^\.|/\.) - [F]
+# Hide other, non-hidden files with semi-sensitive information.
+RewriteRule (^OffsiteMake.sh|/OffsiteMake.sh) - [F]
+RewriteRule (^README.txt|/README.txt) - [F]
