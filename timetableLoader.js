@@ -76,7 +76,7 @@
 //
 //     However, the URL supplied for the "src" value must include
 //     a random value (see feature #1, above), which cannot be
-//     generated in a HTML file.  Thus, the loading request must
+//     generated in an HTML file.  Thus, the loading request must
 //     be generated using Javascript.
 //
 //     The usual solution is to inject <script> tags using
@@ -181,7 +181,7 @@ var TimetableLoader = (function () {
     * document body <script> tags for each filename.  The loading
     * occurs when the end of the document body is finally
     * processed.  (The call to this function should thus occur at
-    * the end of the body, for safety.)  In addition, query
+    * the end of the body, for safety.)  In addition, a query
     * string containing a random number (based on the current
     * time) is appended to each filename URL, to force the
     * browser to not use a cached copy.
@@ -208,12 +208,17 @@ var TimetableLoader = (function () {
    };
 
    /**
+    * Define the 'allReadyCallback' callback type, which is the
+    * callback function invoked when all files have been loaded
+    * and processed -- i.e. everything is ready to go.
+    * @callback allReadyCallback
+    * @param {string} startDate - The date the table begins.
+    */
+
+   /**
     * Notify the loader that a file has been loaded and
-    * completely processed.  Optionally set the callback
-    * function, which is of type allReadyCallback and is passed
-    * theStartDate as its sole parameter.  The callback is called
-    * by this function when all files have been processed -- i.e.
-    * everything is ready to go.
+    * completely processed.  Optionally set the "all is ready"
+    * callback function (which is called by this function).
     * Note:  it is not an error for multiple files to set the
     * callback function, but because the loader cannot guarantee
     * load order because files are loaded in parallel, plus load

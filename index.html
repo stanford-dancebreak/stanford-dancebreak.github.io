@@ -229,13 +229,13 @@
     <!-- ================================================== -->
     <!-- Loading and invocation of all Javascript code, to  -->
     <!-- generate the next event location line ("Where")    -->
-    <!-- and the whole events location table, is isolated   -->
+    <!-- and the whole events location table, are isolated  -->
     <!-- here for two reasons.  (1) This minimizes          -->
     <!-- pollution of HTML with <script> entries.  (2) The  -->
     <!-- <p> elements that updatePageEvents() will,         -->
     <!-- indirectly, update (based on this document's       -->
-    <!-- <title>), guaranteed to have been read in.  Those  -->
-    <!-- <p> elements are:                                  -->
+    <!-- <title>) are guaranteed to have been read in.      -->
+    <!-- Those <p> elements are:                            -->
     <!--      home_textContent_nextEvent                    -->
     <!--      home_textContent_futureEventsTable            -->
     <!-- Note:  the contents of the 2nd one are used as-is  -->

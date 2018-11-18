@@ -28,13 +28,12 @@
 
     <!-- ================================================== -->
     <!-- Loading and invocation of all Javascript code, to  -->
-    <!-- generate the next event location line ("Where")    -->
-    <!-- and the whole events location table, is isolated   -->
-    <!-- here for two reasons.  (1) This minimizes          -->
+    <!-- generate the past events location table are        -->
+    <!-- isolated here for two reasons.  (1) This minimizes -->
     <!-- pollution of HTML with <script> entries.  (2) The  -->
     <!-- <p> element that updatePageEvents() will,          -->
     <!-- indirectly, update (based on this document's       -->
-    <!-- <title>), guaranteed to have been read in.  The    -->
+    <!-- <title>) is guaranteed to have been read in.  The  -->
     <!-- <p> element is:                                    -->
     <!--      oldLocations_textContent_pastEventsTable      -->
     <!-- ================================================== -->
