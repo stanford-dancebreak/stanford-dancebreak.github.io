@@ -144,9 +144,9 @@ var TimetableCode = (function () {
     * table, which consists of 4 parts:  a header (column
     * labels), upcoming events (starting from today), a separator
     * row (consisting of the replaced paragraph), and events of
-    * the recent past.  (See header comments for my.past*Idx for
+    * the recent past.  (See header comments for past*Idx for
     * what specific events are used.)
-    * @param {string} paraID - ID of the <p> element where the
+    * @param {string} paraId - ID of the <p> element where the
     *    generated table will be inserted.
     */
    function appendFutureEventsTable(paraId) {
@@ -265,12 +265,12 @@ var TimetableCode = (function () {
    };
 
    /**
-    * Create a "future events" table, and place it in the current
+    * Create a "past events" table, and place it in the current
     * location of the paragraph element whose ID is provided.
     * The table will consist of 2 parts:  a header (column
     * labels), and past events.  (See header comments for
-    * my.past*Idx for what specific events are used.)
-    * @param {string} paraID - ID of the <p> element to be
+    * past*Idx for what specific events are used.)
+    * @param {string} paraId - ID of the <p> element to be
     *    replaced by the generated table.
     */
    function appendPastEventsTable(paraId) {
@@ -314,16 +314,6 @@ var TimetableCode = (function () {
          bottomRow.style.borderBottom = separatorStyle;
          tableBody.appendChild(bottomRow);
       }
-   };
-
-   /**
-    * Returns the string "[TONIGHT!]" in strong, emphasized red
-    * text, to empahsize that an event is this evening.
-    * @return {string} Highlighted "TONIGHT" text.
-    */
-   function createTonightText() {
-      return ('&nbsp;&nbsp;' + '<span class="red"><strong><em>' +
-         '[TONIGHT!]' + '</strong></em></span>');
    };
 
    /**
@@ -435,6 +425,16 @@ var TimetableCode = (function () {
       var cellElem = document.createElement('td');
       cellElem.appendChild(cellContent)
       return cellElem;
+   };
+
+   /**
+    * Returns the string "[TONIGHT!]" in strong, emphasized red
+    * text, to empahsize that an event is this evening.
+    * @return {string} Highlighted "TONIGHT" text.
+    */
+   function createTonightText() {
+      return ('&nbsp;&nbsp;' + '<span class="red"><strong><em>' +
+         '[TONIGHT!]' + '</strong></em></span>');
    };
 
    /**
