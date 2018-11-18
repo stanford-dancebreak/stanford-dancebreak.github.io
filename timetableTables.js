@@ -277,7 +277,7 @@ var TimetableTables = (function () {
    // During summer, this doesn't apply:  sessions occur outside
    // Roble Gym, and reservations are confirmed prior to being
    // added to the locations_* table.
-   my.isSummerQuarter = true;
+   my.isSummerQuarter = false;
    //------------------------------------------------------------
 
    //////////////////////////////////////////////////////////////
