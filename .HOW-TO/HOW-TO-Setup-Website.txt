@@ -70,6 +70,17 @@ B.  Stanford webserver setup (as of 2018 September).
         > mv website/* website/.* .
         > rmdir website
 
+        NOTE (GitLab credentials):  you only need your GitLab
+        username and password here; you will not need any SSH
+        keys.  In fact, you will be prompted for them -- e.g. you
+        should see
+
+            > git pull
+            Username for 'https://gitlab.com': Bob
+            Password for 'https://Bob@gitlab.com':
+
+        NEVER UPLOAD YOUR SSH KEYS TO rice FOR THIS PURPOSE!
+
     4.  Verify that the "Updating the Website" flow works.  (See
         HOW-TO-Website-Updating.txt for details.)
 
