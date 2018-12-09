@@ -92,6 +92,8 @@ var TimetableTables = (function () {
       'Parking: ' + here_RainsNorthLot + ' or ' +
          here_EscondidoRoad;
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
+   const notes_Warn1400To1620 =
+      '<span class="red">2:00-4:20pm!</span>';
    const notes_Warn1900To2100 =
       '<span class="red">7-9pm!</span>';
    const notes_Warn2000To2300 =
@@ -213,10 +215,10 @@ var TimetableTables = (function () {
       ['2018 Nov 26', site_RobleGymBigStudio, notes_NONE],
       ['2018 Dec 3', site_RobleGymBigStudio, notes_NONE],
       [
-         '2018 Dec 10',
+         '2018 Dec 13',
          site_RobleGymBigStudio,
          notes_FinalsWeekSpecial +
-            '<span class="red">(Stay tuned!)</span>'
+            notes_Warn1400To1620
       ],
       ['2018 Dec 17', site_WarnSessionCancelled, notes_BreakWinter],
       ['2018 Dec 24', site_WarnSessionCancelled, notes_BreakWinter],
