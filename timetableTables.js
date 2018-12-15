@@ -98,7 +98,7 @@ var TimetableTables = (function () {
       '<span class="red">7-9pm!</span>';
    const notes_Warn2000To2300 =
       '<span class="red">8-11pm!</span>';
-   const Notes_Warn2200StartTime =
+   const notes_Warn2200StartTime =
       '<span class="red">Later start:  10pm!</span>';
    //------------------------------------------------------------
    const site_TBD = 'TBD';
@@ -136,6 +136,28 @@ var TimetableTables = (function () {
    // used in any and all fields -- for example, "<em>" -- but
    // constructs beyond simple markup tags may not necessarily be
    // supported in all browsers.
+   var locations_2019 = [
+      ['2019 Jan 7', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Jan 14', site_RobleGymBigStudio, notes_NONE],
+      [
+         '2019 Jan 21',
+         site_WarnSessionCancelled,
+         notes_HolidayMLK
+      ],
+      ['2019 Jan 28', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Feb 4', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Feb 11', site_RobleGymBigStudio, notes_NONE],
+      [
+         '2019 Feb 18',
+         site_WarnSessionCancelled,
+         notes_HolidayPresidents
+      ],
+      ['2019 Feb 25', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Mar 4', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Mar 11', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Mar 18', site_WarnSessionCancelled, notes_FinalsWeek],
+      ['2019 Mar 25', site_WarnSessionCancelled, notes_BreakSpring]
+   ];
    var locations_2018 = [
       ['2018 Jan 1', site_WarnSessionCancelled, notes_BreakWinter],
       ['2018 Jan 8', site_RobleGymBigStudio, notes_NONE],
@@ -144,10 +166,10 @@ var TimetableTables = (function () {
          site_WarnSessionCancelled,
          notes_HolidayMLK
       ],
-      ['2018 Jan 22', site_RobleGymBigStudio, Notes_Warn2200StartTime],
+      ['2018 Jan 22', site_RobleGymBigStudio, notes_Warn2200StartTime],
       ['2018 Jan 29', site_RobleGymBigStudio, notes_NONE],
       ['2018 Feb 5', site_AOERC, notes_ParkingAOERC],
-      ['2018 Feb 12', site_RobleGymBigStudio, Notes_Warn2200StartTime],
+      ['2018 Feb 12', site_RobleGymBigStudio, notes_Warn2200StartTime],
       [
          '2018 Feb 19',
          site_WarnSessionCancelled,
@@ -252,7 +274,8 @@ var TimetableTables = (function () {
    //------------------------------------------------------------
    // The combined array of all the other location arrays.
    my.allLocations = locations_2017.concat(
-      locations_2018
+      locations_2018,
+      locations_2019
    );
    //------------------------------------------------------------
    // The start date for the current quarter, used as the default
@@ -267,7 +290,7 @@ var TimetableTables = (function () {
    // of Spring Break, as the update occurred before then, and
    // setting it to the actual start of Spring Quarter would have
    // eliminated the entry for Spring Break ("cancelled").
-   my.thisQuarterStart = '2018 Sep 24'
+   my.thisQuarterStart = '2018 Dec 16'
    //------------------------------------------------------------
    // Whether it is currently the summer quarter.
    //
