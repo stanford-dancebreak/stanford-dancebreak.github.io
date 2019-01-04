@@ -290,7 +290,7 @@ var TimetableTables = (function () {
    // of Spring Break, as the update occurred before then, and
    // setting it to the actual start of Spring Quarter would have
    // eliminated the entry for Spring Break ("cancelled").
-   my.thisQuarterStart = '2018 Dec 16'
+   my.thisQuarterStart = '2019 Jan 7'
    //------------------------------------------------------------
    // Whether it is currently the summer quarter.
    //
