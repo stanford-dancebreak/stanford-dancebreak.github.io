@@ -10,6 +10,11 @@ Detailed Guide
 There are guides to various processes contained under the
 .HOW-TO/ subdirectory:
 
+     *  HOW-TO-Admins-Updating.txt
+
+        How to update admin access to the website (particularly,
+        adding and removing webmasters).
+
      *  HOW-TO-Setup-Editing.txt
 
         Setting up accounts and your computer in order to perform

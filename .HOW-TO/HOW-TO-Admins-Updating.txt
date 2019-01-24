@@ -1,0 +1,176 @@
+About
+-----
+This How-To documents how to update admin access to the website
+on the Stanford webserver -- adding and removing webmasters --
+along with related information.
+
+A description of this process, along with other actions, is (as
+of January 2019) available at:
+
+     https://uit.stanford.edu/service/afs/info/groupperms
+
+Adding a webmaster
+------------------
+1.  SSH onto rice.
+
+        > ssh [your-sunet-id]@rice.stanford.edu
+
+2.  Add the new webmaster's SUNet ID to the Dancebreak PTS Group.
+
+        > pts adduser -user [new-webmaster-sunet-id] -group dancebreak-admins
+
+3.  Verify the addition succeeded.
+
+        > pts mem dancebreak-admins
+
+    You should see the new ID, along with existing ones in the
+    group -- e.g. you should see something like
+
+        > pts mem dancebreak-admins
+        Members of dancebreak-admins (id: -99999) are:
+         bandanabob
+         [new-webmaster-sunet-id]
+         richard
+         tony33
+
+4.  Done!
+
+Removing a webmaster
+--------------------
+1.  SSH onto rice.
+
+        > ssh [your-sunet-id]@rice.stanford.edu
+
+2.  Remove the webmaster's SUNet ID from the Dancebreak PTS Group.
+
+        > pts removeuser -user [old-webmaster-sunet-id] -group dancebreak-admins
+
+    NEVER REMOVE YOUR OWN SUNet ID, OR ELSE YOU WILL NOT BE ABLE
+    TO PERFORM ANY FURTHER UPDATES!
+
+3.  Verify the removal succeeded.
+
+        > pts mem dancebreak-admins
+
+    You should NOT see the old ID; just the remaining ones in the
+    group -- e.g. you should see something like
+
+        > pts mem dancebreak-admins
+        Members of dancebreak-admins (id: -99999) are:
+          bandanabob
+          richard
+          tony33
+
+4.  Done!
+
+Explanations and related directory operations
+---------------------------------------------
+A.  PTS Groups (and ACLs).
+
+    Access to directories in the file system used on Stanford's
+    machines such as rice -- in particular, our website
+    directories -- are controlled via "Access Control Lists," or
+    ACLs.  Whenever new Dancebreak officers are elected, they
+    must be given access to every website directory in order to
+    maintain the website going forward.  (The outgoing officers
+    should be removed as well.)  This is a bit of a hassle.  In
+    addition, the number of entries (e.g. SUNet IDs) in an ACL is
+    usually limited to a relatively small number -- 20 in the
+    case of Stanford's file systems.  (That number is easily
+    exceeded as there are various Stanford admins that must have
+    access to our website, in addition to our own webmasters.)
+
+    A separate mechanism exists, however, that both eliminates
+    the hassle and allows for an unlimited number of entries:
+    Protection Server (or PTS) Groups -- which Stanford IT
+    strongly recommends using.  Individual webmaster SUNet IDs go
+    here, rather than into ACLs, so any number can be added.
+    Plus, the "dancebreak-admins" PTS Group has access to all our
+    website directories, so when someone is added to our Group,
+    they automatically are granted access to all those
+    directories (similarly for when their access is removed) --
+    hassle eliminated!
+
+    The "pts" command is how operations are performed.  You can
+    also verify that our PTS Group has access to any of the
+    website directories (see B, below).
+
+    Note that PTS Groups only addresses access groups, and not
+    any specific directories -- which is why none of the "pts"
+    operations in the sections above referenced any directories.
+    PTS Groups are entries in ACLs, and ACLs are what control
+    authorizations for a given directory.
+
+B.  Checking PTS Group (and ACL) access.
+
+    1.  SSH onto rice.
+
+            > ssh [your-sunet-id]@rice.stanford.edu
+
+    2.  Go to the website directory.
+
+            > cd /afs/ir.stanford.edu/group/dancebreak/WWW
+
+    3.  Check who is in the ACL for the directory:
+
+            > fs la
+
+        You should see a list of groups, along with their access
+        rights -- e.g. you should see something like
+
+            > fs la
+            Access list for . is
+            Normal rights:
+              group-dept-rl-access rl
+              iso_afs_assess rl
+              dancebreak-admins rlidwka
+              system:dept-admin rlidwka
+              system:www-servers l
+              system:administrators rlidwka
+
+        The second string in our "dancebreak-admins" PTS Group
+        shows that we have full rights ("rlidwka").  See C,
+        below, for what these letters mean.
+
+        NOTE:  each directory can have its own, possibly
+        different, set of ACLs.  However, we do not have
+        different ACLs for our website directories.
+
+    4.  Check who is in our admin group:
+
+            > pts mem dancebreak-admins
+
+        You should just see SUNet IDs -- something like
+
+            > pts mem dancebreak-admins
+            Members of dancebreak-admins (id: -99999) are:
+              bandanabob
+              richard
+              tony33
+
+C.  Access rights ("rlidwka").
+
+    The access rights for a given ACL entry is given by the
+    second string of the entry, which consists of one or more of
+    the letters "r," "l," "i," "d," "w," "k," and "a."  The most
+    important one for us is "a."  They mean:
+
+         r : READ the content and query the status of any file in
+             the directory
+         l : LOOKUP files and subdirectories of the directory;
+             examine the directory's ACLs
+         i : INSERT new files and directories into the directory
+         d : DELETE existing files and (empty) subdirectories
+             from the directory
+         w : WRITE to any existing file in the directory
+         k : LOCK a file in the directory (to prevent more than 1
+             person from simultaneously writing to it)
+         a : ADMINISTER the directory (change its ACL)
+
+    More information (as of January 2019) can be found here:
+
+         https://web.stanford.edu/~consult/afsinfo/basic.shtml
+
+Last updated
+------------
+Thu Jan 24 02:55:51 PST 2019
