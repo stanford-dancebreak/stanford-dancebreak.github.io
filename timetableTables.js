@@ -96,10 +96,15 @@ var TimetableTables = (function () {
       '<span class="red">2:00-4:20pm!</span>';
    const notes_Warn1900To2100 =
       '<span class="red">7-9pm!</span>';
+   const notes_Warn2000To2200 =
+      '<span class="red">8-10pm!</span>';
    const notes_Warn2000To2300 =
       '<span class="red">8-11pm!</span>';
    const notes_Warn2200StartTime =
       '<span class="red">Later start:  10pm!</span>';
+   //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
+   const notes_Event_ShimShamWorkshop =
+      '<span class="red">Shim Sham workshop</span>';
    //------------------------------------------------------------
    const site_TBD = 'TBD';
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
@@ -153,7 +158,17 @@ var TimetableTables = (function () {
          notes_HolidayPresidents
       ],
       ['2019 Feb 25', site_RobleGymBigStudio, notes_NONE],
+      [
+         '2019 Mar 3',
+         site_RobleGymSmallStudio,
+         notes_Event_ShimShamWorkshop + '<br>' + notes_Warn2000To2200
+      ],
       ['2019 Mar 4', site_RobleGymBigStudio, notes_NONE],
+      [
+         '2019 Mar 6',
+         site_RobleGymSmallStudio,
+         notes_Event_ShimShamWorkshop
+      ],
       ['2019 Mar 11', site_RobleGymBigStudio, notes_NONE],
       ['2019 Mar 18', site_WarnSessionCancelled, notes_FinalsWeek],
       ['2019 Mar 25', site_WarnSessionCancelled, notes_BreakSpring]
