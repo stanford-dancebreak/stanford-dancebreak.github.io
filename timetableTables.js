@@ -100,6 +100,8 @@ var TimetableTables = (function () {
       '<span class="red">8-10pm!</span>';
    const notes_Warn2000To2300 =
       '<span class="red">8-11pm!</span>';
+   const notes_Warn2100To2300 =
+      '<span class="red">9-11pm!</span>';
    const notes_Warn2200StartTime =
       '<span class="red">Later start:  10pm!</span>';
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
@@ -170,7 +172,11 @@ var TimetableTables = (function () {
          notes_Event_ShimShamWorkshop
       ],
       ['2019 Mar 11', site_RobleGymBigStudio, notes_NONE],
-      ['2019 Mar 18', site_WarnSessionCancelled, notes_FinalsWeek],
+      [
+         '2019 Mar 18',
+         site_GCCHavanaRoom,
+         notes_Warn2100To2300 + '<br>' + notes_ParkingGCCHavanaRoom + '<br>' + notes_FinalsWeek
+      ],
       ['2019 Mar 25', site_WarnSessionCancelled, notes_BreakSpring]
    ];
    var locations_2018 = [
