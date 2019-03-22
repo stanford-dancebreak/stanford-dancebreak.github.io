@@ -177,7 +177,18 @@ var TimetableTables = (function () {
          site_GCCHavanaRoom,
          notes_Warn2100To2300 + '<br>' + notes_ParkingGCCHavanaRoom + '<br>' + notes_FinalsWeek
       ],
-      ['2019 Mar 25', site_WarnSessionCancelled, notes_BreakSpring]
+      ['2019 Mar 25', site_WarnSessionCancelled, notes_BreakSpring],
+      ['2019 Apr 1', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Apr 8', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Apr 15', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Apr 22', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Apr 29', site_RobleGymBigStudio, notes_NONE],
+      ['2019 May 6', site_RobleGymBigStudio, notes_NONE],
+      ['2019 May 13', site_RobleGymBigStudio, notes_NONE],
+      ['2019 May 20', site_RobleGymBigStudio, notes_NONE],
+      ['2019 May 27', site_WarnSessionCancelled, notes_HolidayMemorial],
+      ['2019 Jun 3', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Jun 10', site_WarnSessionCancelled, notes_FinalsWeek]
    ];
    var locations_2018 = [
       ['2018 Jan 1', site_WarnSessionCancelled, notes_BreakWinter],
@@ -311,7 +322,7 @@ var TimetableTables = (function () {
    // of Spring Break, as the update occurred before then, and
    // setting it to the actual start of Spring Quarter would have
    // eliminated the entry for Spring Break ("cancelled").
-   my.thisQuarterStart = '2019 Jan 7'
+   my.thisQuarterStart = '2019 Apr 1'
    //------------------------------------------------------------
    // Whether it is currently the summer quarter.
    //
