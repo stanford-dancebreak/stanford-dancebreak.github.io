@@ -46,5 +46,5 @@ number of (HTML) edits.
 There are uses of Apache Server Side Includes to make the code
 slightly cleaner.
 
-Oh, and even if Bob insists against this, it will make everyone's
-life easier if there's only the master branch.
+NOTE:  to make everyone's life easier, have only the master
+branch.  Do not create or merge in new/side branches.

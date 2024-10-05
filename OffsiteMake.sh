@@ -29,7 +29,6 @@
 # (#include directives, or SSIs), by inserting the specified
 # file's contents inline.
 #
-# Bob Carragher
 # Sat May  2 12:38:50 PDT 2015
 
 # Determine target copy location.

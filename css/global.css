@@ -225,3 +225,131 @@ td.links {
 td.contactUs {
   width: 21%;
 }
+
+/* Classes for the tips page (tipsRunningDancebreak.html) */
+/* Modified version of blue-color bullets: https://www.w3schools.com/cssref/pr_list-style-type.asp */
+ul.tips {
+  list-style: none; /* Remove list bullets. */
+  padding: 0;
+  margin: 0;
+  margin-left: 20px; /* Must be same as for ".textContent p". */
+}
+
+.tips p {
+  margin-left: 30px; /* Must be > "ul.tips" value. */
+}
+
+.tips li:before {
+  /* Preface every tip with "TIP:  " and indent all text. */
+  font-style: italic;
+  font-weight: bold;
+  content: "☛ TIP:  ";
+  padding-right: 8px;
+}
+
+/* Use em-dash bullet points with embedded lists for tips. */
+.tips li ul {
+  list-style: none; /* Remove list bullets. */
+  padding: 0;
+  margin: 0;
+  /* This margin-left value is for the 2nd and subsequent lines
+     of each bullet point.  The margin-left for the first line is
+     given by the sum of this value and the text-indent value for
+     the ".tips li ul li" class, and should result in 30px. */
+  margin-left: 50px;
+}
+.tips li ul li {
+  /* Must be negative of ".textContent p" margin-left value. */
+  text-indent: -20px;
+}
+.tips li ul li:before {
+  content: "―";
+  padding-right: 8px;
+}
+
+/* Classes for the dancing resources page (danceResources.html) */
+/* Span class for verification date format */
+span.verifyDate {
+  font-style: italic;
+}
+span.verifyDate::before {
+  content: "[";
+}
+span.verifyDate::after {
+  content: "]";
+}
+/* Span class for COVID-19 hiatus status */
+span.covid19Hiatus {
+  color: #900;
+}
+span.covid19Hiatus::before {
+  content: " — on COVID-19 hiatus";
+}
+
+/* TEMPORARY classes to help clarify revisions to constitution */
+/* Based on "Tooltip" example: https://www.w3schools.com/css/css_tooltip.asp */
+/* 3 types:  revisionChanged (text was changed between versions),
+   revisionDeleted (old text was deleted and not replaced with
+   new text), and revisionNew (new text was added; old text was
+   not changed). */
+
+/* Changed-revision container */
+.revisionChanged {
+  position: relative;
+  display: inline-block;
+  border-top: 1px dotted red;
+  border-bottom: 1px dotted red;
+  border-left: 1px dotted red;
+  border-right: 1px dotted red;
+}
+
+/* Original version text */
+.revisionChanged .original {
+  visibility: hidden;
+  width: auto;
+  background-color: white;
+  color: green;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+
+  /* Position the original above the new text, left-justified */
+  position: absolute;
+  z-index: 1;
+  bottom: 100%;
+  left: 0%;
+}
+
+/* Create an arrow pointing (downward) to original text */
+.revisionChanged .original::after {
+  content: " ";
+  position: absolute;
+  top: 100%; /* At the bottom of the original text */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: white transparent transparent transparent;
+}
+
+/* Display original version when mouse hovers over container */
+.revisionChanged:hover .original {
+  visibility: visible;
+}
+
+/* Deleted-revision container */
+.revisionDeleted {
+  position: relative;
+  display: inline-block;
+  text-decoration: line-through;
+  text-decoration-color: red;
+  text-decoration-style: double;
+}
+
+/* New-revision container */
+.revisionNew {
+  position: relative;
+  display: inline-block;
+  background-color: #888888;
+  color: blue;
+}

@@ -92,6 +92,12 @@ var TimetableTables = (function () {
       'Parking: ' + here_RainsNorthLot + ' or ' +
          here_EscondidoRoad;
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
+   const notes_Special_Covid19 =
+      '<a href="https://healthalerts.stanford.edu/2020/03/06/online-classes-admit-weekend/" ' +
+         'target="_blank">COVID-19</a>';
+   //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
+   const notes_Warn1300To1620 =
+      '<span class="red">1:00-4:20pm!</span>';
    const notes_Warn1400To1620 =
       '<span class="red">2:00-4:20pm!</span>';
    const notes_Warn1900To2100 =
@@ -104,6 +110,8 @@ var TimetableTables = (function () {
       '<span class="red">9-11pm!</span>';
    const notes_Warn2200StartTime =
       '<span class="red">Later start:  10pm!</span>';
+   const notes_Warn2300StartTime =
+      '<span class="red">Later start:  11pm!</span>';
    //  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
    const notes_Event_ShimShamWorkshop =
       '<span class="red">Shim Sham workshop</span>';
@@ -143,6 +151,32 @@ var TimetableTables = (function () {
    // used in any and all fields -- for example, "<em>" -- but
    // constructs beyond simple markup tags may not necessarily be
    // supported in all browsers.
+   var locations_2020 = [
+      ['2020 Jan 6', site_RobleGymSmallStudio, notes_NONE],
+      ['2020 Jan 13', site_RobleGymSmallStudio, notes_NONE],
+      [
+         '2020 Jan 20',
+         site_WarnSessionCancelled,
+         notes_HolidayMLK
+      ],
+      ['2020 Jan 27', site_RobleGymSmallStudio, notes_NONE],
+      ['2020 Feb 3', site_RobleGymBigStudio, notes_NONE],
+      ['2020 Feb 10', site_RobleGymBigStudio, notes_NONE],
+      [
+         '2020 Feb 17',
+         site_WarnSessionCancelled,
+         notes_HolidayPresidents
+      ],
+      ['2020 Feb 24', site_RobleGymSmallStudio, notes_NONE],
+      ['2020 Mar 2', site_RobleGymSmallStudio, notes_NONE],
+      [
+         '2020 Mar 9',
+         site_WarnSessionCancelled,
+         notes_Special_Covid19
+      ],
+      ['2020 Mar 16', site_WarnSessionCancelled, notes_FinalsWeek],
+      ['2020 Mar 23', site_WarnSessionCancelled, notes_BreakSpring]
+   ];
    var locations_2019 = [
       ['2019 Jan 7', site_RobleGymBigStudio, notes_NONE],
       ['2019 Jan 14', site_RobleGymBigStudio, notes_NONE],
@@ -175,7 +209,8 @@ var TimetableTables = (function () {
       [
          '2019 Mar 18',
          site_GCCHavanaRoom,
-         notes_Warn2100To2300 + '<br>' + notes_ParkingGCCHavanaRoom + '<br>' + notes_FinalsWeek
+         notes_Warn2100To2300 + '<br>' +
+         notes_ParkingGCCHavanaRoom + '<br>' + notes_FinalsWeek
       ],
       ['2019 Mar 25', site_WarnSessionCancelled, notes_BreakSpring],
       ['2019 Apr 1', site_RobleGymBigStudio, notes_NONE],
@@ -183,12 +218,36 @@ var TimetableTables = (function () {
       ['2019 Apr 15', site_RobleGymBigStudio, notes_NONE],
       ['2019 Apr 22', site_RobleGymBigStudio, notes_NONE],
       ['2019 Apr 29', site_RobleGymBigStudio, notes_NONE],
-      ['2019 May 6', site_RobleGymBigStudio, notes_NONE],
+      [
+         '2019 May 6',
+         site_RobleGymMultiSmallThenBigStudios,
+         notes_NONE
+      ],
       ['2019 May 13', site_RobleGymBigStudio, notes_NONE],
       ['2019 May 20', site_RobleGymBigStudio, notes_NONE],
       ['2019 May 27', site_WarnSessionCancelled, notes_HolidayMemorial],
       ['2019 Jun 3', site_RobleGymBigStudio, notes_NONE],
-      ['2019 Jun 10', site_WarnSessionCancelled, notes_FinalsWeek]
+      ['2019 Jun 10', site_WarnSessionCancelled, notes_FinalsWeek],
+      ['2019 Sep 23', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Sep 30', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Oct 7', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Oct 14', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Oct 21', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Oct 28', site_RobleGymSmallStudio, notes_NONE],
+      ['2019 Nov 4', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Nov 11', site_RobleGymBigStudio, notes_Warn2300StartTime],
+      ['2019 Nov 18', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Nov 25', site_WarnSessionCancelled, notes_BreakThanksgiving],
+      ['2019 Dec 2', site_RobleGymBigStudio, notes_NONE],
+      ['2019 Dec 9', site_WarnSessionCancelled, notes_FinalsWeek],
+      [
+         '2019 Dec 11',
+         site_RobleGymBigStudio,
+         notes_FinalsWeekSpecial + notes_Warn1300To1620
+      ],
+      ['2019 Dec 16', site_WarnSessionCancelled, notes_BreakWinter],
+      ['2019 Dec 23', site_WarnSessionCancelled, notes_BreakWinter],
+      ['2019 Dec 30', site_WarnSessionCancelled, notes_BreakWinter]
    ];
    var locations_2018 = [
       ['2018 Jan 1', site_WarnSessionCancelled, notes_BreakWinter],
@@ -271,8 +330,7 @@ var TimetableTables = (function () {
       [
          '2018 Dec 13',
          site_RobleGymBigStudio,
-         notes_FinalsWeekSpecial +
-            notes_Warn1400To1620
+         notes_FinalsWeekSpecial + notes_Warn1400To1620
       ],
       ['2018 Dec 17', site_WarnSessionCancelled, notes_BreakWinter],
       ['2018 Dec 24', site_WarnSessionCancelled, notes_BreakWinter],
@@ -307,7 +365,8 @@ var TimetableTables = (function () {
    // The combined array of all the other location arrays.
    my.allLocations = locations_2017.concat(
       locations_2018,
-      locations_2019
+      locations_2019,
+      locations_2020
    );
    //------------------------------------------------------------
    // The start date for the current quarter, used as the default
@@ -322,7 +381,7 @@ var TimetableTables = (function () {
    // of Spring Break, as the update occurred before then, and
    // setting it to the actual start of Spring Quarter would have
    // eliminated the entry for Spring Break ("cancelled").
-   my.thisQuarterStart = '2019 Apr 1'
+   my.thisQuarterStart = '2020 Sep 14'
    //------------------------------------------------------------
    // Whether it is currently the summer quarter.
    //

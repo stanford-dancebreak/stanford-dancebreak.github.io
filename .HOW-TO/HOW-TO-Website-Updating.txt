@@ -5,11 +5,14 @@ webserver.
 
 For making changes, see HOW-TO-Setup-Editing.txt for details.
 
+To create the website on the Stanford webserver, see
+HOW-TO-Setup-Website.txt for details.
+
 WARNING:  NEVER EDIT/CHANGE FILES ON THE WEBSERVER!
 
 Updating the Website
 --------------------
-Here is the procedure (as of September 2018):
+Here is the procedure (as of November 2019):
 
 1.  SSH onto rice.
 
@@ -19,40 +22,75 @@ Here is the procedure (as of September 2018):
 
         > cd /afs/ir.stanford.edu/group/dancebreak/WWW
 
-3.  Go into the staging directory.
+3.  Delete any existing staging directory.  (There shouldn't be
+    one if all steps in this document are always followed.)
 
-        > cd staging
+        > rm -fr staging
 
-4.  Pull the changes into the staging site/directory (you'll need
-    your GitLab credentials).
+4.  Clone the latest version into a new staging directory (you'll
+    need your GitLab credentials).
 
-        > git pull
+        > git clone https://gitlab.com/stanford-dancebreak/website staging
 
     NOTE (GitLab credentials):  you only need your GitLab
     username and password here; you will not need any SSH keys.
     In fact, you will be prompted for them -- e.g. you should see
 
-        > git pull
-        Username for 'https://gitlab.com': Bob
-        Password for 'https://Bob@gitlab.com':
+        > git clone https://gitlab.com/stanford-dancebreak/website staging
+        Username for 'https://gitlab.com': Tatiana
+        Password for 'https://Tatiana@gitlab.com':
 
     NEVER UPLOAD YOUR SSH KEYS TO rice FOR THIS PURPOSE!
 
-5.  Check the staging site to make sure everything looks good.
+5.  Remove git metadata to prevent leakage of private data, such
+    as email addresses of maintainers.  (Although the .htaccess
+    file is set up to prevent access via the web, this ensures
+    that there is no data to leak.)
+
+        > rm -fr staging/.git*
+
+6.  Check the staging site to make sure everything looks good.
 
         Browser -> dancebreak.stanford.edu/staging
 
-6.  Go to the main directory, and pull into the main site:
+7.  Move the previous contents out of the main site.  WARNING:
+    pay close attention to spaces and punctuation marks in the
+    command -- they are all required!
 
-        > cd ..
-        > git pull staging
+        > mkdir TO_DELETE
+        > mv .* * TO_DELETE
 
-7.  Check the main site to make sure everything looks good.
+   NOTE (warning messages):  you will see warning messages, which
+   you can ignore -- e.g. you should see
+
+        > mv .* * TO_DELETE
+        mv: cannot move '.' to 'TO_DELETE/.': Device or resource busy
+        mv: cannot move '..' to 'TO_DELETE/..': Device or resource busy
+        mv: cannot move 'TO_DELETE' to a subdirectory of itself, 'TO_DELETE/TO_DELETE'
+
+8.  Move the new contents into the main site.  WARNING:  pay
+    close attention to spaces and punctuation marks in the
+    command -- they are all required!
+
+        > mv TO_DELETE/staging/.* TO_DELETE/staging/* .
+
+   NOTE (warning messages):  you will see warning messages, which
+   you can ignore -- e.g. you should see
+
+        > mv TO_DELETE/staging/.* TO_DELETE/staging/* .
+        mv: cannot move 'TO_DELETE/staging/.' to './.': Device or resource busy
+        mv: cannot move 'TO_DELETE/staging/..' to './..': Device or resource busy
+
+9.  Check the main site to make sure everything looks good.
 
         Browser -> dancebreak.stanford.edu/
 
-8.  Done!
+10.  Delete the old contents.
+
+        > rm -fr TO_DELETE
+
+11.  Done!
 
 Last updated
 ------------
-Sun Dec  2 03:54:12 PST 2018
+Fri Nov 22 03:50:46 PST 2019

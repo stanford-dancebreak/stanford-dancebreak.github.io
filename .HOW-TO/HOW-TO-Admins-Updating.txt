@@ -5,9 +5,12 @@ on the Stanford webserver -- adding and removing webmasters --
 along with related information.
 
 A description of this process, along with other actions, is (as
-of January 2019) available at:
+of November 2019) available at:
 
      https://uit.stanford.edu/service/afs/info/groupperms
+
+WARNING:  do NOT edit the git config files.  (It is not
+necessary, and can cause the updating process to fail.)
 
 Adding a webmaster
 ------------------
@@ -28,7 +31,7 @@ Adding a webmaster
 
         > pts mem dancebreak-admins
         Members of dancebreak-admins (id: -99999) are:
-         bandanabob
+         tatiana
          [new-webmaster-sunet-id]
          richard
          tony33
@@ -57,7 +60,7 @@ Removing a webmaster
 
         > pts mem dancebreak-admins
         Members of dancebreak-admins (id: -99999) are:
-          bandanabob
+          tatiana
           richard
           tony33
 
@@ -144,7 +147,7 @@ B.  Checking PTS Group (and ACL) access.
 
             > pts mem dancebreak-admins
             Members of dancebreak-admins (id: -99999) are:
-              bandanabob
+              tatiana
               richard
               tony33
 
@@ -167,10 +170,10 @@ C.  Access rights ("rlidwka").
              person from simultaneously writing to it)
          a : ADMINISTER the directory (change its ACL)
 
-    More information (as of January 2019) can be found here:
+    More information (as of November 2019) can be found here:
 
          https://web.stanford.edu/~consult/afsinfo/basic.shtml
 
 Last updated
 ------------
-Thu Jan 24 02:55:51 PST 2019
+Fri Nov 22 03:50:46 PST 2019

@@ -13,8 +13,8 @@ Prerequisites Notes
 
 2.  It is assumed that you already have a group directory on the
     Stanford webserver, and are authorized to log into it.  The
-    process for setting that up (as of 2018 September) is
-    detailed here:
+    process for setting up that directory (as of November 2019)
+    is detailed here:
 
          Browser -> https://uit.stanford.edu/service/web/centralhosting/howto_group
 
@@ -23,13 +23,13 @@ Prerequisites Notes
     granted this, you can then obtain the more compact ("vanity"
     or "reserved") URL, https://<group>.stanford.edu/, by filing
     a "proxy" request.  The process for obtaining that is
-    detailed (as of 2018 September) here:
+    detailed (as of November 2019) here:
 
          Browser -> https://uit.stanford.edu/service/vhost
 
 Setting up the Website
 ----------------------
-A.  GitLab setup (as of 2018 September).
+A.  GitLab setup (as of November 2019).
 
     1.  Go to https://gitlab.com/ and sign in.
 
@@ -49,7 +49,7 @@ A.  GitLab setup (as of 2018 September).
         not already controlled by git, so use the "Existing
         folder" instructions.)
 
-B.  Stanford webserver setup (as of 2018 September).
+B.  Stanford webserver setup (as of November 2019).
 
     1.  SSH onto rice.
 
@@ -60,32 +60,48 @@ B.  Stanford webserver setup (as of 2018 September).
         > mkdir -m 0755 /afs/ir.stanford.edu/group/dancebreak/WWW
         > cd /afs/ir.stanford.edu/group/dancebreak/WWW
 
-    3.  Create the staging and main clones (you'll need your
-        GitLab credentials).
+    3.  Clone the latest version into the website directory
+        (you'll need your GitLab credentials).
 
-        > git clone git@gitlab.com:stanford-dancebreak/website.git
-        > mv website staging
-        > git clone git@gitlab.com:stanford-dancebreak/website.git
-        > mv staging website
-        > mv website/* website/.* .
-        > rmdir website
+        > git clone https://gitlab.com/stanford-dancebreak/website local
 
         NOTE (GitLab credentials):  you only need your GitLab
         username and password here; you will not need any SSH
         keys.  In fact, you will be prompted for them -- e.g. you
         should see
 
-            > git pull
-            Username for 'https://gitlab.com': Bob
-            Password for 'https://Bob@gitlab.com':
+            > git clone https://gitlab.com/stanford-dancebreak/website local
+            Username for 'https://gitlab.com': Tatiana
+            Password for 'https://Tatiana@gitlab.com':
 
         NEVER UPLOAD YOUR SSH KEYS TO rice FOR THIS PURPOSE!
 
-    4.  Verify that the "Updating the Website" flow works.  (See
-        HOW-TO-Website-Updating.txt for details.)
+    4.  Move the website contents into the main area.  WARNING:
+        pay close attention to spaces and punctuation marks in
+        the command -- they are all required!
 
-    5.  Done!
+        > mv local/.* local/* .
+
+        NOTE (warning messages):  you will see warning messages,
+        which you can ignore -- e.g. you should see
+
+            > mv local/.* local/* .
+            mv: cannot move 'local/.' to './.': Device or resource busy
+            mv: cannot move 'local/..' to './..': Device or resource busy
+
+    5.  Remove git metadata to prevent leakage of private data,
+        such as email addresses of maintainers.  (Although the
+        .htaccess file is set up to prevent access via the web,
+        this ensures that there is no data to leak.)
+
+        > rm -fr ./.git*
+
+    6.  Clean up.
+
+        > rmdir local
+
+    7.  Done!
 
 Last updated
 ------------
-Sun Dec  2 03:54:12 PST 2018
+Fri Nov 22 03:50:46 PST 2019
