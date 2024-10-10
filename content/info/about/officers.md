@@ -2,7 +2,7 @@
 title: Officers
 ---
 
-## Current Officers
+## Current Officers (2024-2025)
 
 Our current leadership team is:
 
@@ -21,7 +21,7 @@ could always use more help!
 | Room Coordinator      | Kelly Chou                           |
 | DJ Coordinator        | Akshay Smit                          |
 | Equipment Manager     | Eddy Hudson                          |
-| Communications        | Ashley Chen and Akshay Srivatsan     |
+| Communications Chairs | Ashley Chen and Akshay Srivatsan     |
 | Workshop Coordinators | Sophia Manukian and Akshay Srivatsan |
 
 

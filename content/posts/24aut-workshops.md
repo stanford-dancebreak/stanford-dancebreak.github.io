@@ -4,7 +4,10 @@ date: 2024-09-23
 ---
 
 We have several workshops planned this quarter, for beginners and experienced
-dancers alike!
+dancers alike!  If you're new, join us for our beginner waltz sequence in
+October.
+
+<!--more-->
 
 ## Beginner Waltz Sequence
 

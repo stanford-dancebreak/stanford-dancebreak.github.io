@@ -1,5 +1,11 @@
 ---
 title: Welcome to Dancebreak!
+description: >
+    Dancebreak is a weekly, free, DJed casual social dancing event for the
+    Stanford community, featuring a variety of dance styles with a focus on
+    waltz and swing! Come hang out with our campus's largest social dancing
+    crew, practice styles taught in Richard Powers's Social Dance class series,
+    learn new moves, and have fun with us.  Beginners always welcome.
 ---
 ![A crowded room full of Stanford students dancing.](images/banner.jpg)
 
@@ -11,12 +17,19 @@ information may be missing or out of date.  We still have a copy of [our old
 
 ## What is Dancebreak?
 
-Dancebreak is a weekly, free, DJed social dance student club!  Join us every
-Monday at ~7pm for social dancing, classes, snacks, and community!  No partner
-or experience needed.
+Dancebreak is a weekly, free, DJed casual social dancing event for the Stanford
+community, featuring a variety of dance styles with a focus on waltz and swing!
+Come hang out with our campus's largest social dancing crew, practice styles
+taught in Richard Powers's Social Dance class series, learn new moves, and have
+fun with us.  No dance experience or partner needed.
+
+We dance every Monday night, usually in Roble 113 7-9 (but this is
+**extremely** subject to change---the best way to keep up is through [our
+mailing list][mail]).  Join us for social dancing, classes, snacks, and
+community!
 
 We do all sorts of social dances, including these (click the links to see
-videos!):
+videos):
 
 | Waltzes/Polkas             | Swing/Club Dances        | Latin Dances         | Line Dances                | Choreographies                  |
 |----------------------------|--------------------------|----------------------|----------------------------|---------------------------------|
@@ -40,8 +53,8 @@ us) and we'll teach you!
 **When:**   Usually 7-9PM on Mondays
 
 **Where:**  In theory Roble Gym, Studio 113... but due to scheduling
-constraints we sometimes meet in other places.  Join [our mailing list][mail] or follow
-us on [Instagram][ig] for up-to-date info!
+constraints we sometimes meet in other places.  Join [our mailing list][mail]
+or follow us on [Instagram][ig] for up-to-date info!
 
 **Cost:** Free!
 

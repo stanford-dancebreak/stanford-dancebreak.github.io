@@ -11,13 +11,13 @@ know of additional resources we can add to this list!
 
 Hear more about upcoming events by subscribing to…
 
-* [**Dancebreak**](https://mailman.stanford.edu/mailman/listinfo/dancebreak):
+* [**Dancebreak**][dancebreak]:
     Weekly, free, DJ’d social dancing and the hub for all things social dance on
     campus!
-* [**Dance News**](https://mailman.stanford.edu/mailman/listinfo/dance-news):
+* [**Dance News**][dance-news]:
     Dance events on the Stanford campus, and dance events sponsored by the
     Stanford Dance Division or its faculty members.
-* [**Local Dance News**](https://mailman.stanford.edu/mailman/listinfo/local-dance-news):
+* [**Local Dance News**][local-dance-news]:
     Announcements of dance events in the Stanford / Palo Alto area.
 
 For more information about social dance and norms on campus, see [Richard
@@ -55,13 +55,13 @@ waltz and swing. Come hang out with our campus’ largest social dancing crew,
 practice styles taught in Richard Powers’ Social Dance class series, learn
 choreographed dances (Bohemian National Polka, Romany Polka, Cross-Step Mixer,
 Bus Stop, Tokyo Polka, etc.), learn new moves, and have fun with us at
-DanceBreak! Additionally, we have intro-courses taught by our members from time
-to time, subscribe to our mailing list to hear about upcoming classes.
-Beginners always welcome :)
+Dancebreak! Additionally, we have intro-courses taught by our members from time
+to time, [subscribe to our mailing list][dancebreak] to hear about upcoming
+classes. Beginners always welcome :)
 
 When/Where: Usually Mondays, 7 - 10 pm in Roble 113 (large gym). Times and
-locations vary – join our mailing list to keep up to date on location, times,
-and classes!
+locations vary – [join our mailing list][dancebreak] to keep up to date on
+location, times, and classes!
 
 Mailing List: https://mailman.stanford.edu/mailman/listinfo/dancebreak
 
@@ -154,7 +154,7 @@ Discord: https://discord.gg/3dUG3HqA2T
 
 Instagram: https://www.instagram.com/stanfordtango 
 
-## Audition-Based Groups
+## Performance Groups (Audition-Based)
 
 The following groups require an audition to join. Auditions are generally
 around the first week of the fall quarter each year. Many of the auditions are
@@ -174,8 +174,11 @@ Website: https://cardinalballet.stanford.edu/
 
 ### Stanford Bhangra
 
-What/When/Where: Tryouts: AOERC 111 Saturday, October 7th 2023, 2:30 – 4:30 pm
-and Sunday, October 8th 2023 1 – 3 pm.
+What: The Stanford Bhangra Team practices and performs bhangra, a traditional
+Punjabi folk dance originating from the Punjab region in Northwestern India.
+The team performs traditional and hip-hop fusion variations, holds on-campus
+workshops, and hosts bhangra parties. Stanford Bhangra also attends
+competitions throughout California and around the nation.
 
 Instagram: https://www.instagram.com/stanfordbhangra/ 
 
@@ -191,8 +194,8 @@ are continually pressing the limits of how smooth, fast, and high we can go!
 
 When/Where: Auditions are held at the start of Fall Quarter (September
 28th-29th, 2024) each year, prefaced by a set of beginner-friendly workshops to
-get dancers up to speed. Keep an eye on DanceBreak and DanceNews mailing lists
-for more information.
+get dancers up to speed. Keep an eye on [Dancebreak][dancebreak] and [Dance
+News][dance-news] mailing lists for more information.
 
 Website: https://swingtime.stanford.edu/ 
 
@@ -217,8 +220,8 @@ from the Bay Area.
 
 When/Where: Auditions are held at the start of Fall Quarter (September
 28th-29th, 2024) each year, prefaced by a set of beginner-friendly workshops to
-get dancers up to speed. Keep an eye on the Dancebreak and Dance News mailing
-lists for more information.
+get dancers up to speed. Keep an eye on the [Dancebreak][dancebreak] and [Dance
+News][dance-news] mailing lists for more information.
 
 Website: https://vienneseball.stanford.edu/
 
@@ -228,7 +231,7 @@ Instagram: https://www.instagram.com/stanfordvienneseball/
 
 YouTube: https://www.youtube.com/@StanfordVienneseBall
 
-## No Audition Required
+## Performance Groups (No Audition Required)
 
 The following groups perform throughout the year, but do not require an
 audition to join!
@@ -274,7 +277,7 @@ Social dance extends off campus too!
 * [StudioM](https://www.studiomballroom.com/events-and-parties.html)
 * [Wednesday Night Hop](https://wednesdaynighthop.com/)
 
-### Bay Area
+### Greater Bay Area
 
 * [East Bay Waltz](https://eastbaywaltz.com/) - Berkeley, Berkeley Finnish Hall
 * [Irish Ceili Folk Dancing](https://www.thestarryplough.com/) - Berkeley, Starry Plough Pub
@@ -287,15 +290,15 @@ Social dance extends off campus too!
 * [Sharky Swing](https://www.sharkyswing.com/) - San Jose, Dance Boulevard
 * [9:20 Special](https://www.920special.com/) - San Francisco, The Russian Center
 
-## Off-Campus Dance Groups
+## Off-Campus Performance Groups
 
 * [Danse Libre](https://danselibre.org/) – vintage dance group with auditions in the fall. Performs at Friday Night Waltz, Viennese Ball, and other events.
 
 ## Balls On Campus
 
 There is at least one major ball on campus per quarter. These balls are
-publicized in the Dance News and Local Dance News mailing lists or on Facebook
-Events!
+publicized in the [Dance News][dance-news] and [Local Dance
+News][local-dance-news] mailing lists or on Facebook Events!
 
 Fall Quarter:
 * Fall Ball
@@ -309,3 +312,7 @@ Spring Quarter:
 
 Recurring:
 * Jammix (must be a current or former social dance series student to attend)
+
+[dancebreak]: https://mailman.stanford.edu/mailman/listinfo/dancebreak:
+[dance-news]: https://mailman.stanford.edu/mailman/listinfo/dance-news:
+[local-dance-news]: https://mailman.stanford.edu/mailman/listinfo/local-dance-news:
