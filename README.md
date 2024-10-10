@@ -5,6 +5,21 @@
 You will need to install [Hugo](https://gohugo.io/), which is available for all
 major operating systems.
 
+This repository uses submodules, so clone it using:
+```
+git clone git@github.com:stanford-dancebreak/stanford-dancebreak.github.io --recurse-submodules
+```
+
+Or clone it normally, then use this command to initialize the submodules:
+```
+git submodule update --init
+```
+
+When you want to pull changes to the submodules, use:
+```
+git pull --recurse-submodules
+```
+
 ## Editing
 
 Run the following command in your Terminal/Command Prompt to start a local server:
