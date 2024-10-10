@@ -65,7 +65,7 @@ role.**
 ## I have too many opps at Dancebreak >:(
 * You ever see one of those playlists on youtube about [waltzing with your enemy](https://www.youtube.com/results?search_query=waltzing+with+your+enemy)? Yeah. That could be you! The enemies to lovers trope has [*never* been more popular](https://www.google.com/search?q=enemies+to+lovers&oq=enemies+to+lovers&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPDIGCAQQLhhA0gEIMjU0MWowajSoAgCwAgE&sourceid=chrome&ie=UTF-8).  
   * In seriousness- you don’t have to accept every invitation to dance. “No” is a complete answer.   
-## I’m someone that really needs to know the exact etiquette of a place before I go out dancing”
+## I’m someone that really needs to know the exact etiquette of a place before I go out dancing.
 * and you’re so real for that! You’re always welcome to reach out with any additional questions about Dancebreak if anything pops up. Richard Powers also has some write-ups on social dance etiquette- feel free to give them a read as well! [https://socialdance.stanford.edu/Syllabi/Dancing.htm](https://socialdance.stanford.edu/Syllabi/Dancing.htm) 
 
 Don’t see your question on this list? Have more questions? Let us know at dancebreak-owner@lists.stanford.edu

@@ -11,44 +11,51 @@ information may be missing or out of date.  We still have a copy of [our old
 
 ## What is Dancebreak?
 
-Dancebreak is a weekly, free, DJ’d social dance student club!  Join us
-every Monday at ~7pm for social dancing, classes, snacks, and community! No
-partner or experience needed.
+Dancebreak is a weekly, free, DJed social dance student club!  Join us every
+Monday at ~7pm for social dancing, classes, snacks, and community!  No partner
+or experience needed.
 
-We do all sorts of social dances, including these (click the links to see videos!):
+We do all sorts of social dances, including these (click the links to see
+videos!):
 
 | Waltzes/Polkas             | Swing/Club Dances        | Latin Dances         | Line Dances                | Choreographies                  |
 |----------------------------|--------------------------|----------------------|----------------------------|---------------------------------|
 | [Rotary Waltz][rotary]     | [West Coast Swing][wcs]  | [Salsa][salsa]       | [Tokyo Polka][tokyo]       | [Cross-Step Mixer][xstep-mixer] |
 | [Cross-Step Waltz][xstep]  | [Lindy Hop][lindy]       | [Cha-Cha][salsa]     | [Bus Stop][bus-stop]       | [Shim Sham][shim-sham]          |
-| Viennese/Fast Waltz        | [Fusion][fusion]         | [Tango][tango]       | Barbie                     | [Bohemian National Polka][bnp]  |
+| Viennese/Fast Waltz        | Fusion                   | [Tango][tango]       | Barbie                     | [Bohemian National Polka][bnp]  |
 | [Polka][polka]             | [Nightclub 2-Step][nc2s] | [Bachata][bachata]   | [Night Fever][night-fever] | [Romany Polka][romany]          |
 | [Schottische][schottische] | [Hustle][hustle]         | [Merengue][merengue] | [Shivers][shivers]         | [Dawn Mazurka][dawn]            |
 
 ## Do I need to know how to dance?
 
 No!  Beginners are always welcome, we love teaching people how to dance.  We
-also have scheduled lessons/workshops for people looking for a bit more
-structure.
+also have [scheduled lessons/workshops](posts/24aut-workshops) for people
+looking for a bit more structure.
+
+We have more info on our [FAQ](info/faq)---but TL;DR, just show up (and talk to
+us) and we'll teach you!
 
 ## When/Where?
 
 **When:**   Usually 7-9PM on Mondays
 
 **Where:**  In theory Roble Gym, Studio 113... but due to scheduling
-constraints we sometimes meet in other places.  Join our mailing list or follow
-us on Instagram for up-to-date info!
+constraints we sometimes meet in other places.  Join [our mailing list][mail] or follow
+us on [Instagram][ig] for up-to-date info!
 
 **Cost:** Free!
 
 ## More Info
 
 We post weekly updates on locations and workshops:
-- [Mailing List](https://mailman.stanford.edu/mailman/listinfo/dancebreak)
-- [Instagram](https://instagram.com/stanforddancebreak)
+- [{{< icon "mail" >}} Mailing List][mail]
+- [{{< icon "instagram" >}} Instagram][ig]
 
 We also have an [info page](info) with lots of information about local dance
 events, our history, and tips for dancing and DJing dance events!
+
+[mail]: https://mailman.stanford.edu/mailman/listinfo/dancebreak
+[ig]: https://instagram.com/stanforddancebreak
 
 [xstep]: https://www.youtube.com/watch?v=Ny5_YnS-lKQ
 [bnp]: https://www.youtube.com/watch?v=ArCZCOpi8SA
@@ -66,7 +73,7 @@ events, our history, and tips for dancing and DJing dance events!
 
 [wcs]: https://www.libraryofdance.org/dances/west-coast-swing
 [lindy]: https://www.libraryofdance.org/dances/lindy-hop
-[fusion]: https://www.libraryofdance.org/dances/blues-fusion
+<!-- [fusion]: https://www.libraryofdance.org/dances/blues -->
 [nc2s]: https://www.libraryofdance.org/dances/club-two-step
 [hustle]: https://www.libraryofdance.org/dances/hustle
 
