@@ -4,7 +4,7 @@ title = 'Stanford Dancebreak'
 theme = 'hextra'
 
 [params]
-editURL = { enable=true, base="https://github.com/stanford-dancebreak/stanford-dancebreak.github.io/edit/main" }
+editURL = { enable=true, base="https://github.com/stanford-dancebreak/stanford-dancebreak.github.io/edit/main/content" }
 
 [params.navbar]
 displayTitle = true
