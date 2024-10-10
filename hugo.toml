@@ -1,0 +1,35 @@
+baseURL = 'https://dancebreak.stanford.edu'
+languageCode = 'en-us'
+title = 'Stanford Dancebreak'
+theme = 'hextra'
+
+[params]
+editURL = { enable=true, base="https://github.com/stanford-dancebreak/stanford-dancebreak.github.io/edit/main" }
+
+[params.navbar]
+displayTitle = true
+displayLogo = false
+
+[[menu.main]]
+name = "Info"
+pageRef = "/info"
+weight = 1
+
+[[menu.main]]
+name = "Announcements"
+pageRef = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Archive"
+pageRef = "/archive"
+weight = 2
+
+[[menu.main]]
+name = "Search"
+params = {type="search"}
+
+[[menu.main]]
+name = "GitHub"
+url = "https://github.com/stanford-dancebreak/stanford-dancebreak.github.io"
+params = {icon="github"}
