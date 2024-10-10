@@ -17,7 +17,7 @@ partner or experience needed.
 
 We do all sorts of social dances, including these (click the links to see videos!):
 
-| Waltzes/Polkas             | Swings                   | Latin Dances         | Line Dances                | Choreographies                  |
+| Waltzes/Polkas             | Swing/Club Dances        | Latin Dances         | Line Dances                | Choreographies                  |
 |----------------------------|--------------------------|----------------------|----------------------------|---------------------------------|
 | [Rotary Waltz][rotary]     | [West Coast Swing][wcs]  | [Salsa][salsa]       | [Tokyo Polka][tokyo]       | [Cross-Step Mixer][xstep-mixer] |
 | [Cross-Step Waltz][xstep]  | [Lindy Hop][lindy]       | [Cha-Cha][salsa]     | [Bus Stop][bus-stop]       | [Shim Sham][shim-sham]          |
@@ -71,7 +71,7 @@ events, our history, and tips for dancing and DJing dance events!
 [hustle]: https://www.libraryofdance.org/dances/hustle
 
 [salsa]: https://www.libraryofdance.org/dances/salsa
-[tango]: https://www.libraryofdance.org/dances/tango
+[tango]: https://www.libraryofdance.org/dances/social-tango
 [bachata]: https://www.libraryofdance.org/dances/bachata
 [merengue]: https://www.libraryofdance.org/dances/merengue
 
