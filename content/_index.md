@@ -9,12 +9,6 @@ description: >
 ---
 ![A crowded room full of Stanford students dancing.](images/banner.jpg)
 
-{{< callout type="warning" >}}
-Welcome to our new website!  We're still porting everything over, so some
-information may be missing or out of date.  We still have a copy of [our old
-(pre-pandemic) website](archive), which may have more information.
-{{< /callout >}}
-
 ## What is Dancebreak?
 
 Dancebreak is a weekly, free, DJed casual social dancing event for the Stanford

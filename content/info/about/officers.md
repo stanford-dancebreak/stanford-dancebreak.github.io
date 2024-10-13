@@ -11,6 +11,7 @@ Our current leadership team is:
 | President         | Jason Kronenfeld |
 | Vice President    | Ashley Chen      |
 | Financial Officer | Donovan Jasper   |
+| Webmaster         | Akshay Srivatsan |
 
 In addition we have many others helping out in various administrative and
 advisory roles.  If you're interested in joining us, please reach out---we
@@ -21,7 +22,6 @@ could always use more help!
 | Room Coordinator      | Kelly Chou                           |
 | DJ Coordinator        | Akshay Smit                          |
 | Equipment Manager     | Eddy Hudson                          |
-| Communications Chairs | Ashley Chen and Akshay Srivatsan     |
 | Workshop Coordinators | Sophia Manukian and Akshay Srivatsan |
 
 
