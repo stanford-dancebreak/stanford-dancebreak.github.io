@@ -17,7 +17,7 @@ Drinking fountains are present in the hallway next to Roble 113 (towards the
 building entrance), and a bottle refilling station is present in the hallway
 towards Roble 115 (away from the building entrance).
 
-### Studio 113 (Big Dance Studio)
+### Studio 113
 
 1. Enter Roble Gym via the main entrance.
 2. Walk through the lobby to the center courtyard.
@@ -95,7 +95,7 @@ building.  Drinking fountains are available in the same hallway.
 This room's A/V system is not generally useable; we use the Dancebreak speaker
 instead.
 
-## Escondido Village Graduate Residences (EVGR)
+## Escondido Village Graduate Residences
 
 An all-gender bathroom and a bottle filling station are located in a passageway
 in EVGR-B, between the central wing and the wing closest to Campus Drive.
@@ -124,3 +124,15 @@ From outside:
 
 This room has a TV with mediocre sound quality (but which has bluetooth). We
 use the Dancebreak speaker instead.
+
+## Rains Houses
+
+### Hacienda Commons
+
+Address: [796 Escondido Rd.](https://maps.app.goo.gl/R5nvePgB2JsrQTzM8)
+
+The main entrances to this room are from the courtyard.
+
+This room has a TV and sound system.  The floor in this room was treated in
+mid-2024 in a way that makes it suboptimal for dance, but it is usable if
+necessary.
