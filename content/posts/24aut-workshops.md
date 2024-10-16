@@ -5,11 +5,45 @@ date: 2024-09-23
 
 We have several workshops planned this quarter, for beginners and experienced
 dancers alike!  If you're new, join us for our beginner waltz sequence and
-waltz office hours in October.
+waltz office hours in October or any of the other beginner lessons throughout
+the quarter.
 
 <!--more-->
 
-## Beginner Waltz Sequence
+## All Workshops
+
+| Week | Date  | Topic                         | Instructors                 | Location                      | Time         |
+|------|-------|-------------------------------|-----------------------------|-------------------------------|--------------|
+| 1    | 9/25  | Viennese Waltz                | Emily and Angelina          | [Rains Hacienda][rains]       | 6:00-9:00 PM |
+| 1    | 9/26  | Polka                         | Josh and Bella              | [GCC Havana][gcc]             | 6:00-9:00 PM |
+| 3    | 10/7  | Beginner Rotary Waltz         | Akshay Srivatsan and Ashley | [GCC Havana][gcc]             | 7:00 PM      |
+| 4    | 10/14 | Office Hours                  | Lots of us!                 | [Roble 113][roble]            | 7:00 PM      |
+| 5    | 10/21 | Beginner Cross-Step Waltz     | Akshay Smit and Shelly      | [Elliott Program Center][epc] | 7:00 PM      |
+| 6    | 10/28 | Intermediate Cross-Step Waltz | Cameron                     | [Elliott Program Center][epc] | 7:00 PM      |
+| 7    | 11/4  | _Beginner Rotary Waltz_       |                             |                               |              |
+| 8    | 11/11 |                               |                             |                               |              |
+| 9    | 11/18 | _Beginner Lindy Hop_          | Maiya                       |                               |              |
+| 🦃   | 11/25 |                               |                             |                               |              |
+| 10   | 12/2  | _Beginner West Coast Swing_   |                             |                               |              |
+
+Information in italics is still tentative.
+
+If you're looking for even more, our friends at [Stanford Swing Dancers][ssd]
+and [Cardinal West Coast Swing][wcs] teach workshops in Lindy Hop and West
+Coast Swing almost every week on campus. [Friday Night Waltz][fnw] also runs
+weekly lessons on various kinds of dance just off-campus.
+
+## Descriptions
+
+### Viennese Ball Audition Workshops (Week 1)
+
+We partner with the [Viennese Ball Opening
+Committee](https://vienneseball.stanford.edu) to run workshops before their
+auditions.
+
+Auditions are 9/28 at 10:00 AM in [Roble 113][roble].
+
+### Beginner Waltz Sequence (Weeks 3-7)
 
 Come learn to Waltz with us!
 * Rotary Waltz is the traditional style of waltz, done since the late 18th
@@ -22,31 +56,18 @@ experienced dancers are welcome as well, of course).  Our "office hours" are an
 informal way to learn to dance, to practice/get feedback, or to hone a
 particular skill.
 
-| Week | Date  | Topic                         | Instructors                 | Location                      | Time    |
-|------|-------|-------------------------------|-----------------------------|-------------------------------|---------|
-| 3    | 10/7  | Beginner Rotary Waltz         | Akshay Srivatsan and Ashley | [GCC Havana][gcc]             | 7:00 PM |
-| 4    | 10/14 | Office Hours                  | Lots of us!                 | [Roble 113][roble]            | 7:00 PM |
-| 5    | 10/21 | Beginner Cross-Step Waltz     | Akshay Smit and Shelly      | [Elliott Program Center][epc] | 7:00 PM |
-| 6    | 10/28 | Intermediate Cross-Step Waltz | Cameron                     | [Elliott Program Center][epc] | 7:00 PM |
+### Swing (Week 9)
 
-See [the locations page](/info/locations) for addresses.
-
-## Viennese Ball Audition Workshops
-
-We partner with the [Viennese Ball Opening
-Committee](https://vienneseball.stanford.edu) to run workshops before their
-auditions.
-
-| Week | Date | Topic          | Instructors        | Location                | Time         |
-|------|------|----------------|--------------------|-------------------------|--------------|
-| 1    | 9/25 | Viennese Waltz | Emily and Angelina | [Rains Hacienda][rains] | 6:00-9:00 PM |
-| 1    | 9/26 | Polka          | Josh and Bella     | [GCC Havana][gcc]       | 6:00-9:00 PM |
-
-Auditions are 9/28 at 10:00 AM in [Roble 113][roble].
+Learn to dance [Lindy Hop][lod-lindy], a popular style of jazz swing dancing
+with an emphasis on improvisation and having fun.  No experience required.
 
 [lod-rotary]: https://open.spotify.com/playlist/4sGCGgIXR28EQL3oOd1GO4
+[lod-lindy]: https://www.libraryofdance.org/dances/lindy-hop/
 [xstep]: https://socialdance.stanford.edu/syllabi/cross-step_waltz.htm
 [epc]: /info/locations/#elliott-program-center
 [roble]: /info/locations/#roble-gym
 [gcc]: /info/locations/#graduate-community-center
 [rains]: /info/locations/#rains-houses
+[ssd]: https://swing.stanford.edu
+[wcs]: https://www.facebook.com/cardinalswing/
+[fnw]: http://fridaynightwaltz.com/

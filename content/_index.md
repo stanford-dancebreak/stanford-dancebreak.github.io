@@ -17,7 +17,7 @@ Come hang out with our campus's largest social dancing crew, practice styles
 taught in Richard Powers's Social Dance class series, learn new moves, and have
 fun with us.  No dance experience or partner needed.
 
-We dance every Monday night, usually in Roble 113 7-9 (but this is
+We dance every Monday night, usually in Roble 113 7-9pm (but this is
 **extremely** subject to change---the best way to keep up is through [our
 mailing list][mail]).  Join us for social dancing, classes, snacks, and
 community!
@@ -39,16 +39,16 @@ No!  Beginners are always welcome, we love teaching people how to dance.  We
 also have [scheduled lessons/workshops](posts/24aut-workshops) for people
 looking for a bit more structure.
 
-We have more info on our [FAQ](info/faq)---but TL;DR, just show up (and talk to
+We have more info in our [FAQ](info/faq)---but TL;DR, just show up (and talk to
 us) and we'll teach you!
 
 ## When/Where?
 
-**When:**   Usually 7-9PM on Mondays
+**When:**   Usually 7-9PM on Mondays.
 
-**Where:**  In theory Roble Gym, Studio 113... but due to scheduling
-constraints we sometimes meet in other places.  Join [our mailing list][mail]
-or follow us on [Instagram][ig] for up-to-date info!
+**Where:**  In theory Roble Gym, Studio 113... but this is subject to change.
+Join [our mailing list][mail] or follow us on [Instagram][ig] for up-to-date
+info!
 
 **Cost:** Free!
 
