@@ -22,6 +22,24 @@ We dance every Monday night, usually in Roble 113 7-9pm (but this is
 mailing list][mail]).  Join us for social dancing, classes, snacks, and
 community!
 
+{{< callout type="info" >}}
+See our [events](posts/24aut-events) and [workshops](posts/24aut-workshops)
+for Autumn 2024!
+{{< /callout >}}
+
+## More Info
+
+{{< cards >}}
+{{< card link="posts/24aut-events" icon="calendar" title="Event Calendar (Fall 2024)" subtitle="Locations, times, etc." >}}
+{{< card link="posts/24aut-workshops" icon="academic-cap" title="Workshop Calendar (Fall 2024)" subtitle="Learn how to dance, develop new skills, or just come help our new members learn." >}}
+{{< card link="https://mailman.stanford.edu/mailman/listinfo/dancebreak" icon="mail" title="Mailing List" subtitle="Get weekly updates about locations and events." >}}
+{{< card link="https://instagram.com/stanforddancebreak" icon="instagram" title="Instagram" subtitle="Photos from Dancebreak (and updates).">}}
+{{< card link="info/faq" icon="question-mark-circle" title="Frequently Asked Questions" subtitle="First time social dancing? Find out more here." >}}
+{{< card link="info" icon="information-circle" title="Club Information" subtitle="Learn more about Dancebreak!" >}}
+{{< /cards >}}
+
+## Dances
+
 We do all sorts of social dances, including these (click the links to see
 videos):
 
@@ -32,34 +50,6 @@ videos):
 | Viennese/Fast Waltz        | Fusion                   | [Tango][tango]       | Barbie                     | [Bohemian National Polka][bnp]  |
 | [Polka][polka]             | [Nightclub 2-Step][nc2s] | [Bachata][bachata]   | [Night Fever][night-fever] | [Romany Polka][romany]          |
 | [Schottische][schottische] | [Hustle][hustle]         | [Merengue][merengue] | [Shivers][shivers]         | [Dawn Mazurka][dawn]            |
-
-## Do I need to know how to dance?
-
-No!  Beginners are always welcome, we love teaching people how to dance.  We
-also have [scheduled lessons/workshops](posts/24aut-workshops) for people
-looking for a bit more structure.
-
-We have more info in our [FAQ](info/faq)---but TL;DR, just show up (and talk to
-us) and we'll teach you!
-
-## When/Where?
-
-**When:**   Usually 7-9PM on Mondays.
-
-**Where:**  In theory Roble Gym, Studio 113... but this is subject to change.
-Join [our mailing list][mail] or follow us on [Instagram][ig] for up-to-date
-info!
-
-**Cost:** Free!
-
-## More Info
-
-We post weekly updates on locations and workshops:
-- [{{< icon "mail" >}} Mailing List][mail]
-- [{{< icon "instagram" >}} Instagram][ig]
-
-We also have an [info page](info) with lots of information about local dance
-events, our history, and tips for dancing and DJing dance events!
 
 [mail]: https://mailman.stanford.edu/mailman/listinfo/dancebreak
 [ig]: https://instagram.com/stanforddancebreak

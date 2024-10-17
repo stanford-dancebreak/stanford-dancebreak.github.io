@@ -12,19 +12,18 @@ the quarter.
 
 ## All Workshops
 
-| Week | Date  | Topic                         | Instructors                 | Location                      | Time         |
-|------|-------|-------------------------------|-----------------------------|-------------------------------|--------------|
-| 1    | 9/25  | Viennese Waltz                | Emily and Angelina          | [Rains Hacienda][rains]       | 6:00-9:00 PM |
-| 1    | 9/26  | Polka                         | Josh and Bella              | [GCC Havana][gcc]             | 6:00-9:00 PM |
-| 3    | 10/7  | Beginner Rotary Waltz         | Akshay Srivatsan and Ashley | [GCC Havana][gcc]             | 7:00 PM      |
-| 4    | 10/14 | Office Hours                  | Lots of us!                 | [Roble 113][roble]            | 7:00 PM      |
-| 5    | 10/21 | Beginner Cross-Step Waltz     | Akshay Smit and Shelly      | [Elliott Program Center][epc] | 7:00 PM      |
-| 6    | 10/28 | Intermediate Cross-Step Waltz | Cameron                     | [Elliott Program Center][epc] | 7:00 PM      |
-| 7    | 11/4  | _Beginner Rotary Waltz_       |                             |                               |              |
-| 8    | 11/11 |                               |                             |                               |              |
-| 9    | 11/18 | _Beginner Lindy Hop_          | Maiya                       |                               |              |
-| 🦃   | 11/25 |                               |                             |                               |              |
-| 10   | 12/2  | _Beginner West Coast Swing_   |                             |                               |              |
+| Week | Date  | Topic                         | Instructors                 | Location                      | Time |
+|------|-------|-------------------------------|-----------------------------|-------------------------------|------|
+| 1    | 9/25  | Viennese Waltz                | Emily and Angelina          | [Rains Hacienda][rains]       | 6-9  |
+| 1    | 9/26  | Polka                         | Josh and Bella              | [GCC Havana][gcc]             | 6-9  |
+| 3    | 10/7  | Beginner Rotary Waltz         | Akshay Srivatsan and Ashley | [GCC Havana][gcc]             | 7-8  |
+| 4    | 10/14 | Office Hours                  |                             | [Roble 113][roble]            | 7-8  |
+| 5    | 10/21 | Beginner Cross-Step Waltz     | Akshay Smit and Shelly      | [Elliott Program Center][epc] | 7-8  |
+| 6    | 10/28 | Intermediate Cross-Step Waltz | Cameron                     | [Elliott Program Center][epc] | 7-8  |
+| 7    | 11/4  | Beginner Rotary Waltz         | Sophia                      | [Roble 113][roble]            | 7-8  |
+| 8    | 11/11 | Polonaise                     | Michał                      | [Roble 113][roble]            | 7-8  |
+| 9    | 11/18 | _Beginner Lindy Hop_          | Maiya                       |                               |      |
+| 10   | 12/2  | _Beginner West Coast Swing_   |                             |                               |      |
 
 Information in italics is still tentative.
 
@@ -55,6 +54,11 @@ Our beginner workshops assume no dance experience of any sort (although
 experienced dancers are welcome as well, of course).  Our "office hours" are an
 informal way to learn to dance, to practice/get feedback, or to hone a
 particular skill.
+
+### Polonaise (Week 8)
+
+Celebrate Polish Independence Day by learning one of the historic national
+dances of Poland, the Polonaise.  No experience required.
 
 ### Swing (Week 9)
 

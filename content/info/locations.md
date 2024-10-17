@@ -2,7 +2,7 @@
 title: Locations
 ---
 
-We have Dancebreak in a few different locations around campus, depending on
+Dancebreak happens in a few different locations around campus, depending on
 when/where we can get room bookings.
 
 ## Roble Gym
@@ -29,6 +29,9 @@ acceptable.
 
 This room has an excellent sound system.  It also has a TV.
 
+This is the largest (and best) dance studio on campus, but also the most
+in-demand.
+
 ### Studio 115
 
 1. Enter Roble Gym via the main entrance.
@@ -54,7 +57,8 @@ acceptable.
 This studio has a sprung wood floor.  Per building policy, no street shoes are
 allowed in the studio; clean dance shoes, socks, or bare feet are acceptable.
 
-This room has a good sound system, but no TV.
+This room has a good sound system, but no TV.  It is suitable for stationary
+and slotted dances, but it's too small for traveling ones.
 
 ## Graduate Community Center
 
@@ -92,7 +96,7 @@ building.  Drinking fountains are available in the same hallway.
 3. Enter through through the doors facing the patio, on the wall parallel to
    the lake.
 
-This room's A/V system is not generally useable; we use the Dancebreak speaker
+This room's A/V system is not generally usable; we use the Dancebreak speaker
 instead.
 
 ## Escondido Village Graduate Residences
