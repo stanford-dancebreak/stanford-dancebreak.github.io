@@ -10,6 +10,8 @@ the quarter.
 
 <!--more-->
 
+Last updated: {{< LastMod >}}
+
 ## All Workshops
 
 | Week | Date  | Topic                         | Instructors                 | Location                      | Time |
@@ -18,12 +20,11 @@ the quarter.
 | 1    | 9/26  | Polka                         | Josh and Bella              | [GCC Havana][gcc]             | 6-9  |
 | 3    | 10/7  | Beginner Rotary Waltz         | Akshay Srivatsan and Ashley | [GCC Havana][gcc]             | 7-8  |
 | 4    | 10/14 | Office Hours                  |                             | [Roble 113][roble]            | 7-8  |
-| 5    | 10/21 | Beginner Cross-Step Waltz     | Akshay Smit and Shelly      | [Elliott Program Center][epc] | 7-8  |
+| 5    | 10/21 | Beginner Cross-Step Waltz     | Shelly and Akshay Smit      | [Elliott Program Center][epc] | 7-8  |
 | 6    | 10/28 | Intermediate Cross-Step Waltz | Cameron                     | [Elliott Program Center][epc] | 7-8  |
-| 7    | 11/4  | Beginner Rotary Waltz         | Sophia                      | [Roble 113][roble]            | 7-8  |
+| 7    | 11/4  | Beginner Rotary Waltz         | Sophia and Jason            | [Roble 113][roble]            | 7-8  |
 | 8    | 11/11 | Polonaise                     | Michał                      | [Roble 113][roble]            | 7-8  |
-| 9    | 11/18 | _Beginner Lindy Hop_          | Maiya                       |                               |      |
-| 10   | 12/2  | _Beginner West Coast Swing_   |                             |                               |      |
+| 9    | 11/18 | Beginner Lindy Hop            | Maiya                       |                               |      |
 
 Information in italics is still tentative.
 

@@ -8,13 +8,15 @@ week-by-week basis depending on room availability.
 
 <!--more-->
 
+Last updated: {{< LastMod >}}
+
 ## Dancebreak
 
 In general, three hour timeslots indicate [a lesson/workshop](../24aut-workshops)
 in the first hour.
 
-| Week | Date  | DJ                          | Location                      | Time     | Theme       |
-|------|-------|-----------------------------|-------------------------------|----------|-------------|
+| Week | Date  | DJ                          | Location                      | Time  | Theme       |
+|------|-------|-----------------------------|-------------------------------|-------|-------------|
 | 1    | 9/23  | Jason                       | [EVGR-B140][evgr]             | 7-11  |             |
 | 2    | 9/30  | Sophia and Akshay Srivatsan | [Roble 113][roble]            | 7-9   | Broadway    |
 | 3    | 10/7  | Audrey                      | [GCC Havana][gcc]             | 7-10  |             |

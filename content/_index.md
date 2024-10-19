@@ -27,6 +27,17 @@ See our [events](posts/24aut-events) and [workshops](posts/24aut-workshops)
 for Autumn 2024!
 {{< /callout >}}
 
+## Upcoming Events
+
+Last updated: {{< LastMod >}}
+
+| Date  | Location           | Time    | Notes                                        |
+|-------|--------------------|---------|----------------------------------------------|
+| 10/21 | [EPC][epc]         | 8-10 PM | Beginner Cross-Step Waltz Lesson at 7 PM     |
+| 10/28 | [EPC][epc]         | 8-10 PM | Intermediate Cross-Step Waltz Lesson at 7 PM |
+| 11/4  | [Roble 113][roble] | 8-10 PM | Beginner Rotary Waltz Lesson at 7 PM         |
+| 11/11 | [Roble 113][roble] | 8-10 PM | Beginner Polonaise Lesson at 7 PM            |
+
 ## More Info
 
 {{< cards >}}
@@ -81,3 +92,10 @@ videos):
 
 [shivers]: https://www.youtube.com/watch?v=1WdGuYeV-Cc
 [night-fever]: https://www.youtube.com/watch?v=FWpSbEbmdJs
+
+[epc]: /info/locations/#elliott-program-center
+[roble]: /info/locations/#roble-gym
+[gcc]: /info/locations/#graduate-community-center
+[evgr]: /info/locations/#escondido-village-graduate-residences
+[ssd]: https://swing.stanford.edu
+[wcs]: https://www.facebook.com/cardinalswing/

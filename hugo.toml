@@ -2,6 +2,7 @@ baseURL = 'https://dancebreak.stanford.edu'
 languageCode = 'en-us'
 title = 'Stanford Dancebreak'
 theme = 'hextra'
+enableGitInfo = true
 
 [params]
 editURL = { enable=true, base="https://github.com/stanford-dancebreak/stanford-dancebreak.github.io/edit/main/content" }
