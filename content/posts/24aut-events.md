@@ -48,11 +48,11 @@ other on-campus social dance events you want us to list here, let us know!
 
 These performance groups do styles of dance we often do at Dancebreak.
 
-| Date  | Group                    | Dance Styles     | Location           | Time        |
-|-------|--------------------------|------------------|--------------------|-------------|
-| 9/28  | [Viennese Ball][opening] | Waltz and Polka  | [Roble 113][roble] | 10 AM-12 PM |
-| 9/28  | [Swingtime][swingtime]   | Lindy Hop        | [Roble 113][roble] | 2-5 PM      |
-| 10/26 | [Cardinal Swing][wcs]    | West Coast Swing |                    |             |
+| Date  | Group                                                                        | Dance Styles     | Location           | Time         |
+|-------|------------------------------------------------------------------------------|------------------|--------------------|--------------|
+| 9/28  | [Viennese Ball][opening]                                                     | Waltz and Polka  | [Roble 113][roble] | 10 AM-12 PM  |
+| 9/28  | [Swingtime][swingtime]                                                       | Lindy Hop        | [Roble 113][roble] | 2-5 PM       |
+| 10/26 | [Cardinal Swing][wcs] ([register here](https://forms.gle/tZ11Qi6BKgqB6EUm7)) | West Coast Swing | [EVGR-C][evgr]     | 2:30-4:30 PM |
 
 
 [epc]: /info/locations/#elliott-program-center
