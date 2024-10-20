@@ -31,18 +31,29 @@ in the first hour.
 
 Information in italics is still tentative.
 
-## Other Events
+## Other Socials
 
 These events aren't run by Dancebreak, but may be of interest.  If you have
 other on-campus social dance events you want us to list here, let us know!
 
-| Week | Date  | Name            | Organizers                           | Dance Styles  | Location           | Time          |
-|------|-------|-----------------|--------------------------------------|---------------|--------------------|---------------|
-| 2    | 10/5  | Sugar High      | [Stanford Swing Dancers][ssd]        | Lindy         | [EPC][epc]         | 7:00-11:00 PM |
-| 4    | 10/18 | Jammix          | Richard Powers                       | Various       | [Roble 113][roble] | 9:00-11:59 PM |
-| 7    | 11/2  | East Meets West | [SSD][ssd] and [Cardinal Swing][wcs] | Lindy and WCS |                    | 7:00-10:00 PM |
-| 8    | 11/8  | Fall Ball       | Richard Powers                       | Various       | [Roble 113][roble] | 8:30-11:59 PM |
-| 10   | 12/6  | Jammix          | Richard Powers                       | Various       | [Roble 113][roble] | 9:00-11:59 PM |
+| Date  | Name            | Organizers                           | Dance Styles  | Location           | Time       |
+|-------|-----------------|--------------------------------------|---------------|--------------------|------------|
+| 10/5  | Sugar High      | [Stanford Swing Dancers][ssd]        | Lindy         | [EPC][epc]         | 7-11 PM    |
+| 10/18 | Jammix          | Richard Powers                       | Various       | [Roble 113][roble] | 9 PM-12 AM |
+| 11/2  | East Meets West | [SSD][ssd] and [Cardinal Swing][wcs] | Lindy and WCS |                    | 7-10 PM    |
+| 11/8  | Fall Ball       | Richard Powers                       | Various       | [Roble 113][roble] | 8:30-12 AM |
+| 12/6  | Jammix          | Richard Powers                       | Various       | [Roble 113][roble] | 9 PM-12 AM |
+
+## Auditions
+
+These performance groups do styles of dance we often do at Dancebreak.
+
+| Date  | Group                    | Dance Styles     | Location           | Time        |
+|-------|--------------------------|------------------|--------------------|-------------|
+| 9/28  | [Viennese Ball][opening] | Waltz and Polka  | [Roble 113][roble] | 10 AM-12 PM |
+| 9/28  | [Swingtime][swingtime]   | Lindy Hop        | [Roble 113][roble] | 2-5 PM      |
+| 10/26 | [Cardinal Swing][wcs]    | West Coast Swing |                    |             |
+
 
 [epc]: /info/locations/#elliott-program-center
 [roble]: /info/locations/#roble-gym
@@ -50,3 +61,5 @@ other on-campus social dance events you want us to list here, let us know!
 [evgr]: /info/locations/#escondido-village-graduate-residences
 [ssd]: https://swing.stanford.edu
 [wcs]: https://www.facebook.com/cardinalswing/
+[opening]: https://vienneseball.stanford.edu/
+[swingtime]: https://swingtime.stanford.edu/

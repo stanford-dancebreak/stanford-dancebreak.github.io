@@ -12,19 +12,29 @@ displayTitle = true
 displayLogo = false
 
 [[menu.main]]
-name = "Info"
-pageRef = "/info"
+name = "Events"
+pageRef = "/posts/24aut-events"
 weight = 1
 
 [[menu.main]]
-name = "Announcements"
-pageRef = "/posts"
+name = "Workshops"
+pageRef = "/posts/24aut-workshops"
+weight = 1
+
+[[menu.main]]
+name = "Info"
+pageRef = "/info"
 weight = 2
+
+# [[menu.main]]
+# name = "Announcements"
+# pageRef = "/posts"
+# weight = 3
 
 [[menu.main]]
 name = "Archive"
 pageRef = "/archive"
-weight = 2
+weight = 4
 
 [[menu.main]]
 name = "Search"

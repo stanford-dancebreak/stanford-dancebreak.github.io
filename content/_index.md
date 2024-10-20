@@ -31,12 +31,14 @@ for Autumn 2024!
 
 Last updated: {{< LastMod >}}
 
-| Date  | Location           | Time    | Notes                                        |
-|-------|--------------------|---------|----------------------------------------------|
-| 10/21 | [EPC][epc]         | 8-10 PM | Beginner Cross-Step Waltz Lesson at 7 PM     |
-| 10/28 | [EPC][epc]         | 8-10 PM | Intermediate Cross-Step Waltz Lesson at 7 PM |
-| 11/4  | [Roble 113][roble] | 8-10 PM | Beginner Rotary Waltz Lesson at 7 PM         |
-| 11/11 | [Roble 113][roble] | 8-10 PM | Beginner Polonaise Lesson at 7 PM            |
+| Date  | Location            | Time          | Notes                                                  |
+|-------|---------------------|---------------|--------------------------------------------------------|
+| 10/21 | [EPC][epc]          | 8-10 PM       | Beginner Cross-Step Waltz Lesson at 7 PM               |
+| 10/28 | [EPC][epc]          | 8-10 PM       | Intermediate Cross-Step Waltz Lesson at 7 PM           |
+| 11/2  |                     | 7-10 PM       | East Meets West ([SSD][ssd] and [Cardinal Swing][wcs]) |
+| 11/4  | [Roble 113][roble]  | 8-10 PM       | Beginner Rotary Waltz Lesson at 7 PM                   |
+| 11/8  | [Roble 113][roble ] | 8:30 PM-12 AM | Fall Ball (Richard Powers)                             |
+| 11/11 | [Roble 113][roble]  | 8-10 PM       | Beginner Polonaise Lesson at 7 PM                      |
 
 ## More Info
 
