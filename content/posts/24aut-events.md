@@ -40,7 +40,7 @@ other on-campus social dance events you want us to list here, let us know!
 |-------|-----------------|--------------------------------------|---------------|--------------------|------------|
 | 10/5  | Sugar High      | [Stanford Swing Dancers][ssd]        | Lindy         | [EPC][epc]         | 7-11 PM    |
 | 10/18 | Jammix          | Richard Powers                       | Various       | [Roble 113][roble] | 9 PM-12 AM |
-| 11/2  | East Meets West | [SSD][ssd] and [Cardinal Swing][wcs] | Lindy and WCS |                    | 7-10 PM    |
+| 11/2  | East Meets West | [SSD][ssd] and [Cardinal Swing][wcs] | Lindy and WCS | [Roble 113][roble] | 7-10 PM    |
 | 11/8  | Fall Ball       | Richard Powers                       | Various       | [Roble 113][roble] | 8:30-12 AM |
 | 12/6  | Jammix          | Richard Powers                       | Various       | [Roble 113][roble] | 9 PM-12 AM |
 
