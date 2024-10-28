@@ -36,13 +36,32 @@ Information in italics is still tentative.
 These events aren't run by Dancebreak, but may be of interest.  If you have
 other on-campus social dance events you want us to list here, let us know!
 
-| Date  | Name            | Organizers                           | Dance Styles  | Location           | Time       |
-|-------|-----------------|--------------------------------------|---------------|--------------------|------------|
-| 10/5  | Sugar High      | [Stanford Swing Dancers][ssd]        | Lindy         | [EPC][epc]         | 7-11 PM    |
-| 10/18 | Jammix          | Richard Powers                       | Various       | [Roble 113][roble] | 9 PM-12 AM |
-| 11/2  | East Meets West | [SSD][ssd] and [Cardinal Swing][wcs] | Lindy and WCS | [Roble 113][roble] | 7-10 PM    |
-| 11/8  | Fall Ball       | Richard Powers                       | Various       | [Roble 113][roble] | 8:30-12 AM |
-| 12/6  | Jammix          | Richard Powers                       | Various       | [Roble 113][roble] | 9 PM-12 AM |
+| Date  | Name            | Organizers                           | Dance Styles  | Location           | Time          |
+|-------|-----------------|--------------------------------------|---------------|--------------------|---------------|
+| 10/5  | Sugar High      | [Stanford Swing Dancers][ssd]        | Lindy         | [EPC][epc]         | 7-11 PM       |
+| 10/18 | Jammix          | Richard Powers                       | Various       | [Roble 113][roble] | 9 PM-12 AM    |
+| 11/2  | East Meets West | [SSD][ssd] and [Cardinal Swing][wcs] | Lindy and WCS | [Roble 113][roble] | 7-10 PM       |
+| 11/8  | Fall Ball       | Richard Powers                       | Various       | [Roble 113][roble] | 8:30 PM-12 AM |
+| 12/6  | Jammix          | Richard Powers                       | Various       | [Roble 113][roble] | 9 PM-12 AM    |
+
+### Fall Ball
+
+Stanford Fall Ball 2024: Egyptian Masquerade🏺🌙
+> Join us for an unforgettable night of glamour and intrigue! 🎭✨
+* 📆 Nov 8, 8:30pm - 12:00am
+* 📍 Roble Gym Room 113
+* 🎫 $5 for Stanford students | $15 for general public
+
+Dancebreak is providing **free Fall Ball tickets** for up to 50 Dancebreak
+members: [sign up here by 10/30 to be
+considered](https://stanforduniversity.qualtrics.com/jfe/form/SV_0e36lLd1nGl3c0e).
+
+Featuring:
+* music DJed by Richard Powers
+* performances by Swingtime and Dance Libre
+* food and refreshments
+
+More Info and Tickets: [Eventbrite](https://fallball24.eventbrite.com)
 
 ## Auditions
 
