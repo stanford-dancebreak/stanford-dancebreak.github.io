@@ -33,15 +33,12 @@ Last updated: {{< LastMod >}}
 
 | Date       | Location            | Time          | Notes                                                  |
 |------------|---------------------|---------------|--------------------------------------------------------|
-| Mon. 10/28 | [EPC][epc]          | 8-10 PM       | Intermediate Cross-Step Waltz Lesson at 7 PM           |
 | Sat. 11/2  | [Roble 113][roble]  | 7-10 PM       | East Meets West ([SSD][ssd] and [Cardinal Swing][wcs]) |
 | Mon. 11/4  | [Roble 113][roble]  | 8-10 PM       | Beginner Rotary Waltz Lesson at 7 PM                   |
 | Fri. 11/8  | [Roble 113][roble ] | 8:30 PM-12 AM | [Fall Ball (Richard Powers)][fb]                       |
+| Mon. 11/11 | [Roble 113][roble]  | 8-10 PM       | Beginner Polonaise Lesson at 7 PM                      |
 
-Dancebreak is providing [**free Fall Ball tickets**][fb-tix] to up to 50 members!
-<!--
-| Mon. 11/11 | [Roble 113][roble]  | 8-10 PM       | Beginner Polonaise Lesson at 7 PM                               |
--->
+Dancebreak is providing [**free Fall Ball tickets**][fb-tix] to up to 50 members---sign up by October 30th!
 
 [fb]: https://fallball24.eventbrite.com
 [fb-tix]: https://stanforduniversity.qualtrics.com/jfe/form/SV_0e36lLd1nGl3c0e
