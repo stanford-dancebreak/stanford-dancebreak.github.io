@@ -23,7 +23,7 @@ in the first hour.
 | 4    | 10/14 | Saumya                      | [Roble 113][roble]            | 7-9   | Diwali      |
 | 5    | 10/21 | Akshay Smit                 | [Elliott Program Center][epc] | 7-10  |             |
 | 6    | 10/28 | Briana                      | [Elliott Program Center][epc] | 7-10  |             |
-| 7    | 11/4  | Wally                       | [Roble 113][roble]            | 7-10  | Video Games |
+| 7    | 11/4  | Wally                       | [GCC Havana][gcc]             | 7-10  | Video Games |
 | 8    | 11/11 | Cordelia                    | [Roble 113][roble]            | 7-10  |             |
 | 9    | 11/18 | Maiya                       | _[Roble 113][roble]_          | _7-9_ |             |
 | 🦃   | 11/25 | TBA                         | _[Roble 113][roble]_          | _7-9_ |             |
@@ -52,9 +52,10 @@ Stanford Fall Ball 2024: Egyptian Masquerade🏺🌙
 * 📍 Roble Gym Room 113
 * 🎫 $5 for Stanford students | $15 for general public
 
-Dancebreak is providing **free Fall Ball tickets** for up to 50 Dancebreak
+~~Dancebreak is providing **free Fall Ball tickets** for up to 50 Dancebreak
 members: [sign up here by 10/30 to be
-considered](https://stanforduniversity.qualtrics.com/jfe/form/SV_0e36lLd1nGl3c0e).
+considered](https://stanforduniversity.qualtrics.com/jfe/form/SV_0e36lLd1nGl3c0e).~~
+If you signed up by 10/30, you should have received tickets!
 
 Featuring:
 * music DJed by Richard Powers
