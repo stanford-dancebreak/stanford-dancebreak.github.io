@@ -36,12 +36,12 @@ Note that Dancebreak on **11/4** is in **GCC Havana**, not Roble as initially pl
 {{< /callout >}}
 
 
-| Date       | Location           | Time          | Notes                                                  |
-|------------|--------------------|---------------|--------------------------------------------------------|
-| Sat. 11/2  | [Roble 113][roble] | 7-10 PM       | East Meets West ([SSD][ssd] and [Cardinal Swing][wcs]) |
-| Mon. 11/4  | [GCC Havana][gcc]  | 8-10 PM       | Beginner Rotary Waltz Lesson at 7 PM                   |
-| Fri. 11/8  | [Roble 113][roble] | 8:30 PM-12 AM | [Fall Ball (Richard Powers)][fb]                       |
-| Mon. 11/11 | [Roble 113][roble] | 8-10 PM       | Beginner Polonaise Lesson at 7 PM                      |
+| Date       | Location           | Time          | Notes                                |
+|------------|--------------------|---------------|--------------------------------------|
+| Mon. 11/4  | [GCC Havana][gcc]  | 8-10 PM       | Beginner Rotary Waltz Lesson at 7 PM |
+| Fri. 11/8  | [Roble 113][roble] | 8:30 PM-12 AM | [Fall Ball (Richard Powers)][fb]     |
+| Mon. 11/11 | [Roble 113][roble] | 8-10 PM       | Beginner Polonaise Lesson at 7 PM    |
+| Mon. 11/18 | [Roble 113][roble] | 7-9 PM        |                                      |
 
 [fb]: https://fallball24.eventbrite.com
 
