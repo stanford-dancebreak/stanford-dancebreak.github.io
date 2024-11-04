@@ -15,21 +15,26 @@ Last updated: {{< LastMod >}}
 In general, three hour timeslots indicate [a lesson/workshop](../24aut-workshops)
 in the first hour.
 
-| Week | Date  | DJ                          | Location                      | Time  | Theme       |
-|------|-------|-----------------------------|-------------------------------|-------|-------------|
-| 1    | 9/23  | Jason                       | [EVGR-B140][evgr]             | 7-11  |             |
-| 2    | 9/30  | Sophia and Akshay Srivatsan | [Roble 113][roble]            | 7-9   | Broadway    |
-| 3    | 10/7  | Audrey                      | [GCC Havana][gcc]             | 7-10  |             |
-| 4    | 10/14 | Saumya                      | [Roble 113][roble]            | 7-9   | Diwali      |
-| 5    | 10/21 | Akshay Smit                 | [Elliott Program Center][epc] | 7-10  |             |
-| 6    | 10/28 | Briana                      | [Elliott Program Center][epc] | 7-10  |             |
-| 7    | 11/4  | Wally                       | [GCC Havana][gcc]             | 7-10  | Video Games |
-| 8    | 11/11 | Cordelia                    | [Roble 113][roble]            | 7-10  |             |
-| 9    | 11/18 | Maiya                       | _[Roble 113][roble]_          | _7-9_ |             |
-| 🦃   | 11/25 | TBA                         | _[Roble 113][roble]_          | _7-9_ |             |
-| 10   | 12/2  | TBA                         | _[Roble 113][roble]_          | _7-9_ |             |
+| Week | Date  | DJ                    | Location                      | Time  | Theme         |
+|------|-------|-----------------------|-------------------------------|-------|---------------|
+| 1    | 9/23  | Jason                 | [EVGR-B140][evgr]             | 7-11  |               |
+| 2    | 9/30  | Sophia and Akshay[^1] | [Roble 113][roble]            | 7-9   | Broadway      |
+| 3    | 10/7  | Audrey                | [GCC Havana][gcc]             | 7-10  |               |
+| 4    | 10/14 | Saumya                | [Roble 113][roble]            | 7-9   | Diwali        |
+| 5    | 10/21 | Akshay[^2]            | [Elliott Program Center][epc] | 7-10  |               |
+| 6    | 10/28 | Briana                | [Elliott Program Center][epc] | 7-10  |               |
+| 7    | 11/4  | Wally                 | [GCC Havana][gcc]             | 7-10  | Video Games   |
+| 8    | 11/11 | Cordelia              | [Roble 113][roble]            | 7-10  |               |
+| 9    | 11/18 | Maiya                 | _[Roble 113][roble]_          | _7-9_ |               |
+| 🦃   | 11/25 | _Open_                | _[Roble 113][roble]_          | _7-9_ |               |
+| 10   | 12/2  | _Open_                | _[Roble 113][roble]_          | _7-9_ |               |
+| ✍    | 12/9  | Eddy                  | _[Roble 113][roble]_          | _7-9_ | Country Music |
 
-Information in italics is still tentative.
+[^1]: Akshay Srivatsan
+[^2]: Akshay Smit
+
+Information in italics is still tentative.  If you're interested in DJing one
+of the open spots, let us know!
 
 ## Other Socials
 

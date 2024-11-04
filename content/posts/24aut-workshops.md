@@ -14,17 +14,20 @@ Last updated: {{< LastMod >}}
 
 ## All Workshops
 
-| Week | Date  | Topic                         | Instructors                 | Location                      | Time |
-|------|-------|-------------------------------|-----------------------------|-------------------------------|------|
-| 1    | 9/25  | Viennese Waltz                | Emily and Angelina          | [Rains Hacienda][rains]       | 6-9  |
-| 1    | 9/26  | Polka                         | Josh and Bella              | [GCC Havana][gcc]             | 6-9  |
-| 3    | 10/7  | Beginner Rotary Waltz         | Akshay Srivatsan and Ashley | [GCC Havana][gcc]             | 7-8  |
-| 4    | 10/14 | Office Hours                  |                             | [Roble 113][roble]            | 7-8  |
-| 5    | 10/21 | Beginner Cross-Step Waltz     | Shelly and Akshay Smit      | [Elliott Program Center][epc] | 7-8  |
-| 6    | 10/28 | Intermediate Cross-Step Waltz | Cameron and Rocky           | [Elliott Program Center][epc] | 7-8  |
-| 7    | 11/4  | Beginner Rotary Waltz         | Sophia and Jason            | [GCC Havana][gcc]             | 7-8  |
-| 8    | 11/11 | Polonaise                     | Michał                      | [Roble 113][roble]            | 7-8  |
-| 9    | 11/18 | Beginner Lindy Hop            | Maiya                       |                               |      |
+| Week | Date  | Topic                         | Instructors           | Location                      | Time |
+|------|-------|-------------------------------|-----------------------|-------------------------------|------|
+| 1    | 9/25  | Viennese Waltz                | Emily and Angelina    | [Rains Hacienda][rains]       | 6-9  |
+| 1    | 9/26  | Polka                         | Josh and Bella        | [GCC Havana][gcc]             | 6-9  |
+| 3    | 10/7  | Beginner Rotary Waltz         | Akshay[^1] and Ashley | [GCC Havana][gcc]             | 7-8  |
+| 4    | 10/14 | Office Hours                  |                       | [Roble 113][roble]            | 7-8  |
+| 5    | 10/21 | Beginner Cross-Step Waltz     | Shelly and Akshay[^2] | [Elliott Program Center][epc] | 7-8  |
+| 6    | 10/28 | Intermediate Cross-Step Waltz | Cameron and Rocky     | [Elliott Program Center][epc] | 7-8  |
+| 7    | 11/4  | Beginner Rotary Waltz         | Sophia and Jason      | [GCC Havana][gcc]             | 7-8  |
+| 8    | 11/11 | Polonaise                     | Michał                | [Roble 113][roble]            | 7-8  |
+| 9    | 11/18 | Beginner Lindy Hop            | Maiya                 |                               |      |
+
+[^1]: Akshay Srivatsan
+[^2]: Akshay Smit
 
 Information in italics is still tentative.
 
