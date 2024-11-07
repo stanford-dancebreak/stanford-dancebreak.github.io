@@ -1,5 +1,6 @@
 ---
 title: Workshops (Autumn 2024)
+aliases: ["/workshops"]
 date: 2024-09-23
 ---
 
@@ -23,8 +24,8 @@ Last updated: {{< LastMod >}}
 | 5    | 10/21 | Beginner Cross-Step Waltz     | Shelly and Akshay[^2] | [Elliott Program Center][epc] | 7-8  |
 | 6    | 10/28 | Intermediate Cross-Step Waltz | Cameron and Rocky     | [Elliott Program Center][epc] | 7-8  |
 | 7    | 11/4  | Beginner Rotary Waltz         | Sophia and Jason      | [GCC Havana][gcc]             | 7-8  |
-| 8    | 11/11 | Polonaise                     | Michał                | [Roble 113][roble]            | 7-8  |
-| 9    | 11/18 | Beginner Lindy Hop            | Maiya                 |                               |      |
+| 8    | 11/11 | Beginner+ Rotary Waltz        | Gokul                 | [Roble 113][roble]            | 7-8  |
+| 9    | 11/18 | Shivers and Shim Sham         | Maiya                 |                               |      |
 
 [^1]: Akshay Srivatsan
 [^2]: Akshay Smit
@@ -46,7 +47,7 @@ auditions.
 
 Auditions are 9/28 at 10:00 AM in [Roble 113][roble].
 
-### Beginner Waltz Sequence (Weeks 3-7)
+### Beginner Waltz Sequence (Weeks 3-8)
 
 Come learn to Waltz with us!
 * Rotary Waltz is the traditional style of waltz, done since the late 18th
@@ -58,16 +59,6 @@ Our beginner workshops assume no dance experience of any sort (although
 experienced dancers are welcome as well, of course).  Our "office hours" are an
 informal way to learn to dance, to practice/get feedback, or to hone a
 particular skill.
-
-### Polonaise (Week 8)
-
-Celebrate Polish Independence Day by learning one of the historic national
-dances of Poland, the Polonaise.  No experience required.
-
-### Swing (Week 9)
-
-Learn to dance [Lindy Hop][lod-lindy], a popular style of jazz swing dancing
-with an emphasis on improvisation and having fun.  No experience required.
 
 [lod-rotary]: https://open.spotify.com/playlist/4sGCGgIXR28EQL3oOd1GO4
 [lod-lindy]: https://www.libraryofdance.org/dances/lindy-hop/

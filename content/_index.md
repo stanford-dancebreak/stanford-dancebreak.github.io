@@ -31,17 +31,14 @@ for Autumn 2024!
 
 Last updated: {{< LastMod >}}
 
-{{< callout type="warning" >}}
-Note that Dancebreak on **11/4** is in **GCC Havana**, not Roble as initially planned.
-{{< /callout >}}
 
-
-| Date       | Location           | Time          | Notes                                |
-|------------|--------------------|---------------|--------------------------------------|
-| Mon. 11/4  | [GCC Havana][gcc]  | 8-10 PM       | Beginner Rotary Waltz Lesson at 7 PM |
-| Fri. 11/8  | [Roble 113][roble] | 8:30 PM-12 AM | [Fall Ball (Richard Powers)][fb]     |
-| Mon. 11/11 | [Roble 113][roble] | 8-10 PM       | Beginner Polonaise Lesson at 7 PM    |
-| Mon. 11/18 | [Roble 113][roble] | 7-9 PM        |                                      |
+| Date       | Location           | Time          | Notes                                 |
+|------------|--------------------|---------------|---------------------------------------|
+| Fri. 11/8  | [Roble 113][roble] | 8:30 PM-12 AM | [Fall Ball (Richard Powers)][fb]      |
+| Mon. 11/11 | [Roble 113][roble] | 8-10 PM       | Beginner+ Rotary Waltz Lesson at 7 PM |
+| Mon. 11/18 | [Roble 113][roble] | 7-9 PM        |                                       |
+| Mon. 11/25 | [Roble 113][roble] | 7-9 PM        | TBD due to Thanksgiving Break         |
+| Mon. 12/2  | [Roble 113][roble] | 7-9 PM        |                                       |
 
 [fb]: https://fallball24.eventbrite.com
 
@@ -49,7 +46,7 @@ Note that Dancebreak on **11/4** is in **GCC Havana**, not Roble as initially pl
 
 {{< cards >}}
 {{< card link="posts/24aut-events" icon="calendar" title="Event Calendar (Fall 2024)" subtitle="Locations, times, etc." >}}
-{{< card link="posts/24aut-workshops" icon="academic-cap" title="Workshop Calendar (Fall 2024)" subtitle="Learn how to dance, develop new skills, or just come help our new members learn." >}}
+{{< card link="posts/24aut-workshops" icon="academic-cap" title="Workshop Calendar (Fall 2024)" subtitle="Learn how to dance, develop new skills, or help our new members learn." >}}
 {{< card link="https://mailman.stanford.edu/mailman/listinfo/dancebreak" icon="mail" title="Mailing List" subtitle="Get weekly updates about locations and events." >}}
 {{< card link="https://instagram.com/stanforddancebreak" icon="instagram" title="Instagram" subtitle="Photos from Dancebreak (and updates).">}}
 {{< card link="info/faq" icon="question-mark-circle" title="Frequently Asked Questions" subtitle="First time social dancing? Find out more here." >}}

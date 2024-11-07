@@ -77,7 +77,7 @@ title: Frequently Asked Questions
 ## I’m someone that really needs to know the exact etiquette of a place before I go out dancing.
 * and you’re so real for that! You’re always welcome to reach out with any
   additional questions about Dancebreak if anything pops up. Richard Powers
-  also has some write-ups on social dance etiquette- feel free to give them a
+  also has some write-ups on social dance etiquette---feel free to give them a
   read as well!
   [https://socialdance.stanford.edu/Syllabi/Dancing.htm](https://socialdance.stanford.edu/Syllabi/Dancing.htm) 
 

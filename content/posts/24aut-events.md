@@ -1,5 +1,6 @@
 ---
 title: Events (Autumn 2024)
+aliases: ["/events"]
 date: 2024-09-23
 ---
 
@@ -26,8 +27,8 @@ in the first hour.
 | 7    | 11/4  | Wally                 | [GCC Havana][gcc]             | 7-10  | Video Games   |
 | 8    | 11/11 | Cordelia              | [Roble 113][roble]            | 7-10  |               |
 | 9    | 11/18 | Maiya                 | _[Roble 113][roble]_          | _7-9_ |               |
-| 🦃   | 11/25 | _Open_                | _[Roble 113][roble]_          | _7-9_ |               |
-| 10   | 12/2  | _Open_                | _[Roble 113][roble]_          | _7-9_ |               |
+| 🦃   | 11/25 | _TBD - Thanksgiving_  | _[Roble 113][roble]_          | _7-9_ |               |
+| 10   | 12/2  | Akshay[^2]            | _[Roble 113][roble]_          | _7-9_ |               |
 | ✍    | 12/9  | Eddy                  | _[Roble 113][roble]_          | _7-9_ | Country Music |
 
 [^1]: Akshay Srivatsan
