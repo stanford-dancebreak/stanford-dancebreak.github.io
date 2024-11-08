@@ -64,6 +64,7 @@ considered](https://stanforduniversity.qualtrics.com/jfe/form/SV_0e36lLd1nGl3c0e
 If you signed up by 10/30, you should have received tickets!
 
 Featuring:
+* Cross-Step Waltz lesson at 7:30pm
 * music DJed by Richard Powers
 * performances by Swingtime and Dance Libre
 * food and refreshments
