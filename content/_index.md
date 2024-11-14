@@ -32,13 +32,12 @@ for Autumn 2024!
 Last updated: {{< LastMod >}}
 
 
-| Date       | Location           | Time          | Notes                                 |
-|------------|--------------------|---------------|---------------------------------------|
-| Fri. 11/8  | [Roble 113][roble] | 8:30 PM-12 AM | [Fall Ball (Richard Powers)][fb]      |
-| Mon. 11/11 | [Roble 113][roble] | 8-10 PM       | Beginner+ Rotary Waltz Lesson at 7 PM |
-| Mon. 11/18 | [Roble 113][roble] | 7-9 PM        |                                       |
-| Mon. 11/25 | [Roble 113][roble] | 7-9 PM        | TBD due to Thanksgiving Break         |
-| Mon. 12/2  | [Roble 113][roble] | 7-9 PM        |                                       |
+| Date       | Location           | Time   | Notes                                                                                                            |
+|------------|--------------------|--------|------------------------------------------------------------------------------------------------------------------|
+| Mon. 11/18 | [Roble 113][roble] | 7-9 PM | Surprise lesson by Maiya (beginner-friendly) at 5:30 in [Roble 116][roble]; pizza social at 6:30 in Roble Lounge |
+| Mon. 11/25 | [Roble 113][roble] | 7-9 PM | TBD due to Thanksgiving Break                                                                                    |
+| Mon. 12/2  | [Roble 113][roble] | 7-9 PM |                                                                                                                  |
+| Mon. 12/9  | [Roble 113][roble] | 7-9 PM |                                                                                                                  |
 
 [fb]: https://fallball24.eventbrite.com
 

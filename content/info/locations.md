@@ -32,18 +32,6 @@ This room has an excellent sound system.  It also has a TV.
 This is the largest (and best) dance studio on campus, but also the most
 in-demand.
 
-### Studio 115
-
-1. Enter Roble Gym via the main entrance.
-2. Walk through the lobby to the center courtyard.
-3. Cross the courtyard to the far left corner.
-4. Walk into the hallway that leads towards the back of the building; Studio
-   115 is on the left.
-
-This studio has a clean cushioned wood floor.  Per building policy, no street
-shoes are allowed in the studio; clean dance shoes, socks, or bare feet are
-acceptable.
-
 ### Studio 114
 
 1. Enter Roble Gym via the main entrance.
@@ -59,6 +47,30 @@ allowed in the studio; clean dance shoes, socks, or bare feet are acceptable.
 
 This room has a good sound system, but no TV.  It is suitable for stationary
 and slotted dances, but it's too small for traveling ones.
+
+### Studio 115
+
+1. Enter Roble Gym via the main entrance.
+2. Walk through the lobby to the center courtyard.
+3. Cross the courtyard to the far left corner.
+4. Walk into the hallway that leads towards the back of the building; Studio
+   115 is on the left.
+
+This studio has a clean cushioned wood floor.  Per building policy, no street
+shoes are allowed in the studio; clean dance shoes, socks, or bare feet are
+acceptable.
+
+### Room 116
+
+This room is part of [Roble Arts Gym](https://arts.stanford.edu/office-of-the-vice-president-for-the-arts/roble-arts-gym/roble-arts-gym-reservable-spaces/).
+
+1. Enter Roble Gym via the main entrance.
+2. Walk through the lobby to the center courtyard.
+3. Cross straight through the courtyard to the far side.
+4. Room 116 functions as a space for many kinds of art; the dance floor is
+   located at the back of the space.
+
+This room has no integrated sound system and requires a speaker.
 
 ## Graduate Community Center
 
