@@ -22,9 +22,12 @@ We dance every Monday night, usually in Roble 113 7-9pm (but this is
 mailing list][mail]).  Join us for social dancing, classes, snacks, and
 community!
 
-{{< callout type="info" >}}
-See our [events](posts/24aut-events) and [workshops](posts/24aut-workshops)
-for Autumn 2024!
+{{< callout emoji="🗳️" >}}
+DanceBreak Elections will be the week of December 2nd.
+
+If you are interested in becoming DanceBreak President, Vice-President, or
+Communications Chair, please fill out [the election
+form](https://forms.gle/iDGuMv8pxfaZkmme8) by November 29th.
 {{< /callout >}}
 
 ## Upcoming Events
@@ -32,15 +35,12 @@ for Autumn 2024!
 Last updated: {{< LastMod >}}
 
 
-| Date       | Location           | Time   | Notes                                                                                                            |
-|------------|--------------------|--------|------------------------------------------------------------------------------------------------------------------|
-| Mon. 11/18 | [Roble 113][roble] | 7-9 PM | Surprise lesson by Maiya (beginner-friendly) at 5:30 in [Roble 116][roble]; pizza social at 6:30 in Roble Lounge |
-| Mon. 11/25 | [Roble 113][roble] | 7-9 PM | TBD due to Thanksgiving Break                                                                                    |
-| Mon. 12/2  | [Roble 113][roble] | 7-9 PM |                                                                                                                  |
-| Mon. 12/9  | [Roble 113][roble] | 7-9 PM |                                                                                                                  |
-
-[fb]: https://fallball24.eventbrite.com
-
+| Date       | Location           | Time   | Notes                                                                                                                 |
+|------------|--------------------|--------|-----------------------------------------------------------------------------------------------------------------------|
+| Mon. 11/18 | [Roble 113][roble] | 7-9 PM | Mystery Lindy lesson by Maiya (beginner-friendly) at 5:30 in [Roble 116][roble]; pizza social at 6:30 in Roble Lounge |
+| Mon. 11/25 | [Roble 113][roble] | 7-9 PM | TBD due to Thanksgiving Break                                                                                         |
+| Mon. 12/2  | [Roble 113][roble] | 7-9 PM |                                                                                                                       |
+| Mon. 12/9  | [Roble 113][roble] | 7-9 PM |                                                                                                                       |
 ## More Info
 
 {{< cards >}}
