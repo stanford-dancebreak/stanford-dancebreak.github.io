@@ -35,12 +35,13 @@ form](https://forms.gle/iDGuMv8pxfaZkmme8) by November 29th.
 Last updated: {{< LastMod >}}
 
 
-| Date       | Location           | Time   | Notes                                                                                                                 |
-|------------|--------------------|--------|-----------------------------------------------------------------------------------------------------------------------|
-| Mon. 11/18 | [Roble 113][roble] | 7-9 PM | Mystery Lindy lesson by Maiya (beginner-friendly) at 5:30 in [Roble 116][roble]; pizza social at 6:30 in Roble Lounge |
-| Mon. 11/25 | [Roble 113][roble] | 7-9 PM | TBD due to Thanksgiving Break                                                                                         |
-| Mon. 12/2  | [Roble 113][roble] | 7-9 PM |                                                                                                                       |
-| Mon. 12/9  | [Roble 113][roble] | 7-9 PM |                                                                                                                       |
+| Date       | Location           | Time       | Notes  |
+|------------|--------------------|------------|--------|
+| Mon. 11/25 | [Roble 113][roble] | 7-9 PM     |        |
+| Mon. 12/2  | [Roble 113][roble] | 7-9 PM     |        |
+| Mon. 12/9  | [Roble 113][roble] | 9-11:45 PM | Jammix |
+| Mon. 12/9  | [Roble 113][roble] | 7-9 PM     |        |
+
 ## More Info
 
 {{< cards >}}

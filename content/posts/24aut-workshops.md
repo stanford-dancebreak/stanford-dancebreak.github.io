@@ -24,8 +24,8 @@ Last updated: {{< LastMod >}}
 | 5    | 10/21 | Beginner Cross-Step Waltz         | Shelly and Akshay[^2] | [Elliott Program Center][epc] | 7-8       |
 | 6    | 10/28 | Intermediate Cross-Step Waltz     | Cameron and Rocky     | [Elliott Program Center][epc] | 7-8       |
 | 7    | 11/4  | Beginner Rotary Waltz             | Sophia and Jason      | [GCC Havana][gcc]             | 7-8       |
-| 8    | 11/11 | Beginner+ Rotary Waltz            | Gokul                 | [Roble 113][roble]            | 7-8       |
-| 9    | 11/18 | Mystery Lindy (beginner-friendly) | Maiya                 | [Roble 116][roble]            | 5:30-6:30 |
+| 8    | 11/11 | Beginner+ Rotary Waltz            | Gokul and Bella       | [Roble 113][roble]            | 7-8       |
+| 9    | 11/18 | Mystery Lindy (beginner-friendly) | Maiya and Max         | [Roble 116][roble]            | 5:30-6:30 |
 
 [^1]: Akshay Srivatsan
 [^2]: Akshay Smit
