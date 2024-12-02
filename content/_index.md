@@ -22,14 +22,6 @@ We dance every Monday night, usually in Roble 113 7-9pm (but this is
 mailing list][mail]).  Join us for social dancing, classes, snacks, and
 community!
 
-{{< callout emoji="🗳️" >}}
-DanceBreak Elections will be the week of December 2nd.
-
-If you are interested in becoming DanceBreak President, Vice-President, or
-Communications Chair, please fill out [the election
-form](https://forms.gle/iDGuMv8pxfaZkmme8) by November 29th.
-{{< /callout >}}
-
 ## Upcoming Events
 
 Last updated: {{< LastMod >}}
@@ -37,7 +29,6 @@ Last updated: {{< LastMod >}}
 
 | Date       | Location           | Time       | Notes  |
 |------------|--------------------|------------|--------|
-| Mon. 11/25 | [Roble 113][roble] | 7-9 PM     |        |
 | Mon. 12/2  | [Roble 113][roble] | 7-9 PM     |        |
 | Mon. 12/9  | [Roble 113][roble] | 9-11:45 PM | Jammix |
 | Mon. 12/9  | [Roble 113][roble] | 7-9 PM     |        |

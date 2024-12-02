@@ -27,7 +27,7 @@ in the first hour.
 | 7    | 11/4  | Wally                 | [GCC Havana][gcc]             | 7-10  | Video Games   |
 | 8    | 11/11 | Cordelia              | [Roble 113][roble]            | 7-10  |               |
 | 9    | 11/18 | Maiya                 | [Roble 113][roble]            | 7-9   |               |
-| 🦃   | 11/25 | Akshay[^1]            | [Roble 113][roble]            | 7-9   |               |
+| 🦃   | 11/25 | Akshay[^1]            | [Roble 113][roble]            | 7-9   | Food          |
 | 10   | 12/2  | Akshay[^2]            | [Roble 113][roble]            | 7-9   |               |
 | ✍    | 12/9  | Eddy                  | _[Roble 113][roble]_          | _7-9_ | Country Music |
 
