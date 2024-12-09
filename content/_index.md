@@ -27,11 +27,9 @@ community!
 Last updated: {{< LastMod >}}
 
 
-| Date       | Location           | Time       | Notes  |
-|------------|--------------------|------------|--------|
-| Mon. 12/2  | [Roble 113][roble] | 7-9 PM     |        |
-| Mon. 12/9  | [Roble 113][roble] | 9-11:45 PM | Jammix |
-| Mon. 12/9  | [Roble 113][roble] | 7-9 PM     |        |
+| Date      | Location                      | Time   | Notes                    |
+|-----------|-------------------------------|--------|--------------------------|
+| Mon. 12/9 | [Elliott Program Center][epc] | 7-9 PM | Last Dancebreak of 2024! |
 
 ## More Info
 
