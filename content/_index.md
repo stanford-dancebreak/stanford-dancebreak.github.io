@@ -27,9 +27,9 @@ community!
 Last updated: {{< LastMod >}}
 
 
-| Date      | Location                      | Time   | Notes                    |
-|-----------|-------------------------------|--------|--------------------------|
-| Mon. 12/9 | [Elliott Program Center][epc] | 7-9 PM | Last Dancebreak of 2024! |
+| Date     | Location | Time | Notes                     |
+|----------|----------|------|---------------------------|
+| Mon. 1/6 | TBD      | TBD  | First Dancebreak of 2025! |
 
 ## More Info
 

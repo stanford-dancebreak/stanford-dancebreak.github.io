@@ -28,13 +28,16 @@ could always use more help!
 ## Past Officers
 
 {{< callout type="error" >}}
-We are currently missing information for a few years due to COVID-related
+We currently have incomplete information for a few years due to COVID-related
 changes.
 {{< /callout >}}
 
 Here are the Dancebreak officers for prior academic years:
  
-
+* 2021-2022:
+  * President: Gaurab Banerjee
+* 2020-2021:
+  * No Dancebreak due to COVID-19 Pandemic
 * 2019-2020:
   * President: Kent Vainio (BS 2020, MS 2021)
   * Vice-President: Xinlan Emily Hu (BS 2020, MS 2021)
