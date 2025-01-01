@@ -27,15 +27,18 @@ community!
 Last updated: {{< LastMod >}}
 
 
-| Date     | Location | Time | Notes                     |
-|----------|----------|------|---------------------------|
-| Mon. 1/6 | TBD      | TBD  | First Dancebreak of 2025! |
+| Date      | Location           | Time   | Notes                     |
+|-----------|--------------------|--------|---------------------------|
+| Mon. 1/6  | [GCC Havana][gcc]  | 7-10pm | First Dancebreak of 2025! |
+| Mon. 1/13 | [EPC][epc]         | 7-10pm | Beginner Fusion lesson.   |
+| Mon. 1/21 | [EPC][epc]         | 7-10pm | Beginner Fusion lesson.   |
+| Mon. 1/27 | [Roble 113][roble] | 7-10pm | Beginner Fusion lesson.   |
 
 ## More Info
 
 {{< cards >}}
-{{< card link="posts/24aut-events" icon="calendar" title="Event Calendar (Fall 2024)" subtitle="Locations, times, etc." >}}
-{{< card link="posts/24aut-workshops" icon="academic-cap" title="Workshop Calendar (Fall 2024)" subtitle="Learn how to dance, develop new skills, or help our new members learn." >}}
+{{< card link="posts/25win-events" icon="calendar" title="Event Calendar (Winter 2025)" subtitle="Locations, times, etc." >}}
+{{< card link="posts/25win-workshops" icon="academic-cap" title="Workshop Calendar (Winter 2025)" subtitle="Learn how to dance, develop new skills, or help our new members learn." >}}
 {{< card link="https://mailman.stanford.edu/mailman/listinfo/dancebreak" icon="mail" title="Mailing List" subtitle="Get weekly updates about locations and events." >}}
 {{< card link="https://instagram.com/stanforddancebreak" icon="instagram" title="Instagram" subtitle="Photos from Dancebreak (and updates).">}}
 {{< card link="info/faq" icon="question-mark-circle" title="Frequently Asked Questions" subtitle="First time social dancing? Find out more here." >}}

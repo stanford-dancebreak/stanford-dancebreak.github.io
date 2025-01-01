@@ -1,6 +1,5 @@
 ---
 title: Workshops (Autumn 2024)
-aliases: ["/workshops"]
 date: 2024-09-23
 ---
 

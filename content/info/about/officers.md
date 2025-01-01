@@ -8,32 +8,32 @@ Our current leadership team is:
 
 | Role              | Name             |
 |-------------------|------------------|
-| President         | Jason Kronenfeld |
-| Vice President    | Ashley Chen      |
+| President         | Sophia Manukian  |
+| President         | Akshay Srivatsan |
 | Financial Officer | Donovan Jasper   |
-| Webmaster         | Akshay Srivatsan |
+| Room Coordinator  | Kelly Chou       |
 
 In addition we have many others helping out in various administrative and
 advisory roles.  If you're interested in joining us, please reach out---we
 could always use more help!
 
-| Role                  | Name                                 |
-|-----------------------|--------------------------------------|
-| Room Coordinator      | Kelly Chou                           |
-| DJ Coordinator        | Akshay Smit                          |
-| Equipment Manager     | Eddy Hudson                          |
-| Workshop Coordinators | Sophia Manukian and Akshay Srivatsan |
-
-
 ## Past Officers
-
-{{< callout type="error" >}}
-We currently have incomplete information for a few years due to COVID-related
-changes.
-{{< /callout >}}
 
 Here are the Dancebreak officers for prior academic years:
  
+* 2023-2024:
+  * President: Jason Kronenfeld
+  * Vice President: Ashley Chen
+  * Financial Officer: Donovan Jasper
+  * Webmaster: Akshay Srivatsan
+  * Room Coordinator: Kelly Chou
+  * Workshop Coordinator: Sophia Manukian
+* 2022-2023:
+  * President: Jason Kronenfeld
+  * Vice President: William Meng
+  * Financial Officer: Donovan Jasper
+  * Communications Chair: Ashley Chen
+  * Planning Coordinator: Saumya Goyal
 * 2021-2022:
   * President: Gaurab Banerjee
 * 2020-2021:

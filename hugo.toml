@@ -13,12 +13,12 @@ displayLogo = false
 
 [[menu.main]]
 name = "Events"
-pageRef = "/posts/24aut-events"
+pageRef = "/posts/25win-events"
 weight = 1
 
 [[menu.main]]
 name = "Workshops"
-pageRef = "/posts/24aut-workshops"
+pageRef = "/posts/25win-workshops"
 weight = 1
 
 [[menu.main]]

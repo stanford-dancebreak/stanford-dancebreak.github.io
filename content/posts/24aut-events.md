@@ -1,6 +1,5 @@
 ---
 title: Events (Autumn 2024)
-aliases: ["/events"]
 date: 2024-09-23
 ---
 
