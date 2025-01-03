@@ -18,7 +18,7 @@ in the first hour.
 
 | Week | Date | DJ                                | Location             | Time   | Theme       |
 |------|------|-----------------------------------|----------------------|--------|-------------|
-| 1    | 1/6  | Wally                             | _[GCC Havana][gcc]_  | _7-10_ | Video Games |
+| 1    | 1/6  | Wally                             | [GCC Havana][gcc]    | 7-10   | Video Games |
 | 2    | 1/13 | Sophia                            | _[EPC][epc]_         | _7-10_ | Fusion      |
 | 3    | 1/20 | Akshay[^1]                        | _[EPC][epc]_         | _7-10_ |             |
 | 4    | 1/27 | Audrey                            | _[Roble 113][roble]_ | _7-10_ |             |

@@ -14,7 +14,7 @@ Last updated: {{< LastMod >}}
 
 | Week | Date     | Topic             | Instructors       | Location                        | Time  |
 |------|----------|-------------------|-------------------|---------------------------------|-------|
-| 1    | 1/6      | Waltz             |                   | _[GCC Havana][gcc]_             | _7-8_ |
+| 1    | 1/6      | Cross-Step Waltz  | Grace and Will    | [GCC Havana][gcc]               | 7-8   |
 | 2    | 1/13     | Fusion            | Cameron and Rocky | _[Elliott Program Center][epc]_ | _7-8_ |
 | 3    | 1/20     |                   |                   |                                 |       |
 | 4    | 1/27     |                   |                   |                                 |       |

@@ -27,12 +27,12 @@ community!
 Last updated: {{< LastMod >}}
 
 
-| Date      | Location           | Time   | Notes                     |
-|-----------|--------------------|--------|---------------------------|
-| Mon. 1/6  | [GCC Havana][gcc]  | 7-10pm | First Dancebreak of 2025! |
-| Mon. 1/13 | [EPC][epc]         | 7-10pm | Beginner Fusion lesson.   |
-| Mon. 1/21 | [EPC][epc]         | 7-10pm | Beginner Fusion lesson.   |
-| Mon. 1/27 | [Roble 113][roble] | 7-10pm | Beginner Fusion lesson.   |
+| Date      | Location           | Time   | Notes                                              |
+|-----------|--------------------|--------|----------------------------------------------------|
+| Mon. 1/6  | [GCC Havana][gcc]  | 7-10pm | First Dancebreak of 2025! Cross-Step Waltz lesson. |
+| Mon. 1/13 | [EPC][epc]         | 7-10pm | Fusion lesson.                                     |
+| Mon. 1/21 | [EPC][epc]         | 7-10pm |                                                    |
+| Mon. 1/27 | [Roble 113][roble] | 7-10pm |                                                    |
 
 ## More Info
 
