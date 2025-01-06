@@ -22,6 +22,11 @@ pageRef = "/posts/25win-workshops"
 weight = 1
 
 [[menu.main]]
+name = "Austria Fortnight"
+pageRef = "/posts/25win-fortnight"
+weight = 1
+
+[[menu.main]]
 name = "Info"
 pageRef = "/info"
 weight = 2

@@ -15,24 +15,30 @@ Dancebreak is a weekly, free, DJed casual social dancing event for the Stanford
 community, featuring a variety of dance styles with a focus on waltz and swing!
 Come hang out with our campus's largest social dancing crew, practice styles
 taught in Richard Powers's Social Dance class series, learn new moves, and have
-fun with us.  No dance experience or partner needed.
+fun with us.  **No dance experience or partner needed.**
 
 We dance every Monday night, usually in Roble 113 7-9pm (but this is
 **extremely** subject to change---the best way to keep up is through [our
 mailing list][mail]).  Join us for social dancing, classes, snacks, and
 community!
 
+If you don't know how to social dance, we have lessons (almost) every week! See
+the [list of workshops](/workshops) for details, or check out the schedule for
+the next few weeks below.  We also teach (with a bunch of other clubs) classes
+every day during [Austria Fortnight](/fortnight), the two weeks leading up to
+the [Stanford Viennese Ball][vball].
+
 ## Upcoming Events
 
 Last updated: {{< LastMod >}}
 
 
-| Date      | Location           | Time   | Notes                                              |
-|-----------|--------------------|--------|----------------------------------------------------|
-| Mon. 1/6  | [GCC Havana][gcc]  | 7-10pm | First Dancebreak of 2025! Cross-Step Waltz lesson. |
-| Mon. 1/13 | [EPC][epc]         | 7-10pm | Fusion lesson.                                     |
-| Mon. 1/21 | [EPC][epc]         | 7-10pm |                                                    |
-| Mon. 1/27 | [Roble 113][roble] | 7-10pm |                                                    |
+| Date      | Location           | Time   | Lesson                | 
+|-----------|--------------------|--------|-----------------------|
+| Mon. 1/6  | [GCC Havana][gcc]  | 7-10pm | Cross-Step Waltz      | 
+| Mon. 1/13 | [EPC][epc]         | 7-10pm | Fusion                | 
+| Mon. 1/21 | [EPC][epc]         | 7-10pm | West Coast Swing      | 
+| Mon. 1/27 | [Roble 113][roble] | 7-10pm | Beginner Rotary Waltz | 
 
 ## More Info
 
@@ -95,3 +101,4 @@ videos):
 [evgr]: /info/locations/#escondido-village-graduate-residences
 [ssd]: https://swing.stanford.edu
 [wcs]: https://www.facebook.com/cardinalswing/
+[vball]: https://vienneseball.stanford.edu/
