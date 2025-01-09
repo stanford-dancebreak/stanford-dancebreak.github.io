@@ -14,20 +14,20 @@ week-by-week basis depending on room availability.
 In general, three hour timeslots indicate [a lesson/workshop](../25win-workshops)
 in the first hour.
 
-| Week | Date | DJ                                | Location             | Time   | Theme  |
-|------|------|-----------------------------------|----------------------|--------|--------|
-| 1    | 1/6  | Wally                             | [GCC Havana][gcc]    | 7-10   | Winter |
-| 2    | 1/13 | Sophia                            | _[EPC][epc]_         | _7-10_ | Fusion |
-| 3    | 1/20 | Akshay[^1]                        | _[EPC][epc]_         | _7-10_ |        |
-| 4    | 1/27 | Audrey                            | _[Roble 113][roble]_ | _7-10_ |        |
-| 5    | 2/3  | Briana                            | _[Roble 113][roble]_ | _7-10_ |        |
-| 6    | 2/10 | Austria Fortnight - No Dancebreak |                      |        |        |
-| 7    | 2/17 | Austria Fortnight - No Dancebreak |                      |        |        |
-| 8    | 2/24 |                                   |                      |        |        |
-| 9    | 3/3  |                                   |                      |        |        |
-| 10   | 3/10 |                                   |                      |        |        |
-| FW   | 3/17 |                                   |                      |        |        |
-| SB   | 3/24 |                                   |                      |        |        |
+| Week | Date | DJ                                | Location           | Time   | Theme  |
+|------|------|-----------------------------------|--------------------|--------|--------|
+| 1    | 1/6  | Wally                             | [GCC Havana][gcc]  | 7-10   | Winter |
+| 2    | 1/13 | Sophia                            | [Roble 113][roble] | 6-9    |        |
+| 3    | 1/20 | Akshay[^1]                        | _[EPC][epc]_       | _7-10_ |        |
+| 4    | 1/27 | Audrey                            | [Roble 113][roble] | 6-9    |        |
+| 5    | 2/3  | Briana                            | [Roble 113][roble] | 6-9    |        |
+| 6    | 2/10 | Austria Fortnight - No Dancebreak |                    |        |        |
+| 7    | 2/17 | Austria Fortnight - No Dancebreak |                    |        |        |
+| 8    | 2/24 |                                   |                    |        |        |
+| 9    | 3/3  |                                   |                    |        |        |
+| 10   | 3/10 |                                   |                    |        |        |
+| FW   | 3/17 |                                   |                    |        |        |
+| SB   | 3/24 |                                   |                    |        |        |
 
 [^1]: Akshay Smit
 

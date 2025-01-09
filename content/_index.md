@@ -33,12 +33,12 @@ the [Stanford Viennese Ball][vball].
 Last updated: {{< LastMod >}}
 
 
-| Date      | Location           | Time   | Lesson                | 
-|-----------|--------------------|--------|-----------------------|
-| Mon. 1/6  | [GCC Havana][gcc]  | 7-10pm | Cross-Step Waltz      | 
-| Mon. 1/13 | [EPC][epc]         | 7-10pm | Fusion                | 
-| Mon. 1/21 | [EPC][epc]         | 7-10pm | West Coast Swing      | 
-| Mon. 1/27 | [Roble 113][roble] | 7-10pm | Beginner Rotary Waltz | 
+| Date      | Location                           | Time   | Lesson                    |
+|-----------|------------------------------------|--------|---------------------------|
+| Mon. 1/13 | [Roble 113][roble]                 | 6-9pm  | Fusion                    |
+| Mon. 1/21 | [EPC][epc]                         | 7-10pm | West Coast Swing          |
+| Mon. 1/27 | [Roble 113][roble] (lesson in 114) | 6-9pm  | Beginner Rotary Waltz     |
+| Mon. 2/3  | [Roble 113][roble] (lesson in 114) | 6-9pm  | Intermediate Rotary Waltz |
 
 ## More Info
 

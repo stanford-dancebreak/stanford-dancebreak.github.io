@@ -13,10 +13,10 @@ Learn to dance or pick up new skills with our free workshops!
 | Week         | Date     | Topic                           | Instructors          | Location             | Time  |
 |--------------|----------|---------------------------------|----------------------|----------------------|-------|
 | 1            | 1/6      | Cross-Step Waltz                | Grace and Will       | [GCC Havana][gcc]    | 7-8   |
-| 2            | 1/13     | Fusion                          | Cameron and Rocky    | _[EPC][epc]_         | _7-8_ |
+| 2            | 1/13     | Fusion                          | Cameron and Rocky    | _[Roble 114][roble]_ | _6-7_ |
 | 3            | 1/20     | West Coast Swing                | Akshay[^1]           | _[EPC][epc]_         | _7-8_ |
-| 4            | 1/27     | Rotary Waltz (Beginner)         | Akshay[^2] and Bella | _[Roble 113][roble]_ | _7-8_ |
-| 5            | 2/3      | Rotary Waltz (Intermediate)     | Sophia and Enquan    | _[Roble 113][roble]_ | _7-8_ |
+| 4            | 1/27     | Rotary Waltz (Beginner)         | Akshay[^2] and Bella | _[Roble 114][roble]_ | _6-7_ |
+| 5            | 2/3      | Rotary Waltz (Intermediate)     | Sophia and Enquan    | _[Roble 114][roble]_ | _6-7_ |
 | 6-7          | 2/8-2/20 | [Austria Fortnight](/fortnight) |                      |                      |       |
 | 8            | 2/24     |                                 |                      |                      |       |
 | 9            | 3/3      |                                 |                      |                      |       |
