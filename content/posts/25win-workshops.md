@@ -10,19 +10,22 @@ Learn to dance or pick up new skills with our free workshops!
 
 ## All Workshops
 
-| Week         | Date     | Topic                           | Instructors          | Location             | Time  |
-|--------------|----------|---------------------------------|----------------------|----------------------|-------|
-| 1            | 1/6      | Cross-Step Waltz                | Grace and Will       | [GCC Havana][gcc]    | 7-8   |
-| 2            | 1/13     | Fusion                          | Cameron and Rocky    | _[Roble 114][roble]_ | _6-7_ |
-| 3            | 1/20     | West Coast Swing                | Akshay[^1]           | _[EPC][epc]_         | _7-8_ |
-| 4            | 1/27     | Rotary Waltz (Beginner)         | Akshay[^2] and Bella | _[Roble 114][roble]_ | _6-7_ |
-| 5            | 2/3      | Rotary Waltz (Intermediate)     | Sophia and Enquan    | _[Roble 114][roble]_ | _6-7_ |
-| 6-7          | 2/8-2/20 | [Austria Fortnight](/fortnight) |                      |                      |       |
-| 8            | 2/24     |                                 |                      |                      |       |
-| 9            | 3/3      |                                 |                      |                      |       |
-| 10           | 3/10     |                                 |                      |                      |       |
-| Finals       | 3/17     |                                 |                      |                      |       |
-| Spring Break | 3/24     |                                 |                      |                      |       |
+Workshops are followed by a [two-hour social](/events), either in the same room
+or nearby.
+
+| Week         | Date     | Topic                           | Instructors           | Location           | Time |
+|--------------|----------|---------------------------------|-----------------------|--------------------|------|
+| 1            | 1/6      | Cross-Step Waltz                | Grace and Will        | [GCC Havana][gcc]  | 7-8  |
+| 2            | 1/13     | Fusion                          | Cameron and Rocky     | [Roble 114][roble] | 6-7  |
+| 3            | 1/20     | West Coast Swing                | Jiying and Akshay[^1] | [EPC][epc]         | 7-8  |
+| 4            | 1/27     | Rotary Waltz (Beginner)         | Bella and Akshay[^2]  | [Roble 114][roble] | 6-7  |
+| 5            | 2/3      | Rotary Waltz (Intermediate)     | Sophia and Enquan     | [Roble 114][roble] | 6-7  |
+| 6-7          | 2/8-2/20 | [Austria Fortnight](/fortnight) |                       |                    |      |
+| 8            | 2/24     |                                 |                       |                    |      |
+| 9            | 3/3      |                                 |                       |                    |      |
+| 10           | 3/10     |                                 |                       |                    |      |
+| Finals       | 3/17     |                                 |                       |                    |      |
+| Spring Break | 3/24     |                                 |                       |                    |      |
 
 [^1]: Akshay Smit
 [^2]: Akshay Srivatsan

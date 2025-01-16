@@ -28,23 +28,27 @@ the next few weeks below.  We also teach (with a bunch of other clubs) classes
 every day during [Austria Fortnight](/fortnight), the two weeks leading up to
 the [Stanford Viennese Ball][vball].
 
-## Upcoming Events
+## Upcoming Lessons
 
 Last updated: {{< LastMod >}}
 
+| Date      | Location           | Time  | Topic                     |
+|-----------|--------------------|-------|---------------------------|
+| Mon. 1/20 | [EPC][epc]         | 7-8pm | West Coast Swing          |
+| Mon. 1/27 | [Roble 114][roble] | 6-7pm | Beginner Rotary Waltz     |
+| Mon. 2/3  | [Roble 114][roble] | 6-7pm | Intermediate Rotary Waltz |
 
-| Date      | Location                           | Time   | Lesson                    |
-|-----------|------------------------------------|--------|---------------------------|
-| Mon. 1/13 | [Roble 113][roble]                 | 6-9pm  | Fusion                    |
-| Mon. 1/21 | [EPC][epc]                         | 7-10pm | West Coast Swing          |
-| Mon. 1/27 | [Roble 113][roble] (lesson in 114) | 6-9pm  | Beginner Rotary Waltz     |
-| Mon. 2/3  | [Roble 113][roble] (lesson in 114) | 6-9pm  | Intermediate Rotary Waltz |
+Unless otherwise noted, lessons are beginner-friendly (i.e., no dance
+experience needed or expected). No need to come with a partner---we rotate
+partners often in class.
+
+Each lesson is followed by a [two-hour DJed social dance](./events).
 
 ## More Info
 
 {{< cards >}}
-{{< card link="posts/25win-events" icon="calendar" title="Event Calendar (Winter 2025)" subtitle="Locations, times, etc." >}}
 {{< card link="posts/25win-workshops" icon="academic-cap" title="Workshop Calendar (Winter 2025)" subtitle="Learn how to dance, develop new skills, or help our new members learn." >}}
+{{< card link="posts/25win-events" icon="calendar" title="Event Calendar (Winter 2025)" subtitle="Locations, times, etc." >}}
 {{< card link="https://mailman.stanford.edu/mailman/listinfo/dancebreak" icon="mail" title="Mailing List" subtitle="Get weekly updates about locations and events." >}}
 {{< card link="https://instagram.com/stanforddancebreak" icon="instagram" title="Instagram" subtitle="Photos from Dancebreak (and updates).">}}
 {{< card link="info/faq" icon="question-mark-circle" title="Frequently Asked Questions" subtitle="First time social dancing? Find out more here." >}}
