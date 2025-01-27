@@ -5,9 +5,9 @@ description: >
     Stanford community, featuring a variety of dance styles with a focus on
     waltz and swing! Come hang out with our campus's largest social dancing
     crew, practice styles taught in Richard Powers's Social Dance class series,
-    learn new moves, and have fun with us.  Beginners always welcome.
+    learn new moves, and have fun with us.  Beginners are always welcome.
 ---
-![A crowded room full of Stanford students dancing.](images/banner.jpg)
+<!-- ![A crowded room full of Stanford students dancing.](images/banner.jpg) -->
 
 ## What is Dancebreak?
 
@@ -24,9 +24,9 @@ community!
 
 If you don't know how to social dance, we have lessons (almost) every week! See
 the [list of workshops](/workshops) for details, or check out the schedule for
-the next few weeks below.  We also teach (with a bunch of other clubs) classes
-every day during [Austria Fortnight](/fortnight), the two weeks leading up to
-the [Stanford Viennese Ball][vball].
+the next few weeks below.  Many of our members also teach during [Austria
+Fortnight][fortnight], the two weeks leading up to the [Stanford Viennese
+Ball][vball].
 
 ## Upcoming Lessons
 
@@ -34,9 +34,11 @@ Last updated: {{< LastMod >}}
 
 | Date      | Location           | Time  | Topic                     |
 |-----------|--------------------|-------|---------------------------|
-| Mon. 1/20 | [EPC][epc]         | 7-8pm | West Coast Swing          |
 | Mon. 1/27 | [Roble 114][roble] | 6-7pm | Beginner Rotary Waltz     |
 | Mon. 2/3  | [Roble 114][roble] | 6-7pm | Intermediate Rotary Waltz |
+
+Also check out [Stanford Viennese Ball's Austria Fortnight classes][fortnight]
+from 2/7 to 2/21!
 
 Unless otherwise noted, lessons are beginner-friendly (i.e., no dance
 experience needed or expected). No need to come with a partner---we rotate
@@ -106,3 +108,4 @@ videos):
 [ssd]: https://swing.stanford.edu
 [wcs]: https://www.facebook.com/cardinalswing/
 [vball]: https://vienneseball.stanford.edu/
+[fortnight]: https://vienneseball.stanford.edu/austria-fortnight-classes/
