@@ -8,8 +8,14 @@ enableGitInfo = true
 editURL = { enable=true, base="https://github.com/stanford-dancebreak/stanford-dancebreak.github.io/edit/main/content" }
 
 [params.navbar]
-displayTitle = true
-displayLogo = false
+displayTitle = false
+displayLogo = true
+
+[params.navbar.logo]
+path = "images/dancebreak-light.png"
+dark = "images/dancebreak-dark.png"
+width = 192
+height = 24
 
 [[menu.main]]
 name = "Events"

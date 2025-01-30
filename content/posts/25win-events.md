@@ -22,7 +22,7 @@ We usually have a [one-hour lesson](/workshops) before each social.
 | 5    | 2/3  | Briana                            | [Roble 113][roble] | 7-9  |        |
 | 6    | 2/10 | Austria Fortnight - No Dancebreak |                    |      |        |
 | 7    | 2/17 | Austria Fortnight - No Dancebreak |                    |      |        |
-| 8    | 2/24 |                                   |                    |      |        |
+| 8    | 2/24 | Akshay[^1]                        |                    |      |        |
 | 9    | 3/3  |                                   |                    |      |        |
 | 10   | 3/10 |                                   |                    |      |        |
 | FW   | 3/17 |                                   |                    |      |        |
@@ -34,6 +34,15 @@ Information in italics is still tentative.  If you're interested in DJing one
 of the open spots, let us know!
 
 Last updated: {{< LastMod >}}
+
+## Viennese Ball
+
+The biggest Stanford ball of the year is the [Stanford Viennese Ball][vball].
+This year, Dancebreak is providing a limited number of financial aid tickets
+for members who would otherwise be unable to attend the Viennese Ball for
+financial reasons; [fill out this form to be considered for financial aid
+tickets](https://forms.gle/sXoPFgwbQHuBCNew6).  Priority will go to applicants
+with financial need and Dancebreak regulars.
 
 ## Other Socials
 

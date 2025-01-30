@@ -46,6 +46,16 @@ partners often in class.
 
 Each lesson is followed by a [two-hour DJed social dance](./events).
 
+## Viennese Ball Tickets
+
+The biggest Stanford ball of the year is the [Stanford Viennese Ball][vball].
+This year, Dancebreak is providing a limited number of financial aid tickets
+for members who would otherwise be unable to attend the Viennese Ball for
+financial reasons; [fill out this form to be considered for financial aid
+tickets](https://forms.gle/sXoPFgwbQHuBCNew6).  Priority will go to applicants
+with financial need and Dancebreak regulars.
+
+
 ## More Info
 
 {{< cards >}}
