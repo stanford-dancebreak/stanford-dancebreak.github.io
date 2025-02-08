@@ -32,13 +32,13 @@ Ball][vball].
 
 Last updated: {{< LastMod >}}
 
-| Date      | Location           | Time  | Topic                     |
-|-----------|--------------------|-------|---------------------------|
-| Mon. 1/27 | [Roble 114][roble] | 6-7pm | Beginner Rotary Waltz     |
-| Mon. 2/3  | [Roble 114][roble] | 6-7pm | Intermediate Rotary Waltz |
-
-Also check out [Stanford Viennese Ball's Austria Fortnight classes][fortnight]
+[Stanford Viennese Ball's Austria Fortnight classes][fortnight] run every day
 from 2/7 to 2/21!
+
+| Date      | Location | Time | Topic       |
+|-----------|----------|------|-------------|
+| Mon. 2/24 | TBD      | TBD  | Line Dances |
+
 
 Unless otherwise noted, lessons are beginner-friendly (i.e., no dance
 experience needed or expected). No need to come with a partner---we rotate

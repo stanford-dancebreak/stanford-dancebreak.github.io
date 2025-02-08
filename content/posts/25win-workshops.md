@@ -51,4 +51,4 @@ styles of dance. [Check out the Austria Fortnight schedule here.][fortnight]
 [wcs]: https://www.facebook.com/cardinalswing/
 [fnw]: http://fridaynightwaltz.com/
 [vball]: https://vienneseball.stanford.edu
-[fortnight]: https://vienneseball.stanford.edu/austria-fortnight-classes/
+[fortnight]: /posts/25win-fortnight
