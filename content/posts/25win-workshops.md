@@ -21,10 +21,10 @@ or nearby.
 | 4            | 1/27     | Rotary Waltz (Beginner)        | Bella and Akshay[^2]  | [Roble 114][roble] | 6-7  |
 | 5            | 2/3      | Rotary Waltz (Intermediate)    | Grace and Enquan      | [Roble 114][roble] | 6-7  |
 | 6-7          | 2/8-2/20 | [Austria Fortnight][fortnight] |                       |                    |      |
-| 8            | 2/24     | Line Dances                    | Bandana Bob           |                    |      |
-| 9            | 3/3      |                                |                       |                    |      |
-| 10           | 3/10     |                                |                       |                    |      |
-| Finals       | 3/17     |                                |                       |                    |      |
+| 8            | 2/24     | Line Dances                    | Bandana Bob           | [GCC Havana][gcc]  | 7-8  |
+| 9            | 3/3      | Beginner Cross-Step Waltz      | Akshay[^2]            | [Roble 114][roble] | 6-7  |
+| 10           | 3/10     | Waltz Musicality               | Cameron and Rocky     | TBD                | TBD  |
+| Finals       | 3/17     | Irish Ceili                    | Bandana Bob           | TBD                | TBD  |
 | Spring Break | 3/24     |                                |                       |                    |      |
 
 [^1]: Akshay Smit

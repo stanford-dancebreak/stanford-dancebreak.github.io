@@ -32,12 +32,12 @@ Ball][vball].
 
 Last updated: {{< LastMod >}}
 
-[Stanford Viennese Ball's Austria Fortnight classes][fortnight] run every day
-from 2/7 to 2/21!
-
-| Date      | Location | Time | Topic       |
-|-----------|----------|------|-------------|
-| Mon. 2/24 | TBD      | TBD  | Line Dances |
+| Date      | Location           | Time   | Topic                           |
+|-----------|--------------------|--------|---------------------------------|
+| Mon. 2/24 | [GCC Havana][gcc]  | 7-8 PM | Line Dances                     |
+| Mon. 3/3  | [Roble 114][roble] | 6-7 PM | Beginner Cross-Step Waltz       |
+| Mon. 3/10 | TBD                | TBD    | Waltz Musicality                |
+| Mon. 3/17 | TBD                | TBD    | Irish Ceili (St. Patrick's Day) |
 
 
 Unless otherwise noted, lessons are beginner-friendly (i.e., no dance
@@ -45,16 +45,6 @@ experience needed or expected). No need to come with a partner---we rotate
 partners often in class.
 
 Each lesson is followed by a [two-hour DJed social dance](./events).
-
-## Viennese Ball Tickets
-
-The biggest Stanford ball of the year is the [Stanford Viennese Ball][vball].
-This year, Dancebreak is providing a limited number of financial aid tickets
-for members who would otherwise be unable to attend the Viennese Ball for
-financial reasons; [fill out this form to be considered for financial aid
-tickets](https://forms.gle/sXoPFgwbQHuBCNew6).  Priority will go to applicants
-with financial need and Dancebreak regulars.
-
 
 ## More Info
 

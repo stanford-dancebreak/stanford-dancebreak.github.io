@@ -13,20 +13,20 @@ week-by-week basis depending on room availability.
 
 We usually have a [one-hour lesson](/workshops) before each social.
 
-| Week | Date | DJ                                | Location           | Time | Theme  |
-|------|------|-----------------------------------|--------------------|------|--------|
-| 1    | 1/6  | Wally                             | [GCC Havana][gcc]  | 8-10 | Winter |
-| 2    | 1/13 | Sophia                            | [Roble 113][roble] | 7-9  |        |
-| 3    | 1/20 | Akshay[^1]                        | [EPC][epc]         | 8-10 |        |
-| 4    | 1/27 | Audrey                            | [Roble 113][roble] | 7-9  |        |
-| 5    | 2/3  | Briana                            | [Roble 113][roble] | 7-9  |        |
-| 6    | 2/10 | Austria Fortnight - No Dancebreak |                    |      |        |
-| 7    | 2/17 | Austria Fortnight - No Dancebreak |                    |      |        |
-| 8    | 2/24 | Akshay[^1]                        |                    |      |        |
-| 9    | 3/3  |                                   |                    |      |        |
-| 10   | 3/10 |                                   |                    |      |        |
-| FW   | 3/17 |                                   |                    |      |        |
-| SB   | 3/24 |                                   |                    |      |        |
+| Week | Date | DJ                                | Location           | Time | Theme             |
+|------|------|-----------------------------------|--------------------|------|-------------------|
+| 1    | 1/6  | Wally                             | [GCC Havana][gcc]  | 8-10 | Winter            |
+| 2    | 1/13 | Sophia                            | [Roble 113][roble] | 7-9  |                   |
+| 3    | 1/20 | Akshay[^1]                        | [EPC][epc]         | 8-10 |                   |
+| 4    | 1/27 | Audrey                            | [Roble 113][roble] | 7-9  |                   |
+| 5    | 2/3  | Briana                            | [Roble 113][roble] | 7-9  |                   |
+| 6    | 2/10 | Austria Fortnight - No Dancebreak |                    |      |                   |
+| 7    | 2/17 | Austria Fortnight - No Dancebreak |                    |      |                   |
+| 8    | 2/24 | Akshay[^1]                        | [GCC Havana][gcc]  | 8-10 |                   |
+| 9    | 3/3  | Ethan and Enquan                  | [Roble 113][roble] | 7-9  |                   |
+| 10   | 3/10 | Wally                             |                    |      |                   |
+| FW   | 3/17 | Audrey                            |                    |      | St. Patrick's Day |
+| SB   | 3/24 | Andrea                            |                    |      |                   |
 
 [^1]: Akshay Smit
 
