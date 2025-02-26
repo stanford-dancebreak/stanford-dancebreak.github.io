@@ -23,11 +23,14 @@ towards Roble 115 (away from the building entrance).
 2. Walk through the lobby to the center courtyard.
 3. Turn left and walk into the big dance studio.
 
-This studio has a clean sprung wood floor.  Per building policy, no street
-shoes are allowed in the studio; clean dance shoes, socks, or bare feet are
-acceptable.
+This studio has a sprung wood floor.  Per building policy, no street shoes are
+allowed in the studio; clean dance shoes, socks, or bare feet are acceptable.
 
-This room has an excellent sound system.  It also has a TV.
+This room has an excellent sound system.  It also has a TV; however, the TV can
+be finicky to get working.  Note that the audio cable in the room is often only
+partially functional (e.g., only one of the two audio channels works); using
+one of the Dancebreak audio cables is the better option.  Instructors in this
+room need microphones to be audible.
 
 This is the largest (and best) dance studio on campus, but also the most
 in-demand.
@@ -46,7 +49,8 @@ This studio has a sprung wood floor.  Per building policy, no street shoes are
 allowed in the studio; clean dance shoes, socks, or bare feet are acceptable.
 
 This room has a good sound system, but no TV.  It is suitable for stationary
-and slotted dances, but it's too small for traveling ones.
+and slotted dances, but it's too small for traveling ones (although it will
+suffice for waltz lessons if nothing better is available).
 
 ### Studio 115
 
@@ -56,9 +60,11 @@ and slotted dances, but it's too small for traveling ones.
 4. Walk into the hallway that leads towards the back of the building; Studio
    115 is on the left.
 
-This studio has a clean cushioned wood floor.  Per building policy, no street
+This studio has a clean cushioned marley floor.  Per building policy, no street
 shoes are allowed in the studio; clean dance shoes, socks, or bare feet are
 acceptable.
+
+This room has a good sound system, but no TV.
 
 ### Room 116
 
@@ -70,7 +76,8 @@ This room is part of [Roble Arts Gym](https://arts.stanford.edu/office-of-the-vi
 4. Room 116 functions as a space for many kinds of art; the dance floor is
    located at the back of the space.
 
-This room has no integrated sound system and requires a speaker.
+This room has no integrated sound system; we use the Dancebreak speaker
+instead.
 
 ## Graduate Community Center
 
@@ -94,6 +101,12 @@ From inside:
 3. Walk into the building and turn right.
 4. Enter through the double doors.
 
+While this venue has an in-room sound system (which requires an AUX cable), it
+is unreliable and should be avoided.  We use the Dancebreak speaker in this
+venue instead.  This room has a projector which is usable, although not very
+bright. Instructors in this venue need microphones if there are more than about
+40 attendees.
+
 ## Elliott Program Center
 
 Address: [589 Governor's Ave.](https://maps.app.goo.gl/CaveBzf8iHpvb1Dd9)
@@ -109,7 +122,8 @@ building.  Drinking fountains are available in the same hallway.
    the lake.
 
 This room's A/V system is not generally usable; we use the Dancebreak speaker
-instead.
+instead.  Instructors in this venue need microphones if there are more than
+about 40 attendees.
 
 ## Escondido Village Graduate Residences
 
@@ -127,7 +141,7 @@ From outside:
 
 This room has a TV with mediocre sound quality (but which has bluetooth), and
 an in-room sound system with relatively good sound quality (which requires an
-AUX cable).
+AUX cable).  We often use the Dancebreak speaker instead, but it is not strictly needed.
 
 ### EVGR C153 (Dance Studio)
 
@@ -138,8 +152,10 @@ From outside:
 2. Walk towards (but do not enter) EVGR-C.
 3. Turn right and walk along the side of the building until you reach Studio 153.
 
-This room has a TV with mediocre sound quality (but which has bluetooth). We
-use the Dancebreak speaker instead.
+This room has a TV with mediocre sound quality (but which has bluetooth), and
+an in-room sound system with relatively good sound quality (which requires an
+AUX cable).  We often use the Dancebreak speaker instead, but it is not
+strictly needed.
 
 ## Rains Houses
 
@@ -149,6 +165,8 @@ Address: [796 Escondido Rd.](https://maps.app.goo.gl/R5nvePgB2JsrQTzM8)
 
 The main entrances to this room are from the courtyard.
 
-This room has a TV and sound system.  The floor in this room was treated in
-mid-2024 in a way that makes it suboptimal for dance, but it is usable if
-necessary.
+This room has a screen made up of nine TVs; often only seven or eight will turn
+on.  There is a sound system but it's unclear how to connect to it; we use the
+Dancebreak speaker instead.  Instructors here need microphones if there are
+more than about 40 attendees.  This room is, as of February 2025,
+capacity-limited to 40 people due to nearby construction.
