@@ -17,12 +17,12 @@ or nearby.
 |--------------|----------|--------------------------------|-----------------------|--------------------|------|
 | 1            | 1/6      | Cross-Step Waltz               | Grace and Will        | [GCC Havana][gcc]  | 7-8  |
 | 2            | 1/13     | Fusion                         | Cameron and Rocky     | [Roble 114][roble] | 6-7  |
-| 3            | 1/20     | West Coast Swing               | Jiying and Akshay[^1] | [EPC][epc]         | 7-8  |
+| 3            | 1/20     | West Coast Swing               | Akshay[^1] and Jiying | [EPC][epc]         | 7-8  |
 | 4            | 1/27     | Rotary Waltz (Beginner)        | Bella and Akshay[^2]  | [Roble 114][roble] | 6-7  |
 | 5            | 2/3      | Rotary Waltz (Intermediate)    | Grace and Enquan      | [Roble 114][roble] | 6-7  |
 | 6-7          | 2/8-2/20 | [Austria Fortnight][fortnight] |                       |                    |      |
 | 8            | 2/24     | Line Dances                    | Bandana Bob           | [GCC Havana][gcc]  | 7-8  |
-| 9            | 3/3      | Beginner Cross-Step Waltz      | Akshay[^2]            | [Roble 114][roble] | 6-7  |
+| 9            | 3/3      | Beginner Cross-Step Waltz      | Grace and Akshay[^2]  | [Roble 114][roble] | 6-7  |
 | 10           | 3/10     | Waltz Musicality               | Cameron and Rocky     | TBD                | TBD  |
 | Finals       | 3/17     | Irish Ceili                    | Bandana Bob           | TBD                | TBD  |
 | Spring Break | 3/24     |                                |                       |                    |      |
