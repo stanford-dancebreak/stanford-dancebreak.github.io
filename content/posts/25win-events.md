@@ -24,7 +24,7 @@ We usually have a [one-hour lesson](/workshops) before each social.
 | 7    | 2/17 | Austria Fortnight - No Dancebreak |                    |      |                   |
 | 8    | 2/24 | Akshay[^1]                        | [GCC Havana][gcc]  | 8-10 |                   |
 | 9    | 3/3  | Ethan and Akshay[^2]              | [Roble 113][roble] | 7-9  |                   |
-| 10   | 3/10 | Ethan and Dakota                  |                    |      |                   |
+| 10   | 3/10 | Ethan and Dakota                  | [EPC][epc]         | 8-10 |                   |
 | FW   | 3/17 | Audrey                            |                    |      | St. Patrick's Day |
 | SB   | 3/24 | Andrea                            |                    |      |                   |
 
@@ -50,13 +50,13 @@ with financial need and Dancebreak regulars.
 These events aren't run by Dancebreak, but may be of interest.  If you have
 other on-campus social dance events you want us to list here, let us know!
 
-| Date            | Name                   | Organizers                                                   | Dance Styles | Location                      | Time       |
-|-----------------|------------------------|--------------------------------------------------------------|--------------|-------------------------------|------------|
-| 1/18            | SSD Social             | [Stanford Swing Dancers][ssd]                                | Lindy        |                               |            |
-| 1/24 (probably) | Jammix                 | [Richard Powers][powers]                                     | Various      | [Roble 113][roble]            | 9 PM-12 AM |
-| 2/7             | [Bon Bon Ball][bonbon] | [Richard Powers][powers] and [Stanford Viennese Ball][vball] | Various      | [Roble 113][roble]            | 7 PM-12 AM |
-| 2/21            | Viennese Ball          | [Stanford Viennese Ball][vball]                              | Various      | Marriot Marquis San Francisco | 6 PM-2 AM  |
-| 3/21 (probably) | Jammix                 | [Richard Powers][powers]                                     | Various      | [Roble 113][roble]            | 9 PM-12 AM |
+| Date | Name                   | Organizers                                                   | Dance Styles | Location                      | Time       |
+|------|------------------------|--------------------------------------------------------------|--------------|-------------------------------|------------|
+| 1/18 | SSD Social             | [Stanford Swing Dancers][ssd]                                | Lindy        |                               |            |
+| 1/24 | Jammix                 | [Richard Powers][powers]                                     | Various      | [Roble 113][roble]            | 9 PM-12 AM |
+| 2/7  | [Bon Bon Ball][bonbon] | [Richard Powers][powers] and [Stanford Viennese Ball][vball] | Various      | [Roble 113][roble]            | 7 PM-12 AM |
+| 2/21 | Viennese Ball          | [Stanford Viennese Ball][vball]                              | Various      | Marriot Marquis San Francisco | 6 PM-2 AM  |
+| 3/14 | Jammix                 | [Richard Powers][powers]                                     | Various      | [Roble 113][roble]            | 9 PM-12 AM |
 
 [epc]: /info/locations/#elliott-program-center
 [roble]: /info/locations/#roble-gym

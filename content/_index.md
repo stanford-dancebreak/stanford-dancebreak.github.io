@@ -32,13 +32,10 @@ Ball][vball].
 
 Last updated: {{< LastMod >}}
 
-| Date      | Location           | Time   | Topic                           |
-|-----------|--------------------|--------|---------------------------------|
-| Mon. 2/24 | [GCC Havana][gcc]  | 7-8 PM | Line Dances                     |
-| Mon. 3/3  | [Roble 114][roble] | 6-7 PM | Beginner Cross-Step Waltz       |
-| Mon. 3/10 | TBD                | TBD    | Waltz Musicality                |
-| Mon. 3/17 | TBD                | TBD    | Irish Ceili (St. Patrick's Day) |
-
+| Date      | Location                     | Time   | Topic                           |
+|-----------|------------------------------|--------|---------------------------------|
+| Mon. 3/10 | [Elliot Program Center][epc] | 7-8PM  | Waltz Musicality                |
+| Mon. 3/17 | TBD                          | TBD    | Irish Ceili (St. Patrick's Day) |
 
 Unless otherwise noted, lessons are beginner-friendly (i.e., no dance
 experience needed or expected). No need to come with a partner---we rotate
