@@ -35,7 +35,7 @@ Last updated: {{< LastMod >}}
 | Date      | Location                     | Time   | Topic                           |
 |-----------|------------------------------|--------|---------------------------------|
 | Mon. 3/10 | [Elliot Program Center][epc] | 7-8PM  | Waltz Musicality                |
-| Mon. 3/17 | TBD                          | TBD    | Irish Ceili (St. Patrick's Day) |
+| Mon. 3/17 | 7-8PM                          | [GCC Havana][gcc]    | Irish Ceili (St. Patrick's Day) |
 
 Unless otherwise noted, lessons are beginner-friendly (i.e., no dance
 experience needed or expected). No need to come with a partner---we rotate
