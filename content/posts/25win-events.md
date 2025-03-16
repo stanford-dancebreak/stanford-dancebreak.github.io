@@ -25,7 +25,7 @@ We usually have a [one-hour lesson](/workshops) before each social.
 | 8    | 2/24 | Akshay[^1]                        | [GCC Havana][gcc]  | 8-10 |                   |
 | 9    | 3/3  | Ethan and Akshay[^2]              | [Roble 113][roble] | 7-9  |                   |
 | 10   | 3/10 | Ethan and Dakota                  | [EPC][epc]         | 8-10 |                   |
-| FW   | 3/17 | Eddy                            | 8-10                   |      | St. Patrick's Day |
+| FW   | 3/17 | Eddy                            | [GCC Havana][gcc]                   | 8-10     | St. Patrick's Day |
 | SB   | 3/24 | Andrea                            |                    |      |                   |
 
 [^1]: Akshay Smit
