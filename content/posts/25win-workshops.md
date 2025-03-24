@@ -23,14 +23,12 @@ or nearby.
 | 6-7          | 2/8-2/20 | [Austria Fortnight][fortnight] |                       |                    |      |
 | 8            | 2/24     | Line Dances                    | Bandana Bob           | [GCC Havana][gcc]  | 7-8  |
 | 9            | 3/3      | Beginner Cross-Step Waltz      | Grace and Akshay[^2]  | [Roble 114][roble] | 6-7  |
-| 10           | 3/10     | Waltz Musicality               | Cameron and Rocky     | [EPC][epc]                | 7-8  |
-| Finals       | 3/17     | Irish Ceili                    | Bandana Bob           | [GCC Havana][gcc]                | 7-8  |
-| Spring Break | 3/24     |                                |                       |                    |      |
+| 10           | 3/10     | Waltz Musicality               | Cameron and Rocky     | [EPC][epc]         | 7-8  |
+| Finals       | 3/17     | Irish Ceili                    | Bandana Bob           | [GCC Havana][gcc]  | 7-8  |
+| Spring Break | 3/24     | Redowa                         | Andrea                | [EVGR C153][evgr]  | 7-8  |
 
 [^1]: Akshay Smit
 [^2]: Akshay Srivatsan
-
-Information in italics is still tentative.
 
 Last updated: {{< LastMod >}}
 
@@ -52,3 +50,4 @@ styles of dance. [Check out the Austria Fortnight schedule here.][fortnight]
 [fnw]: http://fridaynightwaltz.com/
 [vball]: https://vienneseball.stanford.edu
 [fortnight]: /posts/25win-fortnight
+[evgr]: /info/locations/#escondido-village-graduate-residences

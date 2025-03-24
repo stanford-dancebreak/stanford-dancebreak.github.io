@@ -32,10 +32,10 @@ Ball][vball].
 
 Last updated: {{< LastMod >}}
 
-| Date      | Location                     | Time   | Topic                           |
-|-----------|------------------------------|--------|---------------------------------|
-| Mon. 3/10 | [Elliot Program Center][epc] | 7-8PM  | Waltz Musicality                |
-| Mon. 3/17                          | [GCC Havana][gcc]    | 7-8PM | Irish Ceili (St. Patrick's Day) |
+| Date      | Location          | Time                 | Topic  |
+|-----------|-------------------|----------------------|--------|
+| Mon. 3/24 | [EVGR C153][evgr] | 7-8PM                | Redowa |
+| Mon. 3/31 | TBD               | TBD (Probably 7-8PM) | TBD    |
 
 Unless otherwise noted, lessons are beginner-friendly (i.e., no dance
 experience needed or expected). No need to come with a partner---we rotate
