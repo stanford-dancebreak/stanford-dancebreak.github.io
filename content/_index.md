@@ -32,14 +32,16 @@ Ball][vball].
 
 Last updated: {{< LastMod >}}
 
-| Date      | Location          | Time                 | Topic  |
-|-----------|-------------------|----------------------|--------|
-| Mon. 3/24 | [EVGR C153][evgr] | 7-8PM                | Redowa |
-| Mon. 3/31 | TBD               | TBD (Probably 7-8PM) | TBD    |
+| Date      | Location   | Time  | Topic         |
+|-----------|------------|-------|---------------|
+| Mon. 3/31 | [EPC][epc] | 7-8PM | Weird Waltzes |
 
-Unless otherwise noted, lessons are beginner-friendly (i.e., no dance
-experience needed or expected). No need to come with a partner---we rotate
-partners often in class.
+The schedule for the rest of Spring Quarter will be published soon; we plan to
+have lessons every Monday.
+
+<!-- Unless otherwise noted, lessons are beginner-friendly (i.e., no dance -->
+<!-- experience needed or expected). No need to come with a partner---we rotate -->
+<!-- partners often in class. -->
 
 Each lesson is followed by a [two-hour DJed social dance](./events).
 
