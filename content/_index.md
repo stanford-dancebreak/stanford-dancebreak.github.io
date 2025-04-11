@@ -32,18 +32,27 @@ Ball][vball].
 
 Last updated: {{< LastMod >}}
 
-| Date      | Location   | Time  | Topic         |
-|-----------|------------|-------|---------------|
-| Mon. 3/31 | [EPC][epc] | 7-8PM | Weird Waltzes |
+| Date      | Location           | Time     | Topic                                |
+|-----------|--------------------|----------|--------------------------------------|
+| Mon. 4/14 | [EPC][epc]         | 7-8PM    | TBD (probably Beginner Rotary Waltz) |
+| Mon. 4/21 | [Roble 116][roble] | 8-9:30PM | TBD (possibly Dawn Mazurka)          |
+| Mon. 4/28 | [Roble 116][roble] | 8-9:30PM | TBD (possibly Dawn Mazurka)          |
+| Mon. 5/5  | TBD                | TBD      | TBD (possibly Dawn Mazurka)          |
 
 The schedule for the rest of Spring Quarter will be published soon; we plan to
 have lessons every Monday.
+
+We are having trouble securing advance room reservations this quarter, so
+please sign up for the mailing list to get up-to-date information. If you can
+help reserve any large, dance-friendly (hardwood floor) rooms on campus, please
+let us know!
 
 <!-- Unless otherwise noted, lessons are beginner-friendly (i.e., no dance -->
 <!-- experience needed or expected). No need to come with a partner---we rotate -->
 <!-- partners often in class. -->
 
-Each lesson is followed by a [two-hour DJed social dance](./events).
+Each lesson is followed by a two-hour DJed social dance, either in the same
+location or nearby.
 
 ## More Info
 
