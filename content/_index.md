@@ -9,6 +9,9 @@ description: >
 ---
 <!-- ![A crowded room full of Stanford students dancing.](images/banner.jpg) -->
 
+[![All That Jazz is a Lindy Hop and Waltz crossover event, run by Dancebreak and Stanford Swing Dancers, taking place on Saturday, April 19th.](images/all-that-jazz.jpg)](posts/25spr-all-that-jazz)
+
+
 ## What is Dancebreak?
 
 Dancebreak is a weekly, free, DJed casual social dancing event for the Stanford
@@ -32,12 +35,13 @@ Ball][vball].
 
 Last updated: {{< LastMod >}}
 
-| Date      | Location           | Time     | Topic                                |
-|-----------|--------------------|----------|--------------------------------------|
-| Mon. 4/14 | [EPC][epc]         | 7-8PM    | TBD (probably Beginner Rotary Waltz) |
-| Mon. 4/21 | [Roble 116][roble] | 8-9:30PM | TBD (possibly Dawn Mazurka)          |
-| Mon. 4/28 | [Roble 116][roble] | 8-9:30PM | TBD (possibly Dawn Mazurka)          |
-| Mon. 5/5  | TBD                | TBD      | TBD (possibly Dawn Mazurka)          |
+| Date      | Location           | Time     | Topic                          |
+|-----------|--------------------|----------|--------------------------------|
+| Mon. 4/19 | [Roble 116][roble] | 5-7PM    | Beginner Waltz + Lindy Hop     |
+| Mon. 4/19 | [Roble 114][roble] | 5-7PM    | Intermediate Waltz + Lindy Hop |
+| Mon. 4/21 | [Roble 116][roble] | 8-9:30PM | TBD (possibly Dawn Mazurka)    |
+| Mon. 4/28 | [Roble 116][roble] | 8-9:30PM | TBD (possibly Dawn Mazurka)    |
+| Mon. 5/5  | TBD                | TBD      | TBD (possibly Dawn Mazurka)    |
 
 The schedule for the rest of Spring Quarter will be published soon; we plan to
 have lessons every Monday.

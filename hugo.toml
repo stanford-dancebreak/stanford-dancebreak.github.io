@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Stanford Dancebreak'
 theme = 'hextra'
 enableGitInfo = true
+ignoreLogs = ['warning-goldmark-raw-html']
 
 [params]
 editURL = { enable=true, base="https://github.com/stanford-dancebreak/stanford-dancebreak.github.io/edit/main/content" }
