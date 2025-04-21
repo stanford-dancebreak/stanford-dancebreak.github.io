@@ -20,17 +20,12 @@ height = 24
 
 [[menu.main]]
 name = "Events"
-pageRef = "/posts/25win-events"
+pageRef = "/posts/25spr-events"
 weight = 1
 
 [[menu.main]]
 name = "Workshops"
-pageRef = "/posts/25win-workshops"
-weight = 1
-
-[[menu.main]]
-name = "Austria Fortnight"
-pageRef = "/posts/25win-fortnight"
+pageRef = "/posts/25spr-workshops"
 weight = 1
 
 [[menu.main]]

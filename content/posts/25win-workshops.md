@@ -1,6 +1,5 @@
 ---
 title: Workshops (Winter 2025)
-aliases: ["/workshops"]
 date: 2025-01-01
 ---
 

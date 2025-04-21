@@ -9,9 +9,6 @@ description: >
 ---
 <!-- ![A crowded room full of Stanford students dancing.](images/banner.jpg) -->
 
-[![All That Jazz is a Lindy Hop and Waltz crossover event, run by Dancebreak and Stanford Swing Dancers, taking place on Saturday, April 19th.](images/all-that-jazz.jpg)](posts/25spr-all-that-jazz)
-
-
 ## What is Dancebreak?
 
 Dancebreak is a weekly, free, DJed casual social dancing event for the Stanford
@@ -35,25 +32,16 @@ Ball][vball].
 
 Last updated: {{< LastMod >}}
 
-| Date      | Location           | Time     | Topic                          |
-|-----------|--------------------|----------|--------------------------------|
-| Mon. 4/19 | [Roble 116][roble] | 5-7PM    | Beginner Waltz + Lindy Hop     |
-| Mon. 4/19 | [Roble 114][roble] | 5-7PM    | Intermediate Waltz + Lindy Hop |
-| Mon. 4/21 | [Roble 116][roble] | 8-9:30PM | TBD (possibly Dawn Mazurka)    |
-| Mon. 4/28 | [Roble 116][roble] | 8-9:30PM | TBD (possibly Dawn Mazurka)    |
-| Mon. 5/5  | TBD                | TBD      | TBD (possibly Dawn Mazurka)    |
+| Date      | Location           | Time         | Topic                          |
+|-----------|--------------------|--------------|--------------------------------|
+| Mon. 4/21 | [Roble 116][roble] | 8-9:30PM     | Dawn Mazurka Review (Advanced) |
+| Mon. 4/21 | [Roble 113][roble] | 9:30-10:30PM | Office Hours (All Levels)      |
+| Mon. 4/28 | [Roble 116][roble] | 8-9:30PM     | Dawn Mazurka Review (Advanced) |
+| Mon. 4/28 | [Roble 113][roble] | 9:30-10:30PM | Office Hours (All Levels)      |
 
-The schedule for the rest of Spring Quarter will be published soon; we plan to
-have lessons every Monday.
-
-We are having trouble securing advance room reservations this quarter, so
-please sign up for the mailing list to get up-to-date information. If you can
-help reserve any large, dance-friendly (hardwood floor) rooms on campus, please
-let us know!
-
-<!-- Unless otherwise noted, lessons are beginner-friendly (i.e., no dance -->
-<!-- experience needed or expected). No need to come with a partner---we rotate -->
-<!-- partners often in class. -->
+Unless otherwise noted, lessons are beginner-friendly (i.e., no dance
+experience needed or expected). No need to come with a partner---we rotate
+partners often in class.
 
 Each lesson is followed by a two-hour DJed social dance, either in the same
 location or nearby.
@@ -61,8 +49,8 @@ location or nearby.
 ## More Info
 
 {{< cards >}}
-{{< card link="posts/25win-workshops" icon="academic-cap" title="Workshop Calendar (Winter 2025)" subtitle="Learn how to dance, develop new skills, or help our new members learn." >}}
-{{< card link="posts/25win-events" icon="calendar" title="Event Calendar (Winter 2025)" subtitle="Locations, times, etc." >}}
+{{< card link="posts/25spr-workshops" icon="academic-cap" title="Workshop Calendar (Spring 2025)" subtitle="Learn how to dance, develop new skills, or help our new members learn." >}}
+{{< card link="posts/25spr-events" icon="calendar" title="Event Calendar (Spring 2025)" subtitle="Locations, times, etc." >}}
 {{< card link="https://mailman.stanford.edu/mailman/listinfo/dancebreak" icon="mail" title="Mailing List" subtitle="Get weekly updates about locations and events." >}}
 {{< card link="https://instagram.com/stanforddancebreak" icon="instagram" title="Instagram" subtitle="Photos from Dancebreak (and updates).">}}
 {{< card link="info/faq" icon="question-mark-circle" title="Frequently Asked Questions" subtitle="First time social dancing? Find out more here." >}}

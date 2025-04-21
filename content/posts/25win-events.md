@@ -1,6 +1,5 @@
 ---
 title: Events (Winter 2025)
-aliases: ["/events"]
 date: 2025-01-01
 ---
 

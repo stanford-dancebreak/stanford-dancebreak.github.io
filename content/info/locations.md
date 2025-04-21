@@ -76,8 +76,9 @@ This room is part of [Roble Arts Gym](https://arts.stanford.edu/office-of-the-vi
 4. Room 116 functions as a space for many kinds of art; the dance floor is
    located at the back of the space.
 
-This room has no integrated sound system; we use the Dancebreak speaker
-instead.
+This room has a dance-friendly floor and an integrated A/V system; however, we
+have had varied success using the A/V system so it's a good idea to bring a
+backup speaker.
 
 ## Graduate Community Center
 
