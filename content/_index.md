@@ -32,12 +32,22 @@ Ball][vball].
 
 Last updated: {{< LastMod >}}
 
-| Date      | Location           | Time         | Topic                          |
-|-----------|--------------------|--------------|--------------------------------|
-| Mon. 4/21 | [Roble 116][roble] | 8-9:30PM     | Dawn Mazurka Review (Advanced) |
-| Mon. 4/21 | [Roble 113][roble] | 9:30-10:30PM | Office Hours (All Levels)      |
-| Mon. 4/28 | [Roble 116][roble] | 8-9:30PM     | Dawn Mazurka Review (Advanced) |
-| Mon. 4/28 | [Roble 113][roble] | 9:30-10:30PM | Office Hours (All Levels)      |
+| Date     | Location           | Time     | Topic                                                 |
+|----------|--------------------|----------|-------------------------------------------------------|
+| Mon. 5/5 | [Roble 116][roble] | 8-9:30PM | Beginner Cross-Step Waltz                             |
+| Mon. 5/9 | [Roble 115][roble] | 8-9PM    | Intermediate Cross-Step Waltz @ [Big Dance][bigdance] |
+
+{{< callout type="info" >}}
+
+Big Dance, Stanford's all-night ball, is on May 9th and 10th, 2025!
+
+Dancebreak regulars who are current Stanford students may be eligible for free
+entry to Big Dance!
+
+See <https://bigdance.stanford.edu> for more info about Big Dance, and contact
+the Dancebreak officer team for more information regarding free tickets.
+
+{{< /callout >}}
 
 Unless otherwise noted, lessons are beginner-friendly (i.e., no dance
 experience needed or expected). No need to come with a partner---we rotate
@@ -109,3 +119,4 @@ videos):
 [wcs]: https://www.facebook.com/cardinalswing/
 [vball]: https://vienneseball.stanford.edu/
 [fortnight]: https://vienneseball.stanford.edu/austria-fortnight-classes/
+[bigdance]: https://bigdance.stanford.edu/
