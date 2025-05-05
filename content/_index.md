@@ -35,6 +35,7 @@ Last updated: {{< LastMod >}}
 | Date     | Location           | Time     | Topic                                                 |
 |----------|--------------------|----------|-------------------------------------------------------|
 | Mon. 5/5 | [Roble 116][roble] | 8-9:30PM | Beginner Cross-Step Waltz                             |
+| Mon. 5/9 | [Roble 114][roble] | 8-9PM    | Beginner Cross-Step Waltz @ [Big Dance][bigdance] |
 | Mon. 5/9 | [Roble 115][roble] | 8-9PM    | Intermediate Cross-Step Waltz @ [Big Dance][bigdance] |
 
 {{< callout type="info" >}}

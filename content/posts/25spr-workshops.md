@@ -17,20 +17,21 @@ or nearby.
 |------|------|---------------------------------------------|--------------|-------------------|--------------------|--------|
 | 1    | 3/31 | Waltzing Wrong                              | Intermediate | Bella and Akshay  | [EPC][epc]         | 7-8    |
 | 2    | 4/7  | Charleston                                  | Beginner     | Wally and Dakota  | [EPC][epc]         | 7-8    |
-| 3a   | 4/14 | Rotary Waltz                                | Beginner     | Lyna and Gokul    | [EPC][epc]         | 7-8    |
-| 3b   | 4/19 | [Rotary Waltz and Lindy Hop][jazz]          | Beginner     | Ariel and Akshay  | [Roble 116][roble] | 5-7    |
-| 3c   | 4/19 | [Rotary Waltz and Lindy Hop][jazz]          | Intermediate | Maiya and Annika  | [Roble 114][roble] | 5-7    |
+| 3    | 4/14 | Rotary Waltz                                | Beginner     | Lyna and Gokul    | [EPC][epc]         | 7-8    |
+|      | 4/19 | [Rotary Waltz and Lindy Hop][jazz]          | Beginner     | Ariel and Akshay  | [Roble 116][roble] | 5-7    |
+|      | 4/19 | [Rotary Waltz and Lindy Hop][jazz]          | Intermediate | Maiya and Annika  | [Roble 114][roble] | 5-7    |
 | 4    | 4/21 | Dawn Mazurka Review[^1]                     | Advanced     | Bandana Bob       | [Roble 116][roble] | 8-9:30 |
 | 5    | 4/28 | Dawn Mazurka Review[^1]                     | Advanced     | Bandana Bob       | [Roble 116][roble] | 8-9:30 |
-| 6a   | 5/5  | Cross-Step Waltz                            | Beginner     | Ashley and Akshay | [Roble 116][roble] | 8-9:30 |
-| 6b   | 5/9  | Cross-Step Waltz (at [Big Dance][bigdance]) | Intermediate | Jason             | [Roble 115][roble] | 8-9    |
+| 6    | 5/5  | Cross-Step Waltz                            | Beginner     | Ashley and Akshay | [Roble 116][roble] | 8-9:30 |
+|      | 5/9  | Cross-Step Waltz (at [Big Dance][bigdance]) | Beginner     | Sophia and Akshay | [Roble 115][roble] | 8-9    |
+|      | 5/9  | Cross-Step Waltz (at [Big Dance][bigdance]) | Intermediate | Jason             | [Roble 115][roble] | 8-9    |
 | 7    | 5/12 |                                             |              |                   |                    |        |
 | 8    | 5/19 |                                             |              |                   |                    |        |
 | 9    | 5/26 |                                             |              |                   |                    |        |
 | 10   | 6/2  |                                             |              |                   |                    |        |
-|      | 6/16 |                                             |              |                   |                    |        |
-|      | 6/23 |                                             |              |                   |                    |        |
-|      | 6/30 |                                             |              |                   |                    |        |
+| N/A  | 6/16 |                                             |              |                   |                    |        |
+| N/A  | 6/23 |                                             |              |                   |                    |        |
+| N/A  | 6/30 |                                             |              |                   |                    |        |
 
 [^1]: This class requires prior knowledge of the Dawn Mazurka choreography; we
     will not teach the choreography from scratch due to time constraints.
