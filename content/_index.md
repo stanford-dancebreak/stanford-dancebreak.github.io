@@ -9,6 +9,23 @@ description: >
 ---
 <!-- ![A crowded room full of Stanford students dancing.](images/banner.jpg) -->
 
+## Big Dance 2025: Bridgerton Ball
+
+[ ![Stanford's 27th Big Dance: Bridgerton Ball](images/bigdance-25.jpg)
+][bigdance]
+
+Prepare to dance beneath cascading garlands, to lose yourself in a symphony of
+swirling gowns and sly glances. All set to the masterful selections of
+**Richard Powers**, our DJ and guide through the evening’s enchantments. Made
+possible by your fellow Stanford dance peers, [**the Gang of
+13**](https://bigdance.stanford.edu/#gang-of-13), who form The Big Dance
+Committee! 
+
+See more at <https://bigdance.stanford.edu>.
+
+**If you've signed into Dancebreak recently, check your email to see if you're
+eligible for free entry to Big Dance!**
+
 ## What is Dancebreak?
 
 Dancebreak is a weekly, free, DJed casual social dancing event for the Stanford
@@ -40,13 +57,8 @@ Last updated: {{< LastMod >}}
 
 {{< callout type="info" >}}
 
-Big Dance, Stanford's all-night ball, is on May 9th and 10th, 2025!
-
-Dancebreak regulars who are current Stanford students may be eligible for free
-entry to Big Dance!
-
-See <https://bigdance.stanford.edu> for more info about Big Dance, and contact
-the Dancebreak officer team for more information regarding free tickets.
+If you've signed into Dancebreak recently, check your email to see if you're
+eligible for free entry to Big Dance!
 
 {{< /callout >}}
 
