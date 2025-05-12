@@ -24,8 +24,9 @@ or nearby.
 | 5    | 4/28 | Dawn Mazurka Review[^1]                     | Advanced     | Bandana Bob       | [Roble 116][roble] | 8-9:30 |
 | 6    | 5/5  | Cross-Step Waltz                            | Beginner     | Ashley and Akshay | [Roble 116][roble] | 8-9:30 |
 |      | 5/9  | Cross-Step Waltz (at [Big Dance][bigdance]) | Beginner     | Sophia and Akshay | [Roble 115][roble] | 8-9    |
-|      | 5/9  | Cross-Step Waltz (at [Big Dance][bigdance]) | Intermediate | Jason             | [Roble 115][roble] | 8-9    |
-| 7    | 5/12 |                                             |              |                   |                    |        |
+|      | 5/9  | Cross-Step Waltz (at [Big Dance][bigdance]) | Intermediate | Shelly and Jason  | [Roble 115][roble] | 8-9    |
+| 7    | 5/12 | Waltz                                       | Intermediate | Gokul and Bella   | [Roble 116][roble] | 8-9    |
+| 7    | 5/12 | Waltz                                       | Beginner     | Gokul and Bella   | [Roble 116][roble] | 9-9:30 |
 | 8    | 5/19 |                                             |              |                   |                    |        |
 | 9    | 5/26 |                                             |              |                   |                    |        |
 | 10   | 6/2  |                                             |              |                   |                    |        |
