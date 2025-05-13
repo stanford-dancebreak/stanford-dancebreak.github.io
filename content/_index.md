@@ -17,7 +17,7 @@ Come hang out with our campus's largest social dancing crew, practice styles
 taught in Richard Powers's Social Dance class series, learn new moves, and have
 fun with us.  **No dance experience or partner needed.**
 
-We dance every Monday night, usually in Roble 113 7-9pm (but this is
+We dance every Monday night, usually in Roble 113 9:30-11:30pm (but this is
 **extremely** subject to change---the best way to keep up is through [our
 mailing list][mail]).  Join us for social dancing, classes, snacks, and
 community!
@@ -32,17 +32,30 @@ Ball][vball].
 
 Last updated: {{< LastMod >}}
 
-| Date      | Location           | Time     | Topic              |
-|-----------|--------------------|----------|--------------------|
-| Mon. 5/12 | [Roble 116][roble] | 8-9PM    | Intermediate Waltz |
-| Mon. 5/12 | [Roble 116][roble] | 9-9:30PM | Beginner Waltz     |
+No need to come with a partner---we rotate partners often in class! Each lesson
+is followed by a two-hour DJed dance social, either in the same location or
+nearby.
 
-Unless otherwise noted, lessons are beginner-friendly (i.e., no dance
-experience needed or expected). No need to come with a partner---we rotate
-partners often in class.
+### Beginner
 
-Each lesson is followed by a two-hour DJed social dance, either in the same
-location or nearby.
+| Date        | Location             | Time          | Topic                         |
+| ----------- | -------------------- | ------------- | ----------------------------- |
+| Mon. 5/19   | TBD                  | 8:30-9:30PM   | Nightclub Two Step            |
+| Mon. 5/26   | [Roble 114][roble]   | 8:30-9:30PM   | West Coast Swing              |
+
+Beginner lessons are for everyone---no dance experience necessary! Practice
+what you learned by staying for the dance social, immediately after the
+beginner lesson at 9:30.
+
+### Intermediate
+
+| Date      | Location           | Time        | Topic            | Prerequisite     |
+|-----------|--------------------|-------------|------------------|------------------|
+| Mon. 5/19 | TBD                | 7:30-8:30PM | Waltz Musicality | Cross-Step Waltz |
+| Mon. 5/26 | [Roble 114][roble] | 7:30-8:30PM | Reverse Waltz    | Rotary Waltz     |
+
+Intermediate lessons are for those who already know the basics and want to
+learn new skills or just get more practice!
 
 ## More Info
 

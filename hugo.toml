@@ -18,6 +18,9 @@ dark = "images/dancebreak-dark.png"
 width = 192
 height = 24
 
+[params.page]
+width = "wide"
+
 [[menu.main]]
 name = "Events"
 pageRef = "/posts/25spr-events"
