@@ -2,16 +2,17 @@
 title: Officers
 ---
 
-## Current Officers (2024-2025)
+## Current Officers (2025-2026)
 
 Our current leadership team is:
 
-| Role              | Name             |
-|-------------------|------------------|
-| President         | Sophia Manukian  |
-| President         | Akshay Srivatsan |
-| Financial Officer | Donovan Jasper   |
-| Room Coordinator  | Kelly Chou       |
+| Role                 | Name                                         |
+|----------------------|----------------------------------------------|
+| President            | Akshay Srivatsan (PhD 2028)                  |
+| President            | Sophia Manukian  (PhD 2029)                  |
+| Financial Officer    | Donovan Jasper   (BS 2025, BA 2026, MS 2026) |
+| Communications Chair | Ashley Chen      (MS 2025)                   |
+| Venue Coordinator    | Kelly Chou       (MS 2026)                   |
 
 In addition we have many others helping out in various administrative and
 advisory roles.  If you're interested in joining us, please reach out---we
@@ -21,21 +22,24 @@ could always use more help!
 
 Here are the Dancebreak officers for prior academic years:
  
+* 2024-2025:
+  * Presidents: Jason Kronenfeld (PhD 2025) and Ashley Chen (MS 2025)
+  * Financial Officer: Donovan Jasper (BS 2025, BA 2026, MS 2026)
+  * Webmaster: Akshay Srivatsan (PhD 2028)
+  * Venue Coordinator: Kelly Chou (MS 2026)
+  * Workshop Coordinator: Sophia Manukian (PhD 2029)
 * 2023-2024:
-  * President: Jason Kronenfeld
-  * Vice President: Ashley Chen
-  * Financial Officer: Donovan Jasper
-  * Webmaster: Akshay Srivatsan
-  * Room Coordinator: Kelly Chou
-  * Workshop Coordinator: Sophia Manukian
+  * President: Jason Kronenfeld (PhD 2025)
+  * Vice President: Ashley Chen (BS 2024, MS 2025)
+  * Financial Officer: Donovan Jasper (BS 2025, BA 2026, MS 2026)
 * 2022-2023:
-  * President: Jason Kronenfeld
-  * Vice President: William Meng
-  * Financial Officer: Donovan Jasper
-  * Communications Chair: Ashley Chen
-  * Planning Coordinator: Saumya Goyal
+  * President: Jason Kronenfeld (PhD 2025)
+  * Vice President: William Meng (PhD 2026)
+  * Financial Officer: Donovan Jasper (BS 2025, BA 2026)
+  * Communications Chair: Ashley Chen (BS 2024, MS 2025)
+  * Planning Coordinator: Saumya Goyal (MS 2024)
 * 2021-2022:
-  * President: Gaurab Banerjee
+  * President: Gaurab Banerjee (MS 2022)
 * 2020-2021:
   * No Dancebreak due to COVID-19 Pandemic
 * 2019-2020:

@@ -7,26 +7,24 @@ description: >
     crew, practice styles taught in Richard Powers's Social Dance class series,
     learn new moves, and have fun with us.  Beginners are always welcome.
 ---
-<!-- ![A crowded room full of Stanford students dancing.](images/banner.jpg) -->
+![A room full of dancers.](images/20250113_202932.jpg)
 
 ## What is Dancebreak?
 
-Dancebreak is a weekly, free, DJed casual social dancing event for the Stanford
-community, featuring a variety of dance styles with a focus on waltz and swing!
-Come hang out with our campus's largest social dancing crew, practice styles
+Dancebreak is a social dancing club for the Stanford community, featuring a
+variety of dance styles with a focus on waltz and swing! Come learn how to
+dance, hang out with our campus's largest social dancing crew, practice styles
 taught in Richard Powers's Social Dance class series, learn new moves, and have
-fun with us.  **No dance experience or partner needed.**
+fun with us. **No dance experience or partner needed.**
 
-We dance every Monday night, usually in Roble 113 9:30-11:30pm (but this is
-**extremely** subject to change---the best way to keep up is through [our
-mailing list][mail]).  Join us for social dancing, classes, snacks, and
+We dance every Monday night, usually in Roble 113 9:30-11:30pm---but this is
+**extremely** subject to change, the best way to keep up is through [our
+mailing list][mail].  Join us for social dancing, classes, snacks, and
 community!
 
-If you don't know how to social dance, we have lessons (almost) every week! See
-the [list of workshops](/workshops) for details, or check out the schedule for
-the next few weeks below.  Many of our members also teach during [Austria
-Fortnight][fortnight], the two weeks leading up to the [Stanford Viennese
-Ball][vball].
+If you don't know how to dance, we teach lessons every week! See the [list of
+workshops](/workshops) for details, or take a peek at the schedule for the next
+few weeks below.  [Check out our FAQ if you have more questions!](/info/faq)
 
 ## Upcoming Lessons
 
