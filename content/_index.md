@@ -36,10 +36,10 @@ nearby.
 
 ### Beginner
 
-| Date        | Location             | Time          | Topic                         |
-| ----------- | -------------------- | ------------- | ----------------------------- |
-| Mon. 5/19   | TBD                  | 8:30-9:30PM   | Nightclub Two Step            |
-| Mon. 5/26   | [Roble 114][roble]   | 8:30-9:30PM   | West Coast Swing              |
+| Date        | Location             | Time           | Topic                         |
+| ----------- | -------------------- | -------------  | ----------------------------- |
+| Mon. 5/19   | [Roble 113][roble]   | 9:30-10:30PM | Nightclub Two Step            |
+| Mon. 5/26   | [Roble 114][roble]   | 8:30-9:30PM    | West Coast Swing              |
 
 Beginner lessons are for everyone---no dance experience necessary! Practice
 what you learned by staying for the dance social, immediately after the
@@ -49,7 +49,6 @@ beginner lesson at 9:30.
 
 | Date      | Location           | Time        | Topic            | Prerequisite     |
 |-----------|--------------------|-------------|------------------|------------------|
-| Mon. 5/19 | TBD                | 7:30-8:30PM | Waltz Musicality | Cross-Step Waltz |
 | Mon. 5/26 | [Roble 114][roble] | 7:30-8:30PM | Reverse Waltz    | Rotary Waltz     |
 
 Intermediate lessons are for those who already know the basics and want to

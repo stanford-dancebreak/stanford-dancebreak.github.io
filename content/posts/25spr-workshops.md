@@ -13,28 +13,27 @@ Learn to dance or pick up new skills with our free workshops!
 Workshops are followed by a [two-hour social](/events), either in the same room
 or nearby.
 
-| Week | Date | Topic                                       | Level        | Instructors           | Location           | Time      |
-|------|------|---------------------------------------------|--------------|-----------------------|--------------------|-----------|
-| 1    | 3/31 | Waltzing Wrong                              | Intermediate | Bella and Akshay[^2]  | [EPC][epc]         | 7-8       |
-| 2    | 4/7  | Charleston                                  | Beginner     | Wally and Dakota      | [EPC][epc]         | 7-8       |
-| 3    | 4/14 | Rotary Waltz                                | Beginner     | Lyna and Gokul        | [EPC][epc]         | 7-8       |
-|      | 4/19 | [Rotary Waltz and Lindy Hop][jazz]          | Beginner     | Ariel and Akshay[^2]  | [Roble 116][roble] | 5-7       |
-|      | 4/19 | [Rotary Waltz and Lindy Hop][jazz]          | Intermediate | Maiya and Annika      | [Roble 114][roble] | 5-7       |
-| 4    | 4/21 | Dawn Mazurka Review[^1]                     | Advanced     | Bandana Bob           | [Roble 116][roble] | 8-9:30    |
-| 5    | 4/28 | Dawn Mazurka Review[^1]                     | Advanced     | Bandana Bob           | [Roble 116][roble] | 8-9:30    |
-| 6    | 5/5  | Cross-Step Waltz                            | Beginner     | Bella and Akshay[^2]  | [Roble 116][roble] | 8-9:30    |
-|      | 5/9  | Cross-Step Waltz (at [Big Dance][bigdance]) | Beginner     | Sophia and Akshay[^2] | [Roble 115][roble] | 8-9       |
-|      | 5/9  | Cross-Step Waltz (at [Big Dance][bigdance]) | Intermediate | Shelly and Jason      | [Roble 115][roble] | 8-9       |
-| 7    | 5/12 | Waltz                                       | Intermediate | Gokul and Bella       | [Roble 116][roble] | 8-9       |
-|      | 5/12 | Waltz                                       | Beginner     | Gokul and Bella       | [Roble 116][roble] | 9-9:30    |
-| 8    | 5/19 | Cross-Step Waltz Musicality                 | Intermediate | Cameron and Rocky     | TBD                | 7:30-8:30 |
-|      | 5/19 | Nightclub Two Step                          | Beginner     | Eddy and Jasmin       | TBD                | 8:30-9:30 |
-| 9    | 5/26 | Reverse Waltz                               | Intermediate | Akshay and Akshay     | [Roble 114][roble] | 7:30-8:30 |
-|      | 5/26 | West Coast Swing                            | Beginner     | Akshay[^3]            | [Roble 114][roble] | 8:30-9:30 |
-| 10   | 6/2  |                                             |              |                       |                    |           |
-| N/A  | 6/16 |                                             |              |                       |                    |           |
-| N/A  | 6/23 |                                             |              |                       |                    |           |
-| N/A  | 6/30 |                                             |              |                       |                    |           |
+| Week | Date | Topic                                       | Level        | Instructors           | Location           | Time       |
+|------|------|---------------------------------------------|--------------|-----------------------|--------------------|------------|
+| 1    | 3/31 | Waltzing Wrong                              | Intermediate | Bella and Akshay[^2]  | [EPC][epc]         | 7-8        |
+| 2    | 4/7  | Charleston                                  | Beginner     | Wally and Dakota      | [EPC][epc]         | 7-8        |
+| 3    | 4/14 | Rotary Waltz                                | Beginner     | Lyna and Gokul        | [EPC][epc]         | 7-8        |
+|      | 4/19 | [Rotary Waltz and Lindy Hop][jazz]          | Beginner     | Ariel and Akshay[^2]  | [Roble 116][roble] | 5-7        |
+|      | 4/19 | [Rotary Waltz and Lindy Hop][jazz]          | Intermediate | Maiya and Annika      | [Roble 114][roble] | 5-7        |
+| 4    | 4/21 | Dawn Mazurka Review[^1]                     | Advanced     | Bandana Bob           | [Roble 116][roble] | 8-9:30     |
+| 5    | 4/28 | Dawn Mazurka Review[^1]                     | Advanced     | Bandana Bob           | [Roble 116][roble] | 8-9:30     |
+| 6    | 5/5  | Cross-Step Waltz                            | Beginner     | Bella and Akshay[^2]  | [Roble 116][roble] | 8-9:30     |
+|      | 5/9  | Cross-Step Waltz (at [Big Dance][bigdance]) | Beginner     | Sophia and Akshay[^2] | [Roble 115][roble] | 8-9        |
+|      | 5/9  | Cross-Step Waltz (at [Big Dance][bigdance]) | Intermediate | Shelly and Jason      | [Roble 115][roble] | 8-9        |
+| 7    | 5/12 | Waltz                                       | Intermediate | Gokul and Bella       | [Roble 116][roble] | 8-9        |
+|      | 5/12 | Waltz                                       | Beginner     | Gokul and Bella       | [Roble 116][roble] | 9-9:30     |
+| 8    | 5/19 | Nightclub Two Step                          | Beginner     | Eddy and Jasmin       | [Roble 113][roble] | 9:30-10:30 |
+| 9    | 5/26 | Reverse Waltz                               | Intermediate | Akshay and Akshay     | [Roble 114][roble] | 7:30-8:30  |
+|      | 5/26 | West Coast Swing                            | Beginner     | Akshay[^3]            | [Roble 114][roble] | 8:30-9:30  |
+| 10   | 6/2  |                                             |              |                       |                    |            |
+| N/A  | 6/16 |                                             |              |                       |                    |            |
+| N/A  | 6/23 |                                             |              |                       |                    |            |
+| N/A  | 6/30 |                                             |              |                       |                    |            |
 
 [^1]: This class requires prior knowledge of the Dawn Mazurka choreography; we
     will not teach the choreography from scratch due to time constraints.
