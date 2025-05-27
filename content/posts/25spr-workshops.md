@@ -29,9 +29,11 @@ or nearby.
 |      | 5/12 | Waltz                                       | Beginner     | Gokul and Bella       | [Roble 116][roble] | 9-9:30     |
 | 8    | 5/19 | Nightclub Two Step                          | Beginner     | Eddy and Jasmin       | [Roble 113][roble] | 9:30-10:30 |
 | 9    | 5/26 | Reverse Waltz                               | Intermediate | Akshay and Akshay     | [Roble 114][roble] | 7:30-8:30  |
-|      | 5/26 | West Coast Swing                            | Beginner     | Akshay[^3]            | [Roble 114][roble] | 8:30-9:30  |
-| 10   | 6/2  |                                             |              |                       |                    |            |
-| N/A  | 6/16 |                                             |              |                       |                    |            |
+|      | 5/26 | Cross-Step Waltz                            | Beginner     | Ashley and Akshay[^3] | [Roble 114][roble] | 8:30-9:30  |
+| 10   | 6/2  | How to DJ                                   | Intermediate | Richard Powers        | [EPC][epc]         | 7:30-8:30  |
+|      | 6/2  | Bachata                                     | Beginner     | Chhavi                | [EPC][epc]         | 8:30-9:30  |
+|      | 6/9  | N/A                                         |              |                       |                    |            |
+| N/A  | 6/16 | N/A                                         |              |                       |                    |            |
 | N/A  | 6/23 |                                             |              |                       |                    |            |
 | N/A  | 6/30 |                                             |              |                       |                    |            |
 

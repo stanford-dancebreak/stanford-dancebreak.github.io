@@ -13,22 +13,23 @@ change on a week-by-week basis depending on room availability.
 
 We usually have a [one-hour lesson](/workshops) before each social.
 
-| Week | Date | Location           | Time       | Theme                                 |
-|------|------|--------------------|------------|---------------------------------------|
-| 1    | 3/31 | [EPC][epc]         | 8-10       | April Fools                           |
-| 2    | 4/7  | [EPC][epc]         | 8-10       |                                       |
-| 3    | 4/14 | [EPC][epc]         | 8-10       |                                       |
-|      | 4/19 | [Roble 113][roble] | 7-9        | [All That Jazz][jazz] with [SSD][ssd] |
-| 4    | 4/21 | [Roble 113][roble] | 9:30-11:30 |                                       |
-| 5    | 4/28 | [Roble 113][roble] | 9:30-11:30 | Bollywood                             |
-| 6    | 5/5  | [Roble 113][roble] | 9:30-11:30 |                                       |
-| 7    | 5/12 | [Roble 113][roble] | 9:30-11:30 |                                       |
-| 8    | 5/19 | TBD                | 9:30-11:30 |                                       |
-| 9    | 5/26 | [Roble 113][roble] | 9:30-11:30 |                                       |
-| 10   | 6/2  |                    |            |                                       |
-|      | 6/16 |                    |            |                                       |
-|      | 6/23 |                    |            |                                       |
-|      | 6/30 |                    |            |                                       |
+| Week | Date | Location             | Time        | Theme                                 |
+|------|------|----------------------|-------------|---------------------------------------|
+| 1    | 3/31 | [EPC][epc]           | 8-10        | April Fools                           |
+| 2    | 4/7  | [EPC][epc]           | 8-10        |                                       |
+| 3    | 4/14 | [EPC][epc]           | 8-10        |                                       |
+|      | 4/19 | [Roble 113][roble]   | 7-9         | [All That Jazz][jazz] with [SSD][ssd] |
+| 4    | 4/21 | [Roble 113][roble]   | 9:30-11:30  |                                       |
+| 5    | 4/28 | [Roble 113][roble]   | 9:30-11:30  | Bollywood                             |
+| 6    | 5/5  | [Roble 113][roble]   | 9:30-11:30  |                                       |
+| 7    | 5/12 | [Roble 113][roble]   | 9:30-11:30  |                                       |
+| 8    | 5/19 | [Roble 113][roble]   | 10:30-11:30 |                                       |
+| 9    | 5/26 | [Roble 113][roble]   | 9:30-11:30  |                                       |
+| 10   | 6/2  | [EPC][epc]           | 9:30-11:30  |                                       |
+|      | 6/9  | [GCC Havana][havana] | 7-9         |                                       |
+|      | 6/16 |                      |             |                                       |
+|      | 6/23 |                      |             |                                       |
+|      | 6/30 |                      |             |                                       |
 
 Last updated: {{< LastMod >}}
 

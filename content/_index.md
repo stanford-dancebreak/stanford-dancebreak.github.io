@@ -36,10 +36,10 @@ nearby.
 
 ### Beginner
 
-| Date        | Location             | Time           | Topic                         |
-| ----------- | -------------------- | -------------  | ----------------------------- |
-| Mon. 5/19   | [Roble 113][roble]   | 9:30-10:30PM | Nightclub Two Step            |
-| Mon. 5/26   | [Roble 114][roble]   | 8:30-9:30PM    | West Coast Swing              |
+| Date        | Location             | Time          | Topic                         |
+| ----------- | -------------------- | ------------- | ----------------------------- |
+| Mon. 5/26   | [Roble 114][roble]   | 8:30-9:30PM   | Cross Step Waltz              |
+| Mon. 6/2    | [EPC][epc]           | 8:30-9:30PM   | Bachata                       |
 
 Beginner lessons are for everyone---no dance experience necessary! Practice
 what you learned by staying for the dance social, immediately after the
@@ -47,9 +47,10 @@ beginner lesson at 9:30.
 
 ### Intermediate
 
-| Date      | Location           | Time        | Topic            | Prerequisite     |
-|-----------|--------------------|-------------|------------------|------------------|
-| Mon. 5/26 | [Roble 114][roble] | 7:30-8:30PM | Reverse Waltz    | Rotary Waltz     |
+| Date      | Location           | Time        | Topic                           | Prerequisite |
+|-----------|--------------------|-------------|---------------------------------|--------------|
+| Mon. 5/26 | [Roble 114][roble] | 7:30-8:30PM | Reverse Waltz                   | Rotary Waltz |
+| Mon. 6/2  | [EPC][epc]         | 7:30-8:30PM | How to DJ (with Richard Powers) | N/A          |
 
 Intermediate lessons are for those who already know the basics and want to
 learn new skills or just get more practice!
