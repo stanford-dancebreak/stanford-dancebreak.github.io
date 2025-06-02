@@ -30,8 +30,9 @@ or nearby.
 | 8    | 5/19 | Nightclub Two Step                          | Beginner     | Eddy and Jasmin       | [Roble 113][roble] | 9:30-10:30 |
 | 9    | 5/26 | Reverse Waltz                               | Intermediate | Akshay and Akshay     | [Roble 114][roble] | 7:30-8:30  |
 |      | 5/26 | Cross-Step Waltz                            | Beginner     | Ashley and Akshay[^3] | [Roble 114][roble] | 8:30-9:30  |
-| 10   | 6/2  | How to DJ                                   | Intermediate | Richard Powers        | [EPC][epc]         | 7:30-8:30  |
-|      | 6/2  | Bachata                                     | Beginner     | Chhavi                | [EPC][epc]         | 8:30-9:30  |
+| 10   | 6/2  | How to DJ                                   | Intermediate | Richard Powers        | [EPC][epc]         | 7:00-7:45  |
+|      | 6/2  | Body Rolls                                  | Beginner     | Chhavi                | [EPC][epc]         | 7:45-8:00  |
+|      | 6/2  | Fusion                                      | Beginner     | Chhavi                | [EPC][epc]         | 8:00-9:00  |
 |      | 6/9  | N/A                                         |              |                       |                    |            |
 | N/A  | 6/16 | N/A                                         |              |                       |                    |            |
 | N/A  | 6/23 |                                             |              |                       |                    |            |

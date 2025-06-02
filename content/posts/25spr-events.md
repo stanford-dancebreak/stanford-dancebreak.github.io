@@ -25,7 +25,7 @@ We usually have a [one-hour lesson](/workshops) before each social.
 | 7    | 5/12 | [Roble 113][roble]   | 9:30-11:30  |                                       |
 | 8    | 5/19 | [Roble 113][roble]   | 10:30-11:30 |                                       |
 | 9    | 5/26 | [Roble 113][roble]   | 9:30-11:30  |                                       |
-| 10   | 6/2  | [EPC][epc]           | 9:30-11:30  |                                       |
+| 10   | 6/2  | [EPC][epc]           | 9:00-11:00  |                                       |
 |      | 6/9  | [GCC Havana][havana] | 7-9         |                                       |
 |      | 6/16 |                      |             |                                       |
 |      | 6/23 |                      |             |                                       |
