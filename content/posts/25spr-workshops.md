@@ -1,6 +1,5 @@
 ---
 title: Workshops (Spring 2025)
-aliases: ["/workshops"]
 date: 2025-03-31
 ---
 
@@ -33,10 +32,7 @@ or nearby.
 | 10   | 6/2  | How to DJ                                   | Intermediate | Richard Powers        | [EPC][epc]         | 7:00-7:45  |
 |      | 6/2  | Body Rolls                                  | Beginner     | Chhavi                | [EPC][epc]         | 7:45-8:00  |
 |      | 6/2  | Fusion                                      | Beginner     | Chhavi                | [EPC][epc]         | 8:00-9:00  |
-|      | 6/9  | N/A                                         |              |                       |                    |            |
-| N/A  | 6/16 | N/A                                         |              |                       |                    |            |
-| N/A  | 6/23 |                                             |              |                       |                    |            |
-| N/A  | 6/30 |                                             |              |                       |                    |            |
+|      | 6/9  | Hustle                                      | Beginner     | Ashley and Akshay[^2] | [GCC Havana][gcc]  | 7:00-8:00  |
 
 [^1]: This class requires prior knowledge of the Dawn Mazurka choreography; we
     will not teach the choreography from scratch due to time constraints.

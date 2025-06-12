@@ -22,24 +22,14 @@ height = 24
 width = "wide"
 
 [[menu.main]]
-name = "Events"
-pageRef = "/posts/25spr-events"
-weight = 1
-
-[[menu.main]]
-name = "Workshops"
-pageRef = "/posts/25spr-workshops"
+name = "Calendar"
+pageRef = "/posts/25sum"
 weight = 1
 
 [[menu.main]]
 name = "Info"
 pageRef = "/info"
 weight = 2
-
-# [[menu.main]]
-# name = "Announcements"
-# pageRef = "/posts"
-# weight = 3
 
 [[menu.main]]
 name = "Archive"

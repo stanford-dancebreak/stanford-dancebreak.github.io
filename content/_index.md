@@ -17,16 +17,15 @@ dance, hang out with our campus's largest social dancing crew, practice styles
 taught in Richard Powers's Social Dance class series, learn new moves, and have
 fun with us. **No dance experience or partner needed.**
 
-We dance every Monday night, usually in Roble 113 9:30-11:30pm---but this is
-**extremely** subject to change, the best way to keep up is through [our
-mailing list][mail].  Join us for social dancing, classes, snacks, and
-community!
+We dance every Monday night, but the location and time are subject to
+change---the best way to keep up is through [our mailing list][mail].  Join us
+for social dancing, classes, snacks, and community!
 
 If you don't know how to dance, we teach lessons every week! See the [list of
 workshops](/workshops) for details, or take a peek at the schedule for the next
 few weeks below.  [Check out our FAQ if you have more questions!](/info/faq)
 
-## Upcoming Lessons
+## Upcoming Lessons and Dances
 
 Last updated: {{< LastMod >}}
 
@@ -34,22 +33,17 @@ No need to come with a partner---we rotate partners often in class! Each lesson
 is followed by a two-hour DJed dance social, either in the same location or
 nearby.
 
-### Beginner
+| Week | Date | Location                | Time       | Description                                                                              |
+|------|------|-------------------------|------------|------------------------------------------------------------------------------------------|
+| 1    | 6/16 | [Koret Pavilion][koret] | 7:00-7:30  | Intermediate Workshop: Fast Waltz by Bella and Gokul (prereq: Rotary Waltz)              |
+|      |      | [Koret Pavilion][koret] | 7:30-8:00  | Intermediate Workshop: Stage Presence by Bella and Gokul (prereq: some dance experience) |
+|      |      | [Koret Pavilion][koret] | 8:00-11:00 | Social Dancing DJed by Bella and Terrell                                                 |
+| 2    | 6/23 |                         |            | **Beginner Workshop: Lindy Hop** with Maiya                                              |
+|      |      |                         |            | Social Dancing DJed by Maiya                                                             |
 
-| Date        | Location             | Time          | Topic                         |
-| ----------- | -------------------- | ------------- | ----------------------------- |
-| Mon. 6/2    | [EPC][epc]           | 7:45-8:00PM   | Body Rolls                    |
-| Mon. 6/2    | [EPC][epc]           | 8:00-9:00PM   | Fusion                        |
-
-Beginner lessons are for everyone---no dance experience necessary! Practice
-what you learned by staying for the dance social, immediately after the
-beginner lesson at 9:30.
-
-### Intermediate
-
-| Date     | Location   | Time        | Topic                           | Prerequisite |
-|----------|------------|-------------|---------------------------------|--------------|
-| Mon. 6/2 | [EPC][epc] | 7:00-7:45PM | How to DJ (with Richard Powers) | N/A          |
+Beginner lessons (in bold) are for everyone---no dance experience necessary!
+Practice what you learned by staying for the dance social, immediately after
+the beginner lesson.
 
 Intermediate lessons are for those who already know the basics and want to
 learn new skills or just get more practice!
@@ -57,8 +51,7 @@ learn new skills or just get more practice!
 ## More Info
 
 {{< cards >}}
-{{< card link="posts/25spr-workshops" icon="academic-cap" title="Workshop Calendar (Spring 2025)" subtitle="Learn how to dance, develop new skills, or help our new members learn." >}}
-{{< card link="posts/25spr-events" icon="calendar" title="Event Calendar (Spring 2025)" subtitle="Locations, times, etc." >}}
+{{< card link="posts/25sum" icon="calendar" title="Calendar (Summer 2025)" subtitle="Find out about future workshops and socials!" >}}
 {{< card link="https://mailman.stanford.edu/mailman/listinfo/dancebreak" icon="mail" title="Mailing List" subtitle="Get weekly updates about locations and events." >}}
 {{< card link="https://instagram.com/stanforddancebreak" icon="instagram" title="Instagram" subtitle="Photos from Dancebreak (and updates).">}}
 {{< card link="info/faq" icon="question-mark-circle" title="Frequently Asked Questions" subtitle="First time social dancing? Find out more here." >}}
@@ -113,6 +106,7 @@ videos):
 [roble]: /info/locations/#roble-gym
 [gcc]: /info/locations/#graduate-community-center
 [evgr]: /info/locations/#escondido-village-graduate-residences
+[koret]: /info/locations/#koret-pavilion
 [ssd]: https://swing.stanford.edu
 [wcs]: https://www.facebook.com/cardinalswing/
 [vball]: https://vienneseball.stanford.edu/
