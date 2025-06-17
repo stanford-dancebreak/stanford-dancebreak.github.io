@@ -171,3 +171,10 @@ on.  There is a sound system but it's unclear how to connect to it; we use the
 Dancebreak speaker instead.  Instructors here need microphones if there are
 more than about 40 attendees.  This room is, as of February 2025,
 capacity-limited to 40 people due to nearby construction.
+
+## Koret Pavilion
+
+Address: [564 O'Connor Ln.](https://campus-map.stanford.edu/?id=02-950)
+
+The main entrance to this building is behind the Haas Center, near the Market
+at Munger.
