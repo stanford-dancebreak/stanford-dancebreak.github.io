@@ -4,7 +4,7 @@ aliases: ["/events", "/workshops", "/calendar"]
 date: 2025-06-11
 ---
 
-Dancebreak continues through the summer!
+Dancebreak continues through the summer!  We will be in Koret Pavilion, with workshops from 7-8 and social dancing from 8-11.
 
 <!--more-->
 
@@ -17,14 +17,17 @@ Our beginner workshops (in bold) and dance socials are open to everyone!  Interm
 | 1    | 6/16 | [Koret Pavilion][koret] | 7:00-7:30  | Intermediate Workshop: Fast Waltz by Bella and Gokul (prereq: Rotary Waltz)              |
 |      |      | [Koret Pavilion][koret] | 7:30-8:00  | Intermediate Workshop: Stage Presence by Bella and Gokul (prereq: some dance experience) |
 |      |      | [Koret Pavilion][koret] | 8:00-11:00 | Social Dancing DJed by Bella and Terrell                                                 |
-| 2    | 6/23 |                         |            | **Beginner Workshop: Lindy Hop** with Maiya                                              |
-|      |      |                         |            | Social Dancing DJed by Maiya                                                             |
-| 3    | 6/30 |                         |            |                                                                                          |
-| 4    | 7/7  |                         |            |                                                                                          |
-| 5    | 7/14 |                         |            |                                                                                          |
-| 6    | 7/21 |                         |            |                                                                                          |
-| 7    | 7/28 |                         |            |                                                                                          |
-| 8    | 8/4  |                         |            |                                                                                          |
+| 2    | 6/23 | [EVGR-B][evgr]          | 7:00-8:00  | **Beginner Workshop: Lindy Hop** with Maiya                                              |
+|      |      | [EVGR-B][evgr]          | 8:00-11:00 | Social Dancing DJed by Maiya                                                             |
+| 3    | 6/30 | [Koret Pavllion][koret] | 7:00-7:30  | Intermediate Workshop: Rides by Sophia and Will (prereq: Rotary Waltz)                   |
+|      |      | [Koret Pavllion][koret] | 7:30-8:00  | Beginner Workshop: Musicality by Sophia and Will                                         |
+|      |      | [Koret Pavllion][koret] | 8:00-11:00 | Social Dancing DJed by Sophia                                                            |
+| 4    | 7/7  | [Koret Pavllion][koret] | 7:00-8:00  | **Beginner Workshop: West Coast Swing** with Akshay Smit                                 |
+|      |      | [Koret Pavllion][koret] | 8:00-11:00 | Social Dancing DJed by Akshay Smit                                                       |
+| 5    | 7/14 | [Koret Pavllion][koret] | 7:00-8:00  | Workshop TBD                                                                             |
+|      |      | [Koret Pavllion][koret] | 8:00-11:00 | Social Dancing DJed by Gokul and Vishnu                                                  |
+| 6    | 7/21 | [Koret Pavllion][koret] | 7:00-8:00  | Workshop TBD                                                                             |
+|      |      | [Koret Pavllion][koret] | 8:00-11:00 | Social Dancing DJed by Wally                                                             |
 
 Last updated: {{< LastMod >}}
 

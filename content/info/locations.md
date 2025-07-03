@@ -178,3 +178,7 @@ Address: [564 O'Connor Ln.](https://campus-map.stanford.edu/?id=02-950)
 
 The main entrance to this building is behind the Haas Center, near the Market
 at Munger.
+
+This room has no sound system; we use the Dancebreak speaker.  There are
+gendered bathrooms located within the building.  The main room has a sitting
+area on one side, and can be split in two for parallel lessons.
