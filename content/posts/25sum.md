@@ -18,16 +18,16 @@ Our beginner workshops (in bold) and dance socials are open to everyone!  Interm
 |      |      | [Koret Pavilion][koret] | 7:30-8:00  | Intermediate Workshop: Stage Presence by Bella and Gokul (prereq: some dance experience) |
 |      |      | [Koret Pavilion][koret] | 8:00-11:00 | Social Dancing DJed by Bella and Terrell                                                 |
 | 2    | 6/23 | [EVGR-B][evgr]          | 7:00-8:00  | **Beginner Workshop: Lindy Hop** with Maiya                                              |
-|      |      | [EVGR-B][evgr]          | 8:00-11:00 | Social Dancing DJed by Maiya                                                             |
+|      |      | [EVGR-B][evgr]          | 8:00-10:00 | Social Dancing DJed by Maiya                                                             |
 | 3    | 6/30 | [Koret Pavllion][koret] | 7:00-7:30  | Intermediate Workshop: Rides by Sophia and Will (prereq: Rotary Waltz)                   |
 |      |      | [Koret Pavllion][koret] | 7:30-8:00  | Beginner Workshop: Musicality by Sophia and Will                                         |
-|      |      | [Koret Pavllion][koret] | 8:00-11:00 | Social Dancing DJed by Sophia                                                            |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Sophia                                                            |
 | 4    | 7/7  | [Koret Pavllion][koret] | 7:00-8:00  | **Beginner Workshop: West Coast Swing** with Akshay Smit                                 |
-|      |      | [Koret Pavllion][koret] | 8:00-11:00 | Social Dancing DJed by Akshay Smit                                                       |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Akshay Smit                                                       |
 | 5    | 7/14 | [Koret Pavllion][koret] | 7:00-8:00  | Workshop TBD                                                                             |
-|      |      | [Koret Pavllion][koret] | 8:00-11:00 | Social Dancing DJed by Gokul and Vishnu                                                  |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Gokul and Vishnu                                                  |
 | 6    | 7/21 | [Koret Pavllion][koret] | 7:00-8:00  | Workshop TBD                                                                             |
-|      |      | [Koret Pavllion][koret] | 8:00-11:00 | Social Dancing DJed by Wally                                                             |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Wally                                                             |
 
 Last updated: {{< LastMod >}}
 

@@ -21,9 +21,9 @@ We dance every Monday night, but the location and time are subject to
 change---the best way to keep up is through [our mailing list][mail].  Join us
 for social dancing, classes, snacks, and community!
 
-{{< callout emoji="🌐" >}}
-Dancebreak will be in Koret Pavilion over the summer! Workshops will be 7-8,
-with social dancing 8-11.
+{{< callout emoji="📍" >}}
+Dancebreak will be in Koret Pavilion over the summer! Workshops will be 7:00-8:00,
+with social dancing 8:00-10:00.
 {{< /callout >}}
 
 If you don't know how to dance, we teach lessons every week! See the [list of
@@ -41,11 +41,11 @@ nearby.
 | Week | Date | Location                | Time       | Description                                                                              |
 |------|------|-------------------------|------------|------------------------------------------------------------------------------------------|
 | 4    | 7/7  | [Koret Pavllion][koret] | 7:00-8:00  | **Beginner Workshop: West Coast Swing** with Akshay Smit                                 |
-|      |      | [Koret Pavllion][koret] | 8:00-11:00 | Social Dancing DJed by Akshay Smit                                                       |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Akshay Smit                                                       |
 | 5    | 7/14 | [Koret Pavllion][koret] | 7:00-8:00  | Workshop TBD                                                                             |
-|      |      | [Koret Pavllion][koret] | 8:00-11:00 | Social Dancing DJed by Gokul and Vishnu                                                  |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Gokul and Vishnu                                                  |
 | 6    | 7/21 | [Koret Pavllion][koret] | 7:00-8:00  | Workshop TBD                                                                             |
-|      |      | [Koret Pavllion][koret] | 8:00-11:00 | Social Dancing DJed by Wally                                                             |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Wally                                                             |
 
 Beginner lessons (in bold) are for everyone---no dance experience necessary!
 Practice what you learned by staying for the dance social, immediately after
