@@ -38,14 +38,15 @@ No need to come with a partner---we rotate partners often in class! Each lesson
 is followed by a two-hour DJed dance social, either in the same location or
 nearby.
 
-| Week | Date | Location                | Time       | Description                                                                              |
-|------|------|-------------------------|------------|------------------------------------------------------------------------------------------|
-| 4    | 7/7  | [Koret Pavllion][koret] | 7:00-8:00  | **Beginner Workshop: West Coast Swing** with Akshay Smit                                 |
-|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Akshay Smit                                                       |
-| 5    | 7/14 | [Koret Pavllion][koret] | 7:00-8:00  | Workshop TBD                                                                             |
-|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Gokul and Vishnu                                                  |
-| 6    | 7/21 | [Koret Pavllion][koret] | 7:00-8:00  | Workshop TBD                                                                             |
-|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Wally                                                             |
+| Week | Date | Location                | Time       | Description                                                   |
+|------|------|-------------------------|------------|---------------------------------------------------------------|
+| 4    | 7/7  | [Koret Pavllion][koret] | 7:00-8:00  | **Beginner Workshop: Line Dances** with Akshay Smit           |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Akshay Smit                            |
+| 5    | 7/14 | [Koret Pavllion][koret] | 7:00-7:30  | Intermediate Workshop: Cross-Step Waltz with Gokul and Vishnu |
+|      |      | [Koret Pavllion][koret] | 7:30-8:00  | **Beginner Workshop: Cross-Step Waltz** with Gokul and Vishnu |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Gokul and Vishnu                       |
+| 6    | 7/21 | [Koret Pavllion][koret] | 7:00-8:00  | Workshop TBD                                                  |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Wally                                  |
 
 Beginner lessons (in bold) are for everyone---no dance experience necessary!
 Practice what you learned by staying for the dance social, immediately after
