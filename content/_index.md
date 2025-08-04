@@ -38,13 +38,16 @@ No need to come with a partner---we rotate partners often in class! Each lesson
 is followed by a two-hour DJed dance social, either in the same location or
 nearby.
 
-| Week | Date | Location                | Time       | Description                                                        |
-|------|------|-------------------------|------------|--------------------------------------------------------------------|
-| 5    | 7/14 | [Koret Pavllion][koret] | 7:00-7:30  | Intermediate Workshop: Cross-Step Waltz Frame with Gokul and Bella |
-|      |      | [Koret Pavllion][koret] | 7:30-8:00  | **Beginner Workshop: Cross-Step Waltz** with Gokul and Lyna        |
-|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Gokul and Vishnu                            |
-| 6    | 7/21 | [Koret Pavllion][koret] | 7:00-8:00  | Workshop TBD                                                       |
-|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Wally                                       |
+| Week | Date | Location                | Time       | Description                                                  |
+|------|------|-------------------------|------------|--------------------------------------------------------------|
+| 8    | 8/4  | [Koret Pavllion][koret] | 7:00-8:00  | **Beginner Workshop: West Coast Swing** with Bella and Gokul
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by [Audrey][audrey]                      |
+| 8    | 8/11 | [Koret Pavllion][koret] | 7:00-8:00  | **Beginner Workshop: Cross-Step Waltz** with Sophia
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Dakota and Suse                       |
+| 9    | 8/18 | [Koret Pavllion][koret] | 7:00-8:00  | Mixers with Bandana Bob                                      |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Bandana Bob                           |
+| 10   | 8/25 | [Koret Pavllion][koret] | 7:00-8:00  | Rotary Waltz Workshop by Joseph                              |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Joseph and Jason                      |
 
 Beginner lessons (in bold) are for everyone---no dance experience necessary!
 Practice what you learned by staying for the dance social, immediately after
@@ -117,3 +120,6 @@ videos):
 [vball]: https://vienneseball.stanford.edu/
 [fortnight]: https://vienneseball.stanford.edu/austria-fortnight-classes/
 [bigdance]: https://bigdance.stanford.edu/
+
+[lucas]: https://garron.net
+[audrey]: https://www.audriix.com/

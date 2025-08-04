@@ -27,8 +27,19 @@ Our beginner workshops (in bold) and dance socials are open to everyone!  Interm
 | 5    | 7/14 | [Koret Pavllion][koret] | 7:00-7:30  | Intermediate Workshop: Cross-Step Waltz Frame with Gokul and Bella                       |
 |      |      | [Koret Pavllion][koret] | 7:30-8:00  | **Beginner Workshop: Cross-Step Waltz** with Gokul and Lyna                              |
 |      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Gokul and Vishnu                                                  |
-| 6    | 7/21 | [Koret Pavllion][koret] | 7:00-8:00  | Workshop TBD                                                                             |
+| 6    | 7/21 | [Koret Pavllion][koret] | 7:00-7:30  | **Beginner Workshop: Rotary Waltz** with Wally and Zuzanna
+|      |      | [Koret Pavllion][koret] | 7:30-8:00  | All Levels: Waltzing without Waltzing with Wally and Zuzanna
 |      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Wally                                                             |
+| 7    | 7/28 | [Koret Pavllion][koret] | 7:00-8:00  | All Levels: Tain't What You Do: Level Up the Vibes with Maiya
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by [Lucas][lucas]                                                    |
+| 8    | 8/4  | [Koret Pavllion][koret] | 7:00-8:00  | **Beginner Workshop: West Coast Swing** with Bella and Gokul
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by [Audrey][audrey]                                                  |
+| 8    | 8/11 | [Koret Pavllion][koret] | 7:00-8:00  | **Beginner Workshop: Cross-Step Waltz** with Sophia
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Dakota and Suse                                                   |
+| 9    | 8/18 | [Koret Pavllion][koret] | 7:00-8:00  | Mixers with Bandana Bob                                                                  |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Bandana Bob                                                       |
+| 10   | 8/25 | [Koret Pavllion][koret] | 7:00-8:00  | Rotary Waltz Workshop by Joseph                                                          |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Joseph and Jason                                                  |
 
 Last updated: {{< LastMod >}}
 
@@ -51,3 +62,6 @@ Last updated: {{< LastMod >}}
 [jazz]: /posts/25spr-all-that-jazz
 [floorcraft]: https://www.facebook.com/events/30100345002885928
 [wcs]: https://www.facebook.com/cardinalswing/
+
+[lucas]: https://garron.net
+[audrey]: https://www.audriix.com/
