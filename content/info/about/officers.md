@@ -6,23 +6,23 @@ title: Officers
 
 Our current leadership team is:
 
-| Role                 | Name                                         |
-|----------------------|----------------------------------------------|
-| President            | Akshay Srivatsan (PhD 2028)                  |
-| President            | Sophia Manukian  (PhD 2029)                  |
-| Financial Officer    | Donovan Jasper   (BS 2025, BA 2026, MS 2026) |
-| Communications Chair | Ashley Chen      (MS 2025)                   |
-| Venue Coordinator    | Kelly Chou       (MS 2026)                   |
-
-In addition we have many others helping out in various administrative and
-advisory roles.  If you're interested in joining us, please reach out---we
-could always use more help!
+| Role                 | Name                                |
+|----------------------|-------------------------------------|
+| President            | Akshay Srivatsan (PhD 2028)         |
+| President            | Sophia Manukian  (PhD 2029)         |
+| Financial Officer    | Donovan Jasper   (BA 2026, MS 2026) |
+| Communications Chair | Dakota Lawlar    (MS 2025)          |
 
 ## Past Officers
 
 Here are the Dancebreak officers for prior academic years:
  
-* 2024-2025:
+* 2025 (until June):
+  * Presidents: Akshay Srivatsan (PhD 2025) and Sophia Manukian (PhD 2029)
+  * Financial Officer: Donovan Jasper (BS 2025, BA 2026, MS 2026)
+  * Communications Chair: Ashley Chen (MS 2025)
+  * Venue Coordinator: Kelly Chou (MS 2026)
+* 2024:
   * Presidents: Jason Kronenfeld (PhD 2025) and Ashley Chen (MS 2025)
   * Financial Officer: Donovan Jasper (BS 2025, BA 2026, MS 2026)
   * Webmaster: Akshay Srivatsan (PhD 2028)
