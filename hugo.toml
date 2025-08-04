@@ -1,6 +1,6 @@
 baseURL = 'https://dancebreak.stanford.edu'
 languageCode = 'en-us'
-title = 'Stanford Dancebreak'
+title = 'Dancebreak'
 theme = 'hextra'
 enableGitInfo = true
 ignoreLogs = ['warning-goldmark-raw-html']
@@ -9,14 +9,13 @@ ignoreLogs = ['warning-goldmark-raw-html']
 editURL = { enable=true, base="https://github.com/stanford-dancebreak/stanford-dancebreak.github.io/edit/main/content" }
 
 [params.navbar]
-displayTitle = false
+displayTitle = true
 displayLogo = true
 
 [params.navbar.logo]
-path = "images/dancebreak-light.png"
-dark = "images/dancebreak-dark.png"
-width = 192
-height = 24
+path = "images/dancebreak.svg"
+width = 48
+height = 48
 
 [params.page]
 width = "wide"
