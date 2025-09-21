@@ -1,6 +1,5 @@
 ---
 title: Summer 2025
-aliases: ["/events", "/workshops", "/calendar"]
 date: 2025-06-11
 ---
 
@@ -27,19 +26,25 @@ Our beginner workshops (in bold) and dance socials are open to everyone!  Interm
 | 5    | 7/14 | [Koret Pavllion][koret] | 7:00-7:30  | Intermediate Workshop: Cross-Step Waltz Frame with Gokul and Bella                       |
 |      |      | [Koret Pavllion][koret] | 7:30-8:00  | **Beginner Workshop: Cross-Step Waltz** with Gokul and Lyna                              |
 |      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Gokul and Vishnu                                                  |
-| 6    | 7/21 | [Koret Pavllion][koret] | 7:00-7:30  | **Beginner Workshop: Rotary Waltz** with Wally and Zuzanna
-|      |      | [Koret Pavllion][koret] | 7:30-8:00  | All Levels: Waltzing without Waltzing with Wally and Zuzanna
+| 6    | 7/21 | [Koret Pavllion][koret] | 7:00-7:30  | **Beginner Workshop: Rotary Waltz** with Wally and Zuzanna                               |
+|      |      | [Koret Pavllion][koret] | 7:30-8:00  | All Levels: Waltzing without Waltzing with Wally and Zuzanna                             |
 |      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Wally                                                             |
-| 7    | 7/28 | [Koret Pavllion][koret] | 7:00-8:00  | All Levels: Tain't What You Do: Level Up the Vibes with Maiya
+| 7    | 7/28 | [Koret Pavllion][koret] | 7:00-8:00  | All Levels: Tain't What You Do: Level Up the Vibes with Maiya                            |
 |      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by [Lucas][lucas]                                                    |
-| 8    | 8/4  | [Koret Pavllion][koret] | 7:00-8:00  | **Beginner Workshop: West Coast Swing** with Bella and Gokul
+| 8    | 8/4  | [Koret Pavllion][koret] | 7:00-8:00  | **Beginner Workshop: West Coast Swing** with Bella and Gokul                             |
 |      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by [Audrey][audrey]                                                  |
-| 8    | 8/11 | [Koret Pavllion][koret] | 7:00-8:00  | **Beginner Workshop: Cross-Step Waltz** with Sophia
+| 8    | 8/11 | [Koret Pavllion][koret] | 7:00-8:00  | **Beginner Workshop: Cross-Step Waltz** with Sophia                                      |
 |      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Dakota and Suse                                                   |
 | 9    | 8/18 | [Koret Pavllion][koret] | 7:00-8:00  | Mixers with Bandana Bob                                                                  |
 |      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Bandana Bob                                                       |
-| 10   | 8/25 | [Koret Pavllion][koret] | 7:00-8:00  | Rotary Waltz Workshop by Joseph                                                          |
+| 10   | 8/25 | [Koret Pavllion][koret] | 7:00-8:00  | Rotary Waltz Workshop by Joseph and Eleanor                                              |
 |      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Joseph and Jason                                                  |
+|      | 9/1  | [Koret Pavllion][koret] | 7:00-8:00  | **Beginner Workshop: Rotary Waltz** with Akshay Smit and Andrea                          |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Cordelia                                                          |
+|      | 9/8  | [Koret Pavllion][koret] | 7:00-8:00  | Rotary Waltz Choreography with Sophia and Jacqueline                                     |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Akshay Smit                                                       |
+|      | 9/15 | [Koret Pavllion][koret] | 7:00-8:00  | **Beginner Workshop: Shivers Line Dance** with Eddy                                      |
+|      |      | [Koret Pavllion][koret] | 8:00-10:00 | Social Dancing DJed by Eddy                                                              |
 
 Last updated: {{< LastMod >}}
 

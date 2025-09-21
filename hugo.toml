@@ -22,7 +22,7 @@ width = "wide"
 
 [[menu.main]]
 name = "Calendar"
-pageRef = "/posts/25sum"
+pageRef = "/posts/25aut"
 weight = 1
 
 [[menu.main]]
