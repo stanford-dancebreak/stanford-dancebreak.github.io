@@ -32,20 +32,11 @@ few weeks below.  [Check out our FAQ if you have more questions!](/info/faq)
 
 ## Upcoming Lessons and Dances
 
-Last updated: {{< LastMod >}}
-
 No need to come with a partner---we rotate partners often in class! Each lesson
 is followed by a two-hour DJed dance social, either in the same location or
 nearby.
 
-| Week | Date  | Location           | Time       | Description                                                    |
-|------|-------|--------------------|------------|----------------------------------------------------------------|
-| 1    | 9/22  | [Roble 113][roble] | 7:00-8:00  | **Beginner Workshop: Cross-Step Waltz** with Sophia and Steven |
-|      |       | [Roble 113][roble] | 8:00-10:00 | Social Dancing DJed by Briana                                  |
-| 2    | 9/29  | [Roble 113][roble] | 7:00-8:00  | **Beginner Workshop: West Coast Swing** with Bella and Hikari  |
-|      |       | [Roble 113][roble] | 8:00-10:00 | Social Dancing DJed by Bella and Hikari                        |
-| 3    | 10/06 | [Roble 113][roble] | 7:00-8:00  | **Beginner Workshop: Cross-Step Waltz**                        |
-|      |       | [Roble 113][roble] | 8:00-10:00 | Social Dancing DJed by Akshay Srivatsan                        |
+{{< EventsTable 1 >}}
 
 Beginner lessons (in bold) are for everyone---no dance experience necessary!
 Practice what you learned by staying for the dance social, immediately after

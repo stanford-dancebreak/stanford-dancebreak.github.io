@@ -1,0 +1,64 @@
+{{ $duration_months := .Get 0 }}
+{{ if (.Get 1) }}
+  {{ .Page.Store.Set "start" (time.AsTime (.Get 1)) }}
+{{ else }}
+  {{ .Page.Store.Set "start" time.Now }}
+{{ end }}
+{{ $start := .Page.Store.Get "start" }}
+{{ $events := .Site.Data.events }}
+{{ $events := where $events "archived" false }}
+{{ $events := where $events ".properties.Event Date & Time.date.start" "!=" nil }}
+{{ $events := sort $events ".properties.Event Date & Time.date.start" }}
+{{ with $events }}
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Location</th>
+      <th>Description</th>
+      <th>Category</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range . }}
+    {{ if ge (time.AsTime (index .properties "Event Date & Time").date.start) $start }}
+    {{ if le (time.AsTime (index .properties "Event Date & Time").date.start) ($start.AddDate 0 $duration_months 0) }}
+    <tr>
+      <td>
+        {{ with index .properties "Event Date & Time" }}
+          {{ if .date.end }}
+            {{ (time.AsTime .date.start).Format "1/2" }}
+            <br/>
+            {{ (time.AsTime .date.start).Format "3:04 PM" }}&ndash;{{ (time.AsTime .date.end).Format "3:04 PM" }}
+          {{ else }}
+            {{ (time.AsTime .date.start).Format "1/2" }}
+          {{ end }}
+        {{ end }}
+      </td>
+      <td>
+        {{ with .properties.Venue.select }}
+        {{ .name }}
+        {{ end }}
+      </td>
+      <td>
+        {{ with index .properties "Event name" }}
+        {{ with index .title 0 }}
+        {{ .plain_text }}
+        {{ end }}
+        {{ end }}
+        {{ with (index .properties.Description.rich_text 0).plain_text }}
+        ({{.}})
+        {{ end }}
+      </td>
+      <td>
+        {{ with .properties.Category.select }}
+        {{ .name }}
+        {{ end }}
+      </td>
+    </tr>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+  </tbody>
+</table>
+{{ end }}
