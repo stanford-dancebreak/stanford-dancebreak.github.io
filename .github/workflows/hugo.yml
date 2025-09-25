@@ -9,6 +9,15 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+  schedule:
+    # 8 AM every day 
+    - cron: "0 8 * * *"
+    # Every hour from 6PM on Sundays to 3PM on Mondays
+    - cron: "0 18-23 * * 1"
+    - cron: "0 0-15 * * 1"
+    # Every 15 minutes from 3PM to 8PM on Mondays
+    - cron: "*/15 15-20 * * 1"
+
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
