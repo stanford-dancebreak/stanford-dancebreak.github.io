@@ -8,7 +8,7 @@ Dancebreak will be in Roble 113, 7-10pm on Mondays this fall!
 
 <!--more-->
 
-Our beginner workshops and dance socials are open to everyone!  Intermediate workshops assume some social dance experience.
+Our beginner workshops (bolded) and dance socials are open to everyone!  Intermediate workshops assume some social dance experience.
 
 {{< EventsTable 3 "2025-09-22" >}}
 

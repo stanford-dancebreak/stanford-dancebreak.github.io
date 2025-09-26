@@ -23,6 +23,7 @@
     {{ range . }}
     {{ if ge (time.AsTime (index .properties "Event Date & Time").date.start) $start }}
     {{ if le (time.AsTime (index .properties "Event Date & Time").date.start) ($start.AddDate 0 $duration_months 0) }}
+    {{ $beginner := strings.Contains .properties.Category.select.name "Beginner" }}
     <tr>
       <td>
         {{ with index .properties "Event Date & Time" }}
@@ -43,7 +44,11 @@
       <td>
         {{ with index .properties "Event name" }}
         {{ with index .title 0 }}
-        {{ .plain_text }}
+        {{ if $beginner }}
+          <strong>{{ .plain_text }}</strong>
+        {{ else }}
+          {{ .plain_text }}
+        {{ end }}
         {{ end }}
         {{ end }}
         {{ with (index .properties.Description.rich_text 0).plain_text }}
@@ -52,7 +57,11 @@
       </td>
       <td>
         {{ with .properties.Category.select }}
-        {{ .name }}
+        {{ if $beginner }}
+          <strong>{{ .name }}</strong>
+        {{ else }}
+          {{ .name }}
+        {{ end }}
         {{ end }}
       </td>
     </tr>

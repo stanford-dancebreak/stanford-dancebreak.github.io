@@ -38,7 +38,7 @@ nearby.
 
 {{< EventsTable 1 >}}
 
-Beginner lessons (in bold) are for everyone---no dance experience necessary!
+Beginner lessons (bolded) are for everyone---no dance experience necessary!
 Practice what you learned by staying for the dance social, immediately after
 the beginner lesson.
 
