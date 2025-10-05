@@ -14,7 +14,7 @@
   last_edited_by:
     id: 143d872b-594c-810b-88ee-0002833d1f28
     object: user
-  last_edited_time: '2025-09-23T01:12:00.000Z'
+  last_edited_time: '2025-10-02T23:35:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -30,9 +30,9 @@
     DJ/Instructor Status:
       id: im~V
       status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Open
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
       type: status
     Description:
       id: MD%3Cr
@@ -136,9 +136,9 @@
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 159d872b-594c-813a-829f-000223d42681
+    id: 143d872b-594c-810b-88ee-0002833d1f28
     object: user
-  last_edited_time: '2025-09-21T23:24:00.000Z'
+  last_edited_time: '2025-10-02T04:28:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -160,12 +160,25 @@
       type: status
     Description:
       id: MD%3Cr
-      rich_text: []
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Akshay Srivatsan
+        text:
+          content: Akshay Srivatsan
+          link: null
+        type: text
       type: rich_text
     Event Date & Time:
       date:
-        end: null
-        start: '2025-10-06'
+        end: '2025-10-06T20:00:00.000-07:00'
+        start: '2025-10-06T19:00:00.000-07:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -233,9 +246,9 @@
     Venue:
       id: ZW%5B_
       select:
-        color: green
-        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
-        name: Roble 113
+        color: brown
+        id: 15f7ed21-99dd-45b6-b976-9246c870b417
+        name: Roble 137
       type: select
   public_url: null
   url: https://www.notion.so/DJing-at-Dancebreak-Workshop-268fe184d678809bb770c33455bf3c73
@@ -253,9 +266,9 @@
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 16ad872b-594c-81ce-a2dc-0002d7044026
     object: user
-  last_edited_time: '2025-09-25T18:09:00.000Z'
+  last_edited_time: '2025-09-29T00:40:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -376,9 +389,9 @@
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 159d872b-594c-813a-829f-000223d42681
     object: user
-  last_edited_time: '2025-09-23T01:12:00.000Z'
+  last_edited_time: '2025-09-28T06:32:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -394,9 +407,9 @@
     DJ/Instructor Status:
       id: im~V
       status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Open
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
       type: status
     Description:
       id: MD%3Cr
@@ -593,9 +606,9 @@
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 159d872b-594c-813a-829f-000223d42681
     object: user
-  last_edited_time: '2025-09-19T22:47:00.000Z'
+  last_edited_time: '2025-09-30T01:05:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -621,8 +634,8 @@
       type: rich_text
     Event Date & Time:
       date:
-        end: null
-        start: '2025-11-17'
+        end: '2025-11-17T20:00:00.000-08:00'
+        start: '2025-11-17T19:00:00.000-08:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -703,9 +716,9 @@
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 159d872b-594c-813a-829f-000223d42681
     object: user
-  last_edited_time: '2025-09-19T22:47:00.000Z'
+  last_edited_time: '2025-09-30T01:05:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -731,8 +744,8 @@
       type: rich_text
     Event Date & Time:
       date:
-        end: null
-        start: '2025-11-10'
+        end: '2025-11-10T20:00:00.000-08:00'
+        start: '2025-11-10T19:00:00.000-08:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -813,9 +826,9 @@
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 159d872b-594c-813a-829f-000223d42681
     object: user
-  last_edited_time: '2025-09-19T22:47:00.000Z'
+  last_edited_time: '2025-10-02T04:30:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -831,18 +844,31 @@
     DJ/Instructor Status:
       id: im~V
       status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Open
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
       type: status
     Description:
       id: MD%3Cr
-      rich_text: []
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Bandana Bob
+        text:
+          content: Bandana Bob
+          link: null
+        type: text
       type: rich_text
     Event Date & Time:
       date:
-        end: null
-        start: '2025-11-03'
+        end: '2025-10-20T20:00:00.000-07:00'
+        start: '2025-10-20T19:00:00.000-07:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -925,7 +951,7 @@
   last_edited_by:
     id: 143d872b-594c-810b-88ee-0002833d1f28
     object: user
-  last_edited_time: '2025-09-23T00:11:00.000Z'
+  last_edited_time: '2025-10-03T18:00:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -947,12 +973,25 @@
       type: status
     Description:
       id: MD%3Cr
-      rich_text: []
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Maiya & TBD
+        text:
+          content: Maiya & TBD
+          link: null
+        type: text
       type: rich_text
     Event Date & Time:
       date:
-        end: null
-        start: '2025-10-27'
+        end: '2025-10-27T20:00:00.000-07:00'
+        start: '2025-10-27T19:00:00.000-07:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -1040,9 +1079,9 @@
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 159d872b-594c-813a-829f-000223d42681
     object: user
-  last_edited_time: '2025-09-19T22:47:00.000Z'
+  last_edited_time: '2025-10-02T04:28:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -1068,8 +1107,8 @@
       type: rich_text
     Event Date & Time:
       date:
-        end: null
-        start: '2025-10-20'
+        end: '2025-11-03T20:00:00.000-08:00'
+        start: '2025-11-03T19:00:00.000-08:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -1150,9 +1189,9 @@
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 159d872b-594c-813a-829f-000223d42681
     object: user
-  last_edited_time: '2025-09-19T22:47:00.000Z'
+  last_edited_time: '2025-10-02T04:28:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -1178,8 +1217,8 @@
       type: rich_text
     Event Date & Time:
       date:
-        end: null
-        start: '2025-10-20'
+        end: '2025-11-03T20:00:00.000-08:00'
+        start: '2025-11-03T19:00:00.000-08:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -1262,7 +1301,7 @@
   last_edited_by:
     id: 143d872b-594c-810b-88ee-0002833d1f28
     object: user
-  last_edited_time: '2025-09-19T22:47:00.000Z'
+  last_edited_time: '2025-10-03T18:00:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -1278,18 +1317,31 @@
     DJ/Instructor Status:
       id: im~V
       status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Open
+        color: yellow
+        id: VH?`
+        name: Asked
       type: status
     Description:
       id: MD%3Cr
-      rich_text: []
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Wally & TBD
+        text:
+          content: Wally & TBD
+          link: null
+        type: text
       type: rich_text
     Event Date & Time:
       date:
-        end: null
-        start: '2025-10-13'
+        end: '2025-10-13T20:00:00.000-07:00'
+        start: '2025-10-13T19:00:00.000-07:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -1682,7 +1734,7 @@
   last_edited_by:
     id: 143d872b-594c-810b-88ee-0002833d1f28
     object: user
-  last_edited_time: '2025-09-19T22:47:00.000Z'
+  last_edited_time: '2025-10-02T23:35:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -1698,18 +1750,31 @@
     DJ/Instructor Status:
       id: im~V
       status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Open
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
       type: status
     Description:
       id: MD%3Cr
-      rich_text: []
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Cyrus & Sophia
+        text:
+          content: Cyrus & Sophia
+          link: null
+        type: text
       type: rich_text
     Event Date & Time:
       date:
-        end: null
-        start: '2025-11-17'
+        end: '2025-11-17T22:00:00.000-08:00'
+        start: '2025-11-17T20:00:00.000-08:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -1732,7 +1797,14 @@
       type: title
     Instructor/DJ:
       id: '%3DRGW'
-      people: []
+      people:
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
+        object: user
+        person:
+          email: manukian@stanford.edu
+        type: person
       type: people
     Instructor/DJ Coordinator:
       id: U%7D%40U
@@ -1790,9 +1862,9 @@
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 159d872b-594c-813a-829f-000223d42681
     object: user
-  last_edited_time: '2025-09-19T22:47:00.000Z'
+  last_edited_time: '2025-10-02T04:15:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -1808,18 +1880,31 @@
     DJ/Instructor Status:
       id: im~V
       status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Open
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
       type: status
     Description:
       id: MD%3Cr
-      rich_text: []
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Wally & Joseph
+        text:
+          content: Wally & Joseph
+          link: null
+        type: text
       type: rich_text
     Event Date & Time:
       date:
-        end: null
-        start: '2025-11-10'
+        end: '2025-11-10T22:00:00.000-08:00'
+        start: '2025-11-10T20:00:00.000-08:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -1842,7 +1927,14 @@
       type: title
     Instructor/DJ:
       id: '%3DRGW'
-      people: []
+      people:
+      - avatar_url: null
+        id: 16ad872b-594c-81ce-a2dc-0002d7044026
+        name: Wally Niu
+        object: user
+        person:
+          email: wniu5@stanford.edu
+        type: person
       type: people
     Instructor/DJ Coordinator:
       id: U%7D%40U
@@ -1900,9 +1992,9 @@
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 159d872b-594c-813a-829f-000223d42681
     object: user
-  last_edited_time: '2025-09-25T18:09:00.000Z'
+  last_edited_time: '2025-09-30T00:53:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -1941,8 +2033,8 @@
       type: rich_text
     Event Date & Time:
       date:
-        end: null
-        start: '2025-11-03'
+        end: '2025-11-03T22:00:00.000-08:00'
+        start: '2025-11-03T20:00:00.000-08:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -2030,9 +2122,9 @@
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 159d872b-594c-813a-829f-000223d42681
     object: user
-  last_edited_time: '2025-09-25T18:09:00.000Z'
+  last_edited_time: '2025-09-30T00:53:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -2071,8 +2163,8 @@
       type: rich_text
     Event Date & Time:
       date:
-        end: null
-        start: '2025-10-27'
+        end: '2025-10-27T22:00:00.000-07:00'
+        start: '2025-10-27T20:00:00.000-07:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -2167,9 +2259,9 @@
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 159d872b-594c-813a-829f-000223d42681
     object: user
-  last_edited_time: '2025-09-25T18:10:00.000Z'
+  last_edited_time: '2025-09-30T00:53:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -2208,8 +2300,8 @@
       type: rich_text
     Event Date & Time:
       date:
-        end: null
-        start: '2025-10-20'
+        end: '2025-10-20T22:00:00.000-07:00'
+        start: '2025-10-20T20:00:00.000-07:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -2297,9 +2389,9 @@
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 159d872b-594c-813a-829f-000223d42681
     object: user
-  last_edited_time: '2025-09-25T18:09:00.000Z'
+  last_edited_time: '2025-09-30T00:53:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -2338,8 +2430,8 @@
       type: rich_text
     Event Date & Time:
       date:
-        end: null
-        start: '2025-10-13'
+        end: '2025-10-13T22:00:00.000-07:00'
+        start: '2025-10-13T20:00:00.000-07:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -2427,9 +2519,9 @@
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 159d872b-594c-813a-829f-000223d42681
     object: user
-  last_edited_time: '2025-09-25T18:09:00.000Z'
+  last_edited_time: '2025-09-30T00:52:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -2468,8 +2560,8 @@
       type: rich_text
     Event Date & Time:
       date:
-        end: null
-        start: '2025-10-06'
+        end: '2025-10-06T22:00:00.000-07:00'
+        start: '2025-10-06T20:00:00.000-07:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -2564,9 +2656,9 @@
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 159d872b-594c-813a-829f-000223d42681
+    id: 143d872b-594c-810b-88ee-0002833d1f28
     object: user
-  last_edited_time: '2025-09-21T23:19:00.000Z'
+  last_edited_time: '2025-10-03T18:00:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -2582,18 +2674,31 @@
     DJ/Instructor Status:
       id: im~V
       status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Open
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
       type: status
     Description:
       id: MD%3Cr
-      rich_text: []
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Gokul & TBD
+        text:
+          content: Gokul & TBD
+          link: null
+        type: text
       type: rich_text
     Event Date & Time:
       date:
-        end: null
-        start: '2025-10-06'
+        end: '2025-10-06T20:00:00.000-07:00'
+        start: '2025-10-06T19:00:00.000-07:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date

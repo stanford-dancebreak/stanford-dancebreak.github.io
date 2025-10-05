@@ -1,3 +1,4 @@
+#!/usr/bin/env -S uv run
 import os
 from notion_client import Client
 import yaml
