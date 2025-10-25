@@ -6,12 +6,12 @@ title: Officers
 
 Our current leadership team is:
 
-| Role                 | Name                                |
-|----------------------|-------------------------------------|
-| President            | Akshay Srivatsan (PhD 2028)         |
-| President            | Sophia Manukian  (PhD 2029)         |
-| Financial Officer    | Donovan Jasper   (BA 2026, MS 2026) |
-| Communications Chair | Dakota Lawlar    (MS 2025)          |
+| Role                 | Name                     |
+|----------------------|--------------------------|
+| President            | Samuel Desai  (BS 2027)  |
+| President            | Evelyn Yee    (MS 2026)  |
+| Financial Officer    | Zev Granowitz (PhD 2027) |
+| Communications Chair | Dakota Lawlar (BS 2026)  |
 
 ## Past Officers
 
