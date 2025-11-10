@@ -1,5 +1,6 @@
 ---
 title: Frequently Asked Questions
+weight: 2
 ---
 ## Do I need a partner?
 

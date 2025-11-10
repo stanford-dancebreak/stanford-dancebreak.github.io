@@ -1,5 +1,6 @@
 ---
 title: Locations
+weight: 5
 ---
 
 Dancebreak happens in a few different locations around campus, depending on

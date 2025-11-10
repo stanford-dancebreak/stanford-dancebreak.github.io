@@ -1,5 +1,6 @@
 ---
 title: Local Social Dance Events
+wieght: 6
 ---
 
 ## Overview

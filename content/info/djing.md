@@ -1,8 +1,7 @@
 ---
-title: DJing at Dancebreak
+title: DJing at Dancebreak - DJ Guidelines
+weight: 3
 ---
-
-# DJing at Dancebreak - DJ Guidelines
 
 ## Why is this important?
 

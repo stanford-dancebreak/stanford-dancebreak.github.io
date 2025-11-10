@@ -1,8 +1,7 @@
 ---
-title: Teaching at Dancebreak
+title: Teaching at Dancebreak - Instructor Guidelines
+weight: 4
 ---
-
-# Teaching at Dancebreak - Instructor Guidelines
 
 ## Why is this important?
 
