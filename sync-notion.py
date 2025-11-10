@@ -7,10 +7,10 @@ import yaml
 
 POSTS_DB = "264fe184d6788074a210c7cdfea69ed4"
 
-DJ_PAGE = "DJing-at-Dancebreak-DJ-Guidelines-266fe184d678806093b9da5cc7965a90"
+DJ_PAGE = "266fe184d678806093b9da5cc7965a90"
 DJ_TITLE = "DJing at Dancebreak - DJ Guidelines"
 
-INSTRUCTOR_PAGE = "Teaching-at-Dancebreak-Instructor-Guidelines-29dfe184d67880de843bd8bb70fd1101"
+INSTRUCTOR_PAGE = "29dfe184d67880de843bd8bb70fd1101"
 INSTRUCTOR_TITLE = "Teaching at Dancebreak - Instructor Guidelines"
 
 HEADER_TEMPLATE = "---\ntitle\n---\n\n"
