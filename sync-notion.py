@@ -9,11 +9,16 @@ POSTS_DB = "264fe184d6788074a210c7cdfea69ed4"
 
 DJ_PAGE = "266fe184d678806093b9da5cc7965a90"
 DJ_TITLE = "DJing at Dancebreak - DJ Guidelines"
+DJ_WEIGHT = "3"
 
 INSTRUCTOR_PAGE = "29dfe184d67880de843bd8bb70fd1101"
 INSTRUCTOR_TITLE = "Teaching at Dancebreak - Instructor Guidelines"
+INSTRUCTOR_WEIGHT = "4"
 
-HEADER_TEMPLATE = "---\ntitle\n---\n\n"
+HEADER_TEMPLATE = "---\ntitle: TITLE\nweight: WEIGHT\n---\n\n"
+
+def format_header(title, weight):
+    return HEADER_TEMPLATE.replace("TITLE", title).replace('WEIGHT', weight)
 
 def main():
     notion = Client(auth=os.environ["NOTION_SECRET"])
@@ -26,7 +31,7 @@ def main():
         f.write(output)
     
     # dj guidelines
-    dj_header = HEADER_TEMPLATE.replace("title", DJ_TITLE)
+    dj_header = format_header(DJ_TITLE, DJ_WEIGHT)
     dj_blocks = n2m.page_to_markdown(DJ_PAGE)
     # Convert markdown blocks to string
     dj_str = n2m.to_markdown_string(dj_blocks).get('parent')
@@ -36,7 +41,7 @@ def main():
         f.write(dj_header + dj_content)
 
     # instructor guidelines
-    inst_header = HEADER_TEMPLATE.replace("title", INSTRUCTOR_TITLE)
+    inst_header = format_header(INSTRUCTOR_TITLE, INSTRUCTOR_WEIGHT)
     inst_blocks = n2m.page_to_markdown(INSTRUCTOR_PAGE)
     # Convert markdown blocks to string
     inst_str = n2m.to_markdown_string(inst_blocks).get('parent')
