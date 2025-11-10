@@ -1,3 +1,7 @@
 [submodule "themes/hextra"]
 	path = themes/hextra
 	url = https://github.com/imfing/hextra
+
+[submodule "notion_to_md"]
+	path = notion_to_md
+	url = https://github.com/SwordAndTea/notion-to-md-py.git
