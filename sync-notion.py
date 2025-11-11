@@ -11,6 +11,9 @@ DJ_PAGE = "266fe184d678806093b9da5cc7965a90"
 DJ_TITLE = "DJing at Dancebreak - DJ Guidelines"
 DJ_WEIGHT = "3"
 
+VIDEO_EMBED = "[VIDEO EMBED]"
+VIDEO_LINK = "{{< youtube u7k_4HdbfIA >}}"
+
 INSTRUCTOR_PAGE = "29dfe184d67880de843bd8bb70fd1101"
 INSTRUCTOR_TITLE = "Teaching at Dancebreak - Instructor Guidelines"
 INSTRUCTOR_WEIGHT = "4"
@@ -26,7 +29,8 @@ def format_content(s, title=None):
     if title:
         content = content.split(title)[-1].strip()
     # replace floating youtube links with embedded videos
-    content = re.sub(r"^\s*\[.+\]\(https:\/\/youtu\.be\/([^\s]+)\)$",lambda match: f"\n{{{{< youtube {match.group(1)} >}}}}",content)
+    # content = re.sub(r"^\s*\[.+\]\(https:\/\/youtu\.be\/([^\s]+)\)$",lambda match: f"\n{{{{< youtube {match.group(1)} >}}}}",content)
+    content = content.replace(VIDEO_EMBED, VIDEO_LINK) # :/ I </3 hard-coding
 
     return content
 
