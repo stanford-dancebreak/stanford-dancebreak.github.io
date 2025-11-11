@@ -26,7 +26,7 @@ def format_content(s, title=None):
     if title:
         content = content.split(title)[-1].strip()
     # replace floating youtube links with embedded videos
-    content = re.sub(r"^https:\/\/youtu\.be\/([^\s]+)$",lambda match: f"{{{{< youtube {match.group(1)} >}}}}",content)
+    content = re.sub(r"^\s*\[.+\]\(https:\/\/youtu\.be\/([^\s]+)\)$",lambda match: f"\n{{{{< youtube {match.group(1)} >}}}}",content)
 
     return content
 
