@@ -1,6 +1,6 @@
 ---
 title: Local Social Dance Events
-wieght: 6
+weight: 6
 ---
 
 ## Overview
@@ -90,6 +90,10 @@ Bachata Sensual. Every quarter, we organize classes taught by high quality
 instructors, practices, and social events. Bachata Sensual is a contemporary
 variation of Bachata, made in Spain. This dance style is based on solid follow
 and lead principles of natural motions of energy.
+
+When: Zouk on Wednesdays, 6:30 - 9:30 pm. Bachata Sensual on Thursdays, 7 - 10 pm. 
+
+Instagram: https://www.instagram.com/stanford_bachata_sensual_zouk/
 
 Mailing List: https://mailman.stanford.edu/mailman/listinfo/stanford_bachata_zouk
 
