@@ -1,5 +1,5 @@
 ---
-title: Announcements
+title: Past Calendars
 cascade:
     type: blog
 ---

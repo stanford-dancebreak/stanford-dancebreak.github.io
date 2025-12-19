@@ -22,8 +22,8 @@ change---the best way to keep up is through [our mailing list][mail].  Join us
 for social dancing, classes, snacks, and community!
 
 {{< callout emoji="📍" >}}
-Dancebreak will be in Roble 113 during the fall! Workshops will be 7:00-8:00,
-with social dancing 8:00-10:00.
+Dancebreak will be in Roble 113 most Mondays during winter quarter! Workshops will be 8:30-9:30 PM,
+with social dancing 9:30-11:30 PM.
 {{< /callout >}}
 
 If you don't know how to dance, we teach lessons every week! See the [list of
@@ -35,6 +35,8 @@ few weeks below.  [Check out our FAQ if you have more questions!](/info/faq)
 No need to come with a partner---we rotate partners often in class! Each lesson
 is followed by a two-hour DJed dance social, either in the same location or
 nearby.
+
+Here are the next month of events! (See [the full calendar](/posts/26win) for the rest of the quarter.)
 
 {{< EventsTable 1 >}}
 
@@ -48,7 +50,7 @@ learn new skills or just get more practice!
 ## More Info
 
 {{< cards >}}
-{{< card link="posts/25aut" icon="calendar" title="Calendar (Autumn 2025)" subtitle="Find out about future workshops and socials!" >}}
+{{< card link="posts/26win" icon="calendar" title="Calendar (Winter 2025)" subtitle="Find out about future workshops and socials!" >}}
 {{< card link="https://mailman.stanford.edu/mailman/listinfo/dancebreak" icon="mail" title="Mailing List" subtitle="Get weekly updates about locations and events." >}}
 {{< card link="https://instagram.com/stanforddancebreak" icon="instagram" title="Instagram" subtitle="Photos from Dancebreak (and updates).">}}
 {{< card link="info/faq" icon="question-mark-circle" title="Frequently Asked Questions" subtitle="First time social dancing? Find out more here." >}}

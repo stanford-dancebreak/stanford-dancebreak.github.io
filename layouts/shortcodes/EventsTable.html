@@ -1,3 +1,8 @@
+<!-- Function that loads events from the events.yaml into an html table, sorted by event date/time.
+ The first argument is the number of months to load (e.g., 3 for a single academic quarter), and
+ the second argument (optional) is a start date to load from (e.g., the first day of the quarter).
+ If the second argument is not supplied, loads from the current date/time. -->
+
 {{ $duration_months := .Get 0 }}
 {{ if (.Get 1) }}
   {{ .Page.Store.Set "start" (time.AsTime (.Get 1)) }}
