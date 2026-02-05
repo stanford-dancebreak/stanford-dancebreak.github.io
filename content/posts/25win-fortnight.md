@@ -8,6 +8,11 @@ dance lessons!
 
 <!--more-->
 
+{{< callout emoji="📆" type="info" >}}
+Getting ready for the 2026 Viennese Ball? [Click here to see the schedule for
+Austria Fortnight 2026!](/posts/26win-fortnight)
+{{< /callout >}}
+
 Every year, the [Stanford Viennese Ball](https://vienneseball.stanford.edu)
 committee run a series of daily workshops on various dance styles. Members of
 various Stanford social dance clubs---Dancebreak,
