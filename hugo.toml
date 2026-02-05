@@ -21,14 +21,19 @@ height = 48
 width = "wide"
 
 [[menu.main]]
+name = "Fortnight"
+pageRef = "/posts/26win-fortnight"
+weight = 1
+
+[[menu.main]]
 name = "Calendar"
 pageRef = "/posts/26win"
-weight = 1
+weight = 2
 
 [[menu.main]]
 name = "Info"
 pageRef = "/info"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Archive"

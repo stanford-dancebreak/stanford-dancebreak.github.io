@@ -1,6 +1,5 @@
 ---
 title: Austria Fortnight (Winter 2025)
-aliases: ["/fortnight"]
 date: 2025-01-01
 ---
 

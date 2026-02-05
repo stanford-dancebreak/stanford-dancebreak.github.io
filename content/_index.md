@@ -24,6 +24,9 @@ for social dancing, classes, snacks, and community!
 {{< callout emoji="📍" >}}
 Dancebreak will be in Roble 113 most Mondays during winter quarter! Workshops will be 8:30-9:30 PM,
 with social dancing 9:30-11:30 PM.
+
+In mid-February, we and other dance clubs run daily lessons during [Austria
+Fortnight](/posts/26win-fortnight)!
 {{< /callout >}}
 
 If you don't know how to dance, we teach lessons every week! See the [list of
@@ -39,6 +42,10 @@ nearby.
 Here are the next month of events! (See [the full calendar](/posts/26win) for the rest of the quarter.)
 
 {{< EventsTable 1 >}}
+
+**During the two weeks before Viennese Ball, Stanford has daily free beginner
+dance classes! See here for more information: [Austria Fortnight
+Schedule](/posts/26win-fortnight)**
 
 Beginner lessons (bolded) are for everyone---no dance experience necessary!
 Practice what you learned by staying for the dance social, immediately after

@@ -1,20 +1,20 @@
 - archived: false
   cover: null
   created_by:
-    id: 159d872b-594c-813a-829f-000223d42681
+    id: 143d872b-594c-810b-88ee-0002833d1f28
     object: user
-  created_time: '2025-09-14T23:42:00.000Z'
+  created_time: '2025-09-04T17:31:00.000Z'
   icon:
     external:
       url: https://www.notion.so/icons/ticket_purple.svg
     type: external
-  id: 26efe184-d678-8083-90be-eba17016fedf
+  id: 264fe184-d678-800a-8418-e487855da970
   in_trash: false
   is_locked: false
   last_edited_by:
     id: 143d872b-594c-810b-88ee-0002833d1f28
     object: user
-  last_edited_time: '2025-10-02T23:35:00.000Z'
+  last_edited_time: '2025-10-16T19:47:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -23,133 +23,9 @@
     Category:
       id: _UOD
       select:
-        color: yellow
-        id: 8bf7b9dc-e3e4-4fa2-b650-f40334f34050
-        name: Admin Meeting
-      type: select
-    DJ/Instructor Status:
-      id: im~V
-      status:
         color: green
-        id: 5384f414-3388-4144-bc59-cd85011d7ba4
-        name: Confirmed
-      type: status
-    Description:
-      id: MD%3Cr
-      rich_text: []
-      type: rich_text
-    Event Date & Time:
-      date:
-        end: '2025-09-22T19:00:00.000-07:00'
-        start: '2025-09-22T18:00:00.000-07:00'
-        time_zone: null
-      id: '%3C%5EBD'
-      type: date
-    Event name:
-      id: title
-      title:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Admin Meeting
-        text:
-          content: Admin Meeting
-          link: null
-        type: text
-      type: title
-    Instructor/DJ:
-      id: '%3DRGW'
-      people:
-      - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
-        object: user
-        person:
-          email: manukian@stanford.edu
-        type: person
-      - avatar_url: null
-        id: 143d872b-594c-810b-88ee-0002833d1f28
-        name: Akshay Srivatsan
-        object: user
-        person:
-          email: akshay01@stanford.edu
-        type: person
-      type: people
-    Instructor/DJ Coordinator:
-      id: U%7D%40U
-      people:
-      - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
-        object: user
-        person:
-          email: manukian@stanford.edu
-        type: person
-      type: people
-    Private Notes:
-      id: f%3BIe
-      rich_text: []
-      type: rich_text
-    Room Coordinator:
-      id: '%3CQwT'
-      people:
-      - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
-        object: user
-        person:
-          email: manukian@stanford.edu
-        type: person
-      type: people
-    Room Status:
-      id: kLek
-      status:
-        color: yellow
-        id: VH?`
-        name: Requested
-      type: status
-    Venue:
-      id: ZW%5B_
-      select:
-        color: brown
-        id: 2cceb71e-5ac3-4c14-8ac6-3e35417a1e63
-        name: Roble Lounge
-      type: select
-  public_url: null
-  url: https://www.notion.so/Admin-Meeting-26efe184d678808390beeba17016fedf
-- archived: false
-  cover: null
-  created_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  created_time: '2025-09-08T21:17:00.000Z'
-  icon:
-    external:
-      url: https://www.notion.so/icons/ticket_purple.svg
-    type: external
-  id: 268fe184-d678-809b-b770-c33455bf3c73
-  in_trash: false
-  is_locked: false
-  last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  last_edited_time: '2025-10-02T04:28:00.000Z'
-  object: page
-  parent:
-    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
-    type: database_id
-  properties:
-    Category:
-      id: _UOD
-      select:
-        color: orange
-        id: 98e83947-d756-4335-99d7-e810c6889f54
-        name: Intermediate Workshop
+        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
+        name: Beginner Workshop
       type: select
     DJ/Instructor Status:
       id: im~V
@@ -169,9 +45,9 @@
           strikethrough: false
           underline: false
         href: null
-        plain_text: Akshay Srivatsan
+        plain_text: Gokul & Eleanor
         text:
-          content: Akshay Srivatsan
+          content: Gokul & Eleanor
           link: null
         type: text
       type: rich_text
@@ -193,249 +69,9 @@
           strikethrough: false
           underline: false
         href: null
-        plain_text: DJing at Dancebreak Workshop
+        plain_text: Cross-Step Waltz
         text:
-          content: DJing at Dancebreak Workshop
-          link: null
-        type: text
-      type: title
-    Instructor/DJ:
-      id: '%3DRGW'
-      people:
-      - avatar_url: null
-        id: 143d872b-594c-810b-88ee-0002833d1f28
-        name: Akshay Srivatsan
-        object: user
-        person:
-          email: akshay01@stanford.edu
-        type: person
-      type: people
-    Instructor/DJ Coordinator:
-      id: U%7D%40U
-      people:
-      - avatar_url: null
-        id: 143d872b-594c-810b-88ee-0002833d1f28
-        name: Akshay Srivatsan
-        object: user
-        person:
-          email: akshay01@stanford.edu
-        type: person
-      type: people
-    Private Notes:
-      id: f%3BIe
-      rich_text: []
-      type: rich_text
-    Room Coordinator:
-      id: '%3CQwT'
-      people:
-      - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
-        object: user
-        person:
-          email: manukian@stanford.edu
-        type: person
-      type: people
-    Room Status:
-      id: kLek
-      status:
-        color: green
-        id: 5384f414-3388-4144-bc59-cd85011d7ba4
-        name: Done
-      type: status
-    Venue:
-      id: ZW%5B_
-      select:
-        color: brown
-        id: 15f7ed21-99dd-45b6-b976-9246c870b417
-        name: Roble 137
-      type: select
-  public_url: null
-  url: https://www.notion.so/DJing-at-Dancebreak-Workshop-268fe184d678809bb770c33455bf3c73
-- archived: false
-  cover: null
-  created_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  created_time: '2025-09-05T02:02:00.000Z'
-  icon:
-    external:
-      url: https://www.notion.so/icons/ticket_purple.svg
-    type: external
-  id: 265fe184-d678-80e0-a7c1-fb03b55572bd
-  in_trash: false
-  is_locked: false
-  last_edited_by:
-    id: 16ad872b-594c-81ce-a2dc-0002d7044026
-    object: user
-  last_edited_time: '2025-09-29T00:40:00.000Z'
-  object: page
-  parent:
-    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
-    type: database_id
-  properties:
-    Category:
-      id: _UOD
-      select:
-        color: blue
-        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
-        name: Social Dance
-      type: select
-    DJ/Instructor Status:
-      id: im~V
-      status:
-        color: green
-        id: 5384f414-3388-4144-bc59-cd85011d7ba4
-        name: Confirmed
-      type: status
-    Description:
-      id: MD%3Cr
-      rich_text:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Briana
-        text:
-          content: Briana
-          link: null
-        type: text
-      type: rich_text
-    Event Date & Time:
-      date:
-        end: '2025-09-22T22:00:00.000-07:00'
-        start: '2025-09-22T20:00:00.000-07:00'
-        time_zone: null
-      id: '%3C%5EBD'
-      type: date
-    Event name:
-      id: title
-      title:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Social Dancing
-        text:
-          content: Social Dancing
-          link: null
-        type: text
-      type: title
-    Instructor/DJ:
-      id: '%3DRGW'
-      people: []
-      type: people
-    Instructor/DJ Coordinator:
-      id: U%7D%40U
-      people:
-      - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
-        object: user
-        person:
-          email: manukian@stanford.edu
-        type: person
-      type: people
-    Private Notes:
-      id: f%3BIe
-      rich_text: []
-      type: rich_text
-    Room Coordinator:
-      id: '%3CQwT'
-      people:
-      - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
-        object: user
-        person:
-          email: manukian@stanford.edu
-        type: person
-      type: people
-    Room Status:
-      id: kLek
-      status:
-        color: green
-        id: 5384f414-3388-4144-bc59-cd85011d7ba4
-        name: Done
-      type: status
-    Venue:
-      id: ZW%5B_
-      select:
-        color: green
-        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
-        name: Roble 113
-      type: select
-  public_url: null
-  url: https://www.notion.so/Social-Dancing-265fe184d67880e0a7c1fb03b55572bd
-- archived: false
-  cover: null
-  created_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  created_time: '2025-09-05T02:02:00.000Z'
-  icon:
-    external:
-      url: https://www.notion.so/icons/ticket_purple.svg
-    type: external
-  id: 265fe184-d678-8010-8065-f2eebd849f56
-  in_trash: false
-  is_locked: false
-  last_edited_by:
-    id: 159d872b-594c-813a-829f-000223d42681
-    object: user
-  last_edited_time: '2025-09-28T06:32:00.000Z'
-  object: page
-  parent:
-    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
-    type: database_id
-  properties:
-    Category:
-      id: _UOD
-      select:
-        color: green
-        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
-        name: Beginner Workshop
-      type: select
-    DJ/Instructor Status:
-      id: im~V
-      status:
-        color: green
-        id: 5384f414-3388-4144-bc59-cd85011d7ba4
-        name: Confirmed
-      type: status
-    Description:
-      id: MD%3Cr
-      rich_text: []
-      type: rich_text
-    Event Date & Time:
-      date:
-        end: '2025-09-22T20:00:00.000-07:00'
-        start: '2025-09-22T19:00:00.000-07:00'
-        time_zone: null
-      id: '%3C%5EBD'
-      type: date
-    Event name:
-      id: title
-      title:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Cross Step Waltz
-        text:
-          content: Cross Step Waltz
+          content: Cross-Step Waltz
           link: null
         type: text
       type: title
@@ -491,800 +127,7 @@
         name: Roble 113
       type: select
   public_url: null
-  url: https://www.notion.so/Cross-Step-Waltz-265fe184d67880108065f2eebd849f56
-- archived: false
-  cover: null
-  created_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  created_time: '2025-09-04T17:40:00.000Z'
-  icon:
-    external:
-      url: https://www.notion.so/icons/ticket_purple.svg
-    type: external
-  id: 264fe184-d678-80fe-9b40-d0e8aaa732b6
-  in_trash: false
-  is_locked: false
-  last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  last_edited_time: '2025-09-19T22:46:00.000Z'
-  object: page
-  parent:
-    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
-    type: database_id
-  properties:
-    Category:
-      id: _UOD
-      select:
-        color: pink
-        id: 859dd842-6831-4972-8ac0-ffe027cdf9c6
-        name: Advanced Workshop
-      type: select
-    DJ/Instructor Status:
-      id: im~V
-      status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Open
-      type: status
-    Description:
-      id: MD%3Cr
-      rich_text: []
-      type: rich_text
-    Event Date & Time:
-      date:
-        end: null
-        start: '2025-12-01'
-        time_zone: null
-      id: '%3C%5EBD'
-      type: date
-    Event name:
-      id: title
-      title:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Rotary Waltz
-        text:
-          content: Rotary Waltz
-          link: null
-        type: text
-      type: title
-    Instructor/DJ:
-      id: '%3DRGW'
-      people: []
-      type: people
-    Instructor/DJ Coordinator:
-      id: U%7D%40U
-      people:
-      - avatar_url: null
-        id: 143d872b-594c-810b-88ee-0002833d1f28
-        name: Akshay Srivatsan
-        object: user
-        person:
-          email: akshay01@stanford.edu
-        type: person
-      type: people
-    Private Notes:
-      id: f%3BIe
-      rich_text: []
-      type: rich_text
-    Room Coordinator:
-      id: '%3CQwT'
-      people: []
-      type: people
-    Room Status:
-      id: kLek
-      status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Needed
-      type: status
-    Venue:
-      id: ZW%5B_
-      select: null
-      type: select
-  public_url: null
-  url: https://www.notion.so/Rotary-Waltz-264fe184d67880fe9b40d0e8aaa732b6
-- archived: false
-  cover: null
-  created_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  created_time: '2025-09-04T17:40:00.000Z'
-  icon:
-    external:
-      url: https://www.notion.so/icons/ticket_purple.svg
-    type: external
-  id: 264fe184-d678-8051-9cff-fb3de74a14d7
-  in_trash: false
-  is_locked: false
-  last_edited_by:
-    id: 159d872b-594c-813a-829f-000223d42681
-    object: user
-  last_edited_time: '2025-09-30T01:05:00.000Z'
-  object: page
-  parent:
-    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
-    type: database_id
-  properties:
-    Category:
-      id: _UOD
-      select:
-        color: orange
-        id: 98e83947-d756-4335-99d7-e810c6889f54
-        name: Intermediate Workshop
-      type: select
-    DJ/Instructor Status:
-      id: im~V
-      status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Open
-      type: status
-    Description:
-      id: MD%3Cr
-      rich_text: []
-      type: rich_text
-    Event Date & Time:
-      date:
-        end: '2025-11-17T20:00:00.000-08:00'
-        start: '2025-11-17T19:00:00.000-08:00'
-        time_zone: null
-      id: '%3C%5EBD'
-      type: date
-    Event name:
-      id: title
-      title:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Rotary Waltz
-        text:
-          content: Rotary Waltz
-          link: null
-        type: text
-      type: title
-    Instructor/DJ:
-      id: '%3DRGW'
-      people: []
-      type: people
-    Instructor/DJ Coordinator:
-      id: U%7D%40U
-      people:
-      - avatar_url: null
-        id: 143d872b-594c-810b-88ee-0002833d1f28
-        name: Akshay Srivatsan
-        object: user
-        person:
-          email: akshay01@stanford.edu
-        type: person
-      type: people
-    Private Notes:
-      id: f%3BIe
-      rich_text: []
-      type: rich_text
-    Room Coordinator:
-      id: '%3CQwT'
-      people:
-      - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
-        object: user
-        person:
-          email: manukian@stanford.edu
-        type: person
-      type: people
-    Room Status:
-      id: kLek
-      status:
-        color: green
-        id: 5384f414-3388-4144-bc59-cd85011d7ba4
-        name: Done
-      type: status
-    Venue:
-      id: ZW%5B_
-      select:
-        color: green
-        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
-        name: Roble 113
-      type: select
-  public_url: null
-  url: https://www.notion.so/Rotary-Waltz-264fe184d67880519cfffb3de74a14d7
-- archived: false
-  cover: null
-  created_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  created_time: '2025-09-04T17:39:00.000Z'
-  icon:
-    external:
-      url: https://www.notion.so/icons/ticket_purple.svg
-    type: external
-  id: 264fe184-d678-80d2-ab17-fee817e693ce
-  in_trash: false
-  is_locked: false
-  last_edited_by:
-    id: 159d872b-594c-813a-829f-000223d42681
-    object: user
-  last_edited_time: '2025-09-30T01:05:00.000Z'
-  object: page
-  parent:
-    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
-    type: database_id
-  properties:
-    Category:
-      id: _UOD
-      select:
-        color: green
-        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
-        name: Beginner Workshop
-      type: select
-    DJ/Instructor Status:
-      id: im~V
-      status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Open
-      type: status
-    Description:
-      id: MD%3Cr
-      rich_text: []
-      type: rich_text
-    Event Date & Time:
-      date:
-        end: '2025-11-10T20:00:00.000-08:00'
-        start: '2025-11-10T19:00:00.000-08:00'
-        time_zone: null
-      id: '%3C%5EBD'
-      type: date
-    Event name:
-      id: title
-      title:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Rotary Waltz
-        text:
-          content: Rotary Waltz
-          link: null
-        type: text
-      type: title
-    Instructor/DJ:
-      id: '%3DRGW'
-      people: []
-      type: people
-    Instructor/DJ Coordinator:
-      id: U%7D%40U
-      people:
-      - avatar_url: null
-        id: 143d872b-594c-810b-88ee-0002833d1f28
-        name: Akshay Srivatsan
-        object: user
-        person:
-          email: akshay01@stanford.edu
-        type: person
-      type: people
-    Private Notes:
-      id: f%3BIe
-      rich_text: []
-      type: rich_text
-    Room Coordinator:
-      id: '%3CQwT'
-      people:
-      - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
-        object: user
-        person:
-          email: manukian@stanford.edu
-        type: person
-      type: people
-    Room Status:
-      id: kLek
-      status:
-        color: green
-        id: 5384f414-3388-4144-bc59-cd85011d7ba4
-        name: Done
-      type: status
-    Venue:
-      id: ZW%5B_
-      select:
-        color: green
-        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
-        name: Roble 113
-      type: select
-  public_url: null
-  url: https://www.notion.so/Rotary-Waltz-264fe184d67880d2ab17fee817e693ce
-- archived: false
-  cover: null
-  created_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  created_time: '2025-09-04T17:39:00.000Z'
-  icon:
-    external:
-      url: https://www.notion.so/icons/ticket_purple.svg
-    type: external
-  id: 264fe184-d678-800f-a334-e0b0b3ccb9cd
-  in_trash: false
-  is_locked: false
-  last_edited_by:
-    id: 159d872b-594c-813a-829f-000223d42681
-    object: user
-  last_edited_time: '2025-10-02T04:30:00.000Z'
-  object: page
-  parent:
-    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
-    type: database_id
-  properties:
-    Category:
-      id: _UOD
-      select:
-        color: green
-        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
-        name: Beginner Workshop
-      type: select
-    DJ/Instructor Status:
-      id: im~V
-      status:
-        color: green
-        id: 5384f414-3388-4144-bc59-cd85011d7ba4
-        name: Confirmed
-      type: status
-    Description:
-      id: MD%3Cr
-      rich_text:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Bandana Bob
-        text:
-          content: Bandana Bob
-          link: null
-        type: text
-      type: rich_text
-    Event Date & Time:
-      date:
-        end: '2025-10-20T20:00:00.000-07:00'
-        start: '2025-10-20T19:00:00.000-07:00'
-        time_zone: null
-      id: '%3C%5EBD'
-      type: date
-    Event name:
-      id: title
-      title:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Line Dances
-        text:
-          content: Line Dances
-          link: null
-        type: text
-      type: title
-    Instructor/DJ:
-      id: '%3DRGW'
-      people: []
-      type: people
-    Instructor/DJ Coordinator:
-      id: U%7D%40U
-      people:
-      - avatar_url: null
-        id: 143d872b-594c-810b-88ee-0002833d1f28
-        name: Akshay Srivatsan
-        object: user
-        person:
-          email: akshay01@stanford.edu
-        type: person
-      type: people
-    Private Notes:
-      id: f%3BIe
-      rich_text: []
-      type: rich_text
-    Room Coordinator:
-      id: '%3CQwT'
-      people:
-      - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
-        object: user
-        person:
-          email: manukian@stanford.edu
-        type: person
-      type: people
-    Room Status:
-      id: kLek
-      status:
-        color: green
-        id: 5384f414-3388-4144-bc59-cd85011d7ba4
-        name: Done
-      type: status
-    Venue:
-      id: ZW%5B_
-      select:
-        color: green
-        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
-        name: Roble 113
-      type: select
-  public_url: null
-  url: https://www.notion.so/Line-Dances-264fe184d678800fa334e0b0b3ccb9cd
-- archived: false
-  cover: null
-  created_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  created_time: '2025-09-04T17:39:00.000Z'
-  icon:
-    external:
-      url: https://www.notion.so/icons/ticket_purple.svg
-    type: external
-  id: 264fe184-d678-80b0-aaff-cd751925bda6
-  in_trash: false
-  is_locked: false
-  last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  last_edited_time: '2025-10-03T18:00:00.000Z'
-  object: page
-  parent:
-    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
-    type: database_id
-  properties:
-    Category:
-      id: _UOD
-      select:
-        color: green
-        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
-        name: Beginner Workshop
-      type: select
-    DJ/Instructor Status:
-      id: im~V
-      status:
-        color: green
-        id: 5384f414-3388-4144-bc59-cd85011d7ba4
-        name: Confirmed
-      type: status
-    Description:
-      id: MD%3Cr
-      rich_text:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Maiya & TBD
-        text:
-          content: Maiya & TBD
-          link: null
-        type: text
-      type: rich_text
-    Event Date & Time:
-      date:
-        end: '2025-10-27T20:00:00.000-07:00'
-        start: '2025-10-27T19:00:00.000-07:00'
-        time_zone: null
-      id: '%3C%5EBD'
-      type: date
-    Event name:
-      id: title
-      title:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Lindy Hop
-        text:
-          content: Lindy Hop
-          link: null
-        type: text
-      type: title
-    Instructor/DJ:
-      id: '%3DRGW'
-      people:
-      - avatar_url: null
-        id: 114d872b-594c-8139-bb81-0002ec4c419a
-        name: Maiya Yu
-        object: user
-        person:
-          email: msh24@stanford.edu
-        type: person
-      type: people
-    Instructor/DJ Coordinator:
-      id: U%7D%40U
-      people:
-      - avatar_url: null
-        id: 143d872b-594c-810b-88ee-0002833d1f28
-        name: Akshay Srivatsan
-        object: user
-        person:
-          email: akshay01@stanford.edu
-        type: person
-      type: people
-    Private Notes:
-      id: f%3BIe
-      rich_text: []
-      type: rich_text
-    Room Coordinator:
-      id: '%3CQwT'
-      people:
-      - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
-        object: user
-        person:
-          email: manukian@stanford.edu
-        type: person
-      type: people
-    Room Status:
-      id: kLek
-      status:
-        color: green
-        id: 5384f414-3388-4144-bc59-cd85011d7ba4
-        name: Done
-      type: status
-    Venue:
-      id: ZW%5B_
-      select:
-        color: green
-        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
-        name: Roble 113
-      type: select
-  public_url: null
-  url: https://www.notion.so/Lindy-Hop-264fe184d67880b0aaffcd751925bda6
-- archived: false
-  cover: null
-  created_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  created_time: '2025-09-04T17:38:00.000Z'
-  icon:
-    external:
-      url: https://www.notion.so/icons/ticket_purple.svg
-    type: external
-  id: 264fe184-d678-80f7-bdab-f28ca8347e7b
-  in_trash: false
-  is_locked: false
-  last_edited_by:
-    id: 159d872b-594c-813a-829f-000223d42681
-    object: user
-  last_edited_time: '2025-10-02T04:28:00.000Z'
-  object: page
-  parent:
-    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
-    type: database_id
-  properties:
-    Category:
-      id: _UOD
-      select:
-        color: green
-        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
-        name: Beginner Workshop
-      type: select
-    DJ/Instructor Status:
-      id: im~V
-      status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Open
-      type: status
-    Description:
-      id: MD%3Cr
-      rich_text: []
-      type: rich_text
-    Event Date & Time:
-      date:
-        end: '2025-11-03T20:00:00.000-08:00'
-        start: '2025-11-03T19:00:00.000-08:00'
-        time_zone: null
-      id: '%3C%5EBD'
-      type: date
-    Event name:
-      id: title
-      title:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Mixers
-        text:
-          content: Mixers
-          link: null
-        type: text
-      type: title
-    Instructor/DJ:
-      id: '%3DRGW'
-      people: []
-      type: people
-    Instructor/DJ Coordinator:
-      id: U%7D%40U
-      people:
-      - avatar_url: null
-        id: 143d872b-594c-810b-88ee-0002833d1f28
-        name: Akshay Srivatsan
-        object: user
-        person:
-          email: akshay01@stanford.edu
-        type: person
-      type: people
-    Private Notes:
-      id: f%3BIe
-      rich_text: []
-      type: rich_text
-    Room Coordinator:
-      id: '%3CQwT'
-      people:
-      - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
-        object: user
-        person:
-          email: manukian@stanford.edu
-        type: person
-      type: people
-    Room Status:
-      id: kLek
-      status:
-        color: green
-        id: 5384f414-3388-4144-bc59-cd85011d7ba4
-        name: Done
-      type: status
-    Venue:
-      id: ZW%5B_
-      select:
-        color: green
-        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
-        name: Roble 113
-      type: select
-  public_url: null
-  url: https://www.notion.so/Mixers-264fe184d67880f7bdabf28ca8347e7b
-- archived: false
-  cover: null
-  created_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  created_time: '2025-09-04T17:37:00.000Z'
-  icon:
-    external:
-      url: https://www.notion.so/icons/ticket_purple.svg
-    type: external
-  id: 264fe184-d678-80c4-94a2-c860f296db0a
-  in_trash: false
-  is_locked: false
-  last_edited_by:
-    id: 159d872b-594c-813a-829f-000223d42681
-    object: user
-  last_edited_time: '2025-10-02T04:28:00.000Z'
-  object: page
-  parent:
-    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
-    type: database_id
-  properties:
-    Category:
-      id: _UOD
-      select:
-        color: orange
-        id: 98e83947-d756-4335-99d7-e810c6889f54
-        name: Intermediate Workshop
-      type: select
-    DJ/Instructor Status:
-      id: im~V
-      status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Open
-      type: status
-    Description:
-      id: MD%3Cr
-      rich_text: []
-      type: rich_text
-    Event Date & Time:
-      date:
-        end: '2025-11-03T20:00:00.000-08:00'
-        start: '2025-11-03T19:00:00.000-08:00'
-        time_zone: null
-      id: '%3C%5EBD'
-      type: date
-    Event name:
-      id: title
-      title:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Cross-Step Waltz Mixer
-        text:
-          content: Cross-Step Waltz Mixer
-          link: null
-        type: text
-      type: title
-    Instructor/DJ:
-      id: '%3DRGW'
-      people: []
-      type: people
-    Instructor/DJ Coordinator:
-      id: U%7D%40U
-      people:
-      - avatar_url: null
-        id: 143d872b-594c-810b-88ee-0002833d1f28
-        name: Akshay Srivatsan
-        object: user
-        person:
-          email: akshay01@stanford.edu
-        type: person
-      type: people
-    Private Notes:
-      id: f%3BIe
-      rich_text: []
-      type: rich_text
-    Room Coordinator:
-      id: '%3CQwT'
-      people:
-      - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
-        object: user
-        person:
-          email: manukian@stanford.edu
-        type: person
-      type: people
-    Room Status:
-      id: kLek
-      status:
-        color: green
-        id: 5384f414-3388-4144-bc59-cd85011d7ba4
-        name: Done
-      type: status
-    Venue:
-      id: ZW%5B_
-      select:
-        color: green
-        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
-        name: Roble 113
-      type: select
-  public_url: null
-  url: https://www.notion.so/Cross-Step-Waltz-Mixer-264fe184d67880c494a2c860f296db0a
+  url: https://www.notion.so/Cross-Step-Waltz-264fe184d678800a8418e487855da970
 - archived: false
   cover: null
   created_by:
@@ -1301,7 +144,7 @@
   last_edited_by:
     id: 143d872b-594c-810b-88ee-0002833d1f28
     object: user
-  last_edited_time: '2025-10-03T18:00:00.000Z'
+  last_edited_time: '2025-10-16T19:47:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -1332,9 +175,9 @@
           strikethrough: false
           underline: false
         href: null
-        plain_text: Wally & TBD
+        plain_text: Wally & Maya
         text:
-          content: Wally & TBD
+          content: Wally & Maya
           link: null
         type: text
       type: rich_text
@@ -1413,18 +256,18 @@
   created_by:
     id: 143d872b-594c-810b-88ee-0002833d1f28
     object: user
-  created_time: '2025-09-04T17:36:00.000Z'
+  created_time: '2025-09-04T17:39:00.000Z'
   icon:
     external:
       url: https://www.notion.so/icons/ticket_purple.svg
     type: external
-  id: 264fe184-d678-80f1-889e-ee8f919681d8
+  id: 264fe184-d678-800f-a334-e0b0b3ccb9cd
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 159d872b-594c-813a-829f-000223d42681
     object: user
-  last_edited_time: '2025-09-19T22:46:00.000Z'
+  last_edited_time: '2025-10-11T05:37:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -1432,320 +275,10 @@
   properties:
     Category:
       id: _UOD
-      select:
-        color: blue
-        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
-        name: Social Dance
-      type: select
-    DJ/Instructor Status:
-      id: im~V
-      status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Open
-      type: status
-    Description:
-      id: MD%3Cr
-      rich_text: []
-      type: rich_text
-    Event Date & Time:
-      date:
-        end: null
-        start: '2025-12-08'
-        time_zone: null
-      id: '%3C%5EBD'
-      type: date
-    Event name:
-      id: title
-      title:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Social Dancing
-        text:
-          content: Social Dancing
-          link: null
-        type: text
-      type: title
-    Instructor/DJ:
-      id: '%3DRGW'
-      people: []
-      type: people
-    Instructor/DJ Coordinator:
-      id: U%7D%40U
-      people:
-      - avatar_url: null
-        id: 143d872b-594c-810b-88ee-0002833d1f28
-        name: Akshay Srivatsan
-        object: user
-        person:
-          email: akshay01@stanford.edu
-        type: person
-      type: people
-    Private Notes:
-      id: f%3BIe
-      rich_text: []
-      type: rich_text
-    Room Coordinator:
-      id: '%3CQwT'
-      people: []
-      type: people
-    Room Status:
-      id: kLek
-      status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Needed
-      type: status
-    Venue:
-      id: ZW%5B_
-      select: null
-      type: select
-  public_url: null
-  url: https://www.notion.so/Social-Dancing-264fe184d67880f1889eee8f919681d8
-- archived: false
-  cover: null
-  created_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  created_time: '2025-09-04T17:35:00.000Z'
-  icon:
-    external:
-      url: https://www.notion.so/icons/ticket_purple.svg
-    type: external
-  id: 264fe184-d678-8097-b4d2-e479f250066d
-  in_trash: false
-  is_locked: false
-  last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  last_edited_time: '2025-09-19T22:46:00.000Z'
-  object: page
-  parent:
-    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
-    type: database_id
-  properties:
-    Category:
-      id: _UOD
-      select:
-        color: blue
-        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
-        name: Social Dance
-      type: select
-    DJ/Instructor Status:
-      id: im~V
-      status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Open
-      type: status
-    Description:
-      id: MD%3Cr
-      rich_text: []
-      type: rich_text
-    Event Date & Time:
-      date:
-        end: null
-        start: '2025-12-01'
-        time_zone: null
-      id: '%3C%5EBD'
-      type: date
-    Event name:
-      id: title
-      title:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Social Dancing
-        text:
-          content: Social Dancing
-          link: null
-        type: text
-      type: title
-    Instructor/DJ:
-      id: '%3DRGW'
-      people: []
-      type: people
-    Instructor/DJ Coordinator:
-      id: U%7D%40U
-      people:
-      - avatar_url: null
-        id: 143d872b-594c-810b-88ee-0002833d1f28
-        name: Akshay Srivatsan
-        object: user
-        person:
-          email: akshay01@stanford.edu
-        type: person
-      type: people
-    Private Notes:
-      id: f%3BIe
-      rich_text: []
-      type: rich_text
-    Room Coordinator:
-      id: '%3CQwT'
-      people: []
-      type: people
-    Room Status:
-      id: kLek
-      status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Needed
-      type: status
-    Venue:
-      id: ZW%5B_
-      select: null
-      type: select
-  public_url: null
-  url: https://www.notion.so/Social-Dancing-264fe184d6788097b4d2e479f250066d
-- archived: false
-  cover: null
-  created_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  created_time: '2025-09-04T17:35:00.000Z'
-  icon:
-    external:
-      url: https://www.notion.so/icons/ticket_purple.svg
-    type: external
-  id: 264fe184-d678-809b-b6ee-eeb064dee1de
-  in_trash: false
-  is_locked: false
-  last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  last_edited_time: '2025-09-19T22:47:00.000Z'
-  object: page
-  parent:
-    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
-    type: database_id
-  properties:
-    Category:
-      id: _UOD
-      select:
-        color: blue
-        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
-        name: Social Dance
-      type: select
-    DJ/Instructor Status:
-      id: im~V
-      status:
-        color: red
-        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
-        name: Open
-      type: status
-    Description:
-      id: MD%3Cr
-      rich_text: []
-      type: rich_text
-    Event Date & Time:
-      date:
-        end: null
-        start: '2025-11-24'
-        time_zone: null
-      id: '%3C%5EBD'
-      type: date
-    Event name:
-      id: title
-      title:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Social Dancing
-        text:
-          content: Social Dancing
-          link: null
-        type: text
-      type: title
-    Instructor/DJ:
-      id: '%3DRGW'
-      people: []
-      type: people
-    Instructor/DJ Coordinator:
-      id: U%7D%40U
-      people:
-      - avatar_url: null
-        id: 143d872b-594c-810b-88ee-0002833d1f28
-        name: Akshay Srivatsan
-        object: user
-        person:
-          email: akshay01@stanford.edu
-        type: person
-      type: people
-    Private Notes:
-      id: f%3BIe
-      rich_text: []
-      type: rich_text
-    Room Coordinator:
-      id: '%3CQwT'
-      people:
-      - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
-        object: user
-        person:
-          email: manukian@stanford.edu
-        type: person
-      type: people
-    Room Status:
-      id: kLek
-      status:
-        color: green
-        id: 5384f414-3388-4144-bc59-cd85011d7ba4
-        name: Done
-      type: status
-    Venue:
-      id: ZW%5B_
       select:
         color: green
-        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
-        name: Roble 113
-      type: select
-  public_url: null
-  url: https://www.notion.so/Social-Dancing-264fe184d678809bb6eeeeb064dee1de
-- archived: false
-  cover: null
-  created_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  created_time: '2025-09-04T17:35:00.000Z'
-  icon:
-    external:
-      url: https://www.notion.so/icons/ticket_purple.svg
-    type: external
-  id: 264fe184-d678-802c-9765-c10961529d2d
-  in_trash: false
-  is_locked: false
-  last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  last_edited_time: '2025-10-02T23:35:00.000Z'
-  object: page
-  parent:
-    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
-    type: database_id
-  properties:
-    Category:
-      id: _UOD
-      select:
-        color: blue
-        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
-        name: Social Dance
+        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
+        name: Beginner Workshop
       type: select
     DJ/Instructor Status:
       id: im~V
@@ -1765,16 +298,16 @@
           strikethrough: false
           underline: false
         href: null
-        plain_text: Cyrus & Sophia
+        plain_text: Bandana Bob
         text:
-          content: Cyrus & Sophia
+          content: Bandana Bob
           link: null
         type: text
       type: rich_text
     Event Date & Time:
       date:
-        end: '2025-11-17T22:00:00.000-08:00'
-        start: '2025-11-17T20:00:00.000-08:00'
+        end: '2025-10-20T20:00:00.000-07:00'
+        start: '2025-10-20T19:00:00.000-07:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -1789,22 +322,15 @@
           strikethrough: false
           underline: false
         href: null
-        plain_text: Social Dancing
+        plain_text: Line Dances and Mixers
         text:
-          content: Social Dancing
+          content: Line Dances and Mixers
           link: null
         type: text
       type: title
     Instructor/DJ:
       id: '%3DRGW'
-      people:
-      - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
-        object: user
-        person:
-          email: manukian@stanford.edu
-        type: person
+      people: []
       type: people
     Instructor/DJ Coordinator:
       id: U%7D%40U
@@ -1847,7 +373,7 @@
         name: Roble 113
       type: select
   public_url: null
-  url: https://www.notion.so/Social-Dancing-264fe184d678802c9765c10961529d2d
+  url: https://www.notion.so/Line-Dances-and-Mixers-264fe184d678800fa334e0b0b3ccb9cd
 - archived: false
   cover: null
   created_by:
@@ -1988,6 +514,888 @@
     external:
       url: https://www.notion.so/icons/ticket_purple.svg
     type: external
+  id: 264fe184-d678-802c-9765-c10961529d2d
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  last_edited_time: '2025-10-02T23:35:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: blue
+        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
+        name: Social Dance
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Cyrus & Sophia
+        text:
+          content: Cyrus & Sophia
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-11-17T22:00:00.000-08:00'
+        start: '2025-11-17T20:00:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Social Dancing
+        text:
+          content: Social Dancing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people:
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
+        object: user
+        person:
+          email: manukian@stanford.edu
+        type: person
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people:
+      - avatar_url: null
+        id: 143d872b-594c-810b-88ee-0002833d1f28
+        name: Akshay Srivatsan
+        object: user
+        person:
+          email: akshay01@stanford.edu
+        type: person
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people:
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
+        object: user
+        person:
+          email: manukian@stanford.edu
+        type: person
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Social-Dancing-264fe184d678802c9765c10961529d2d
+- archived: false
+  cover: null
+  created_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  created_time: '2025-09-04T17:30:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 264fe184-d678-8039-add2-e00f2b287231
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  last_edited_time: '2025-09-25T18:09:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: blue
+        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
+        name: Social Dance
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Bella & Hikari
+        text:
+          content: Bella & Hikari
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-09-29T22:00:00.000-07:00'
+        start: '2025-09-29T20:30:00.000-07:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Social Dancing
+        text:
+          content: Social Dancing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people:
+      - avatar_url: https://lh3.googleusercontent.com/a/AATXAJyIDClVXLEo-FBYtpEbQ3ShCjnnoJvO1FYA1Ck3=s100
+        id: dd4f885f-7f5e-48a8-a9c5-81e2d759b354
+        name: Bella Archibald
+        object: user
+        person:
+          email: bellaa@stanford.edu
+        type: person
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people:
+      - avatar_url: null
+        id: 143d872b-594c-810b-88ee-0002833d1f28
+        name: Akshay Srivatsan
+        object: user
+        person:
+          email: akshay01@stanford.edu
+        type: person
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people:
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
+        object: user
+        person:
+          email: manukian@stanford.edu
+        type: person
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Social-Dancing-264fe184d6788039add2e00f2b287231
+- archived: false
+  cover: null
+  created_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  created_time: '2025-09-04T17:34:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 264fe184-d678-804a-8947-dab9224ea871
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 159d872b-594c-813a-829f-000223d42681
+    object: user
+  last_edited_time: '2025-09-30T00:53:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: blue
+        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
+        name: Social Dance
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Dakota & Chhavi
+        text:
+          content: Dakota & Chhavi
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-10-13T22:00:00.000-07:00'
+        start: '2025-10-13T20:00:00.000-07:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Social Dancing
+        text:
+          content: Social Dancing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people:
+      - avatar_url: null
+        id: 13bd872b-594c-81a1-84f6-00020268de07
+        name: Dakota Lawlar
+        object: user
+        person:
+          email: dblawlar@stanford.edu
+        type: person
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people:
+      - avatar_url: null
+        id: 143d872b-594c-810b-88ee-0002833d1f28
+        name: Akshay Srivatsan
+        object: user
+        person:
+          email: akshay01@stanford.edu
+        type: person
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people:
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
+        object: user
+        person:
+          email: manukian@stanford.edu
+        type: person
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Social-Dancing-264fe184d678804a8947dab9224ea871
+- archived: false
+  cover: null
+  created_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  created_time: '2025-09-04T17:40:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 264fe184-d678-8051-9cff-fb3de74a14d7
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2025-11-19T14:37:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: gray
+        id: 4ddd3339-6bd9-4b09-b46e-798f73b0bb8f
+        name: Beginner+ Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Cyrus & Vienna
+        text:
+          content: Cyrus & Vienna
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-11-17T20:00:00.000-08:00'
+        start: '2025-11-17T19:00:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Intermediate Rotary Waltz
+        text:
+          content: Intermediate Rotary Waltz
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people:
+      - avatar_url: null
+        id: 143d872b-594c-810b-88ee-0002833d1f28
+        name: Akshay Srivatsan
+        object: user
+        person:
+          email: akshay01@stanford.edu
+        type: person
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people:
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
+        object: user
+        person:
+          email: manukian@stanford.edu
+        type: person
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Intermediate-Rotary-Waltz-264fe184d67880519cfffb3de74a14d7
+- archived: false
+  cover: null
+  created_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  created_time: '2025-09-04T17:35:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 264fe184-d678-805f-bf87-fcfa701ad05e
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 159d872b-594c-813a-829f-000223d42681
+    object: user
+  last_edited_time: '2025-09-30T00:53:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: blue
+        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
+        name: Social Dance
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Samuel & Akshay Smit
+        text:
+          content: Samuel & Akshay Smit
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-10-20T22:00:00.000-07:00'
+        start: '2025-10-20T20:00:00.000-07:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Social Dancing
+        text:
+          content: Social Dancing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people:
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocKbHLRxBeHMh9ss6CB-HrASv-SA5Nc_hTn44EkiYe7GumIHWLGw=s100
+        id: 273d872b-594c-8164-a8c1-0002fa150725
+        name: Samuel Desai
+        object: user
+        person:
+          email: sdesai05@stanford.edu
+        type: person
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people:
+      - avatar_url: null
+        id: 143d872b-594c-810b-88ee-0002833d1f28
+        name: Akshay Srivatsan
+        object: user
+        person:
+          email: akshay01@stanford.edu
+        type: person
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people:
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
+        object: user
+        person:
+          email: manukian@stanford.edu
+        type: person
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Social-Dancing-264fe184d678805fbf87fcfa701ad05e
+- archived: false
+  cover: null
+  created_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  created_time: '2025-09-04T17:35:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 264fe184-d678-8097-b4d2-e479f250066d
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2025-11-19T06:39:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: blue
+        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
+        name: Social Dance
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Suse & Steven & Celine
+        text:
+          content: Suse & Steven & Celine
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-12-01T22:00:00.000-08:00'
+        start: '2025-12-01T20:00:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Social Dancing
+        text:
+          content: Social Dancing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people:
+      - avatar_url: null
+        id: 143d872b-594c-810b-88ee-0002833d1f28
+        name: Akshay Srivatsan
+        object: user
+        person:
+          email: akshay01@stanford.edu
+        type: person
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: gray
+        id: 9a5d6a8f-ed5f-475a-91a3-777520b04e6a
+        name: EPC
+      type: select
+  public_url: null
+  url: https://www.notion.so/Social-Dancing-264fe184d6788097b4d2e479f250066d
+- archived: false
+  cover: null
+  created_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  created_time: '2025-09-04T17:35:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 264fe184-d678-809b-b6ee-eeb064dee1de
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  last_edited_time: '2025-11-17T06:08:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: blue
+        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
+        name: Social Dance
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Zev & Jasmin
+        text:
+          content: Zev & Jasmin
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-11-24T22:00:00.000-08:00'
+        start: '2025-11-24T19:00:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Social Dancing
+        text:
+          content: Social Dancing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people:
+      - avatar_url: null
+        id: 143d872b-594c-810b-88ee-0002833d1f28
+        name: Akshay Srivatsan
+        object: user
+        person:
+          email: akshay01@stanford.edu
+        type: person
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people:
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
+        object: user
+        person:
+          email: manukian@stanford.edu
+        type: person
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Social-Dancing-264fe184d678809bb6eeeeb064dee1de
+- archived: false
+  cover: null
+  created_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  created_time: '2025-09-04T17:35:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
   id: 264fe184-d678-80a1-9098-e36ba7656b57
   in_trash: false
   is_locked: false
@@ -2108,6 +1516,389 @@
       type: select
   public_url: null
   url: https://www.notion.so/Social-Dancing-264fe184d67880a19098e36ba7656b57
+- archived: false
+  cover: null
+  created_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  created_time: '2025-09-04T17:39:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 264fe184-d678-80b0-aaff-cd751925bda6
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  last_edited_time: '2025-10-25T15:26:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: green
+        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
+        name: Beginner Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Maiya & Jacqueline
+        text:
+          content: Maiya & Jacqueline
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-10-27T20:00:00.000-07:00'
+        start: '2025-10-27T19:00:00.000-07:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Lindy Hop
+        text:
+          content: Lindy Hop
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people:
+      - avatar_url: null
+        id: 114d872b-594c-8139-bb81-0002ec4c419a
+        name: Maiya Yu
+        object: user
+        person:
+          email: msh24@stanford.edu
+        type: person
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people:
+      - avatar_url: null
+        id: 143d872b-594c-810b-88ee-0002833d1f28
+        name: Akshay Srivatsan
+        object: user
+        person:
+          email: akshay01@stanford.edu
+        type: person
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people:
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
+        object: user
+        person:
+          email: manukian@stanford.edu
+        type: person
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Lindy-Hop-264fe184d67880b0aaffcd751925bda6
+- archived: false
+  cover: null
+  created_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  created_time: '2025-09-04T17:39:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 264fe184-d678-80d2-ab17-fee817e693ce
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  last_edited_time: '2025-10-31T23:24:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: green
+        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
+        name: Beginner Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Joseph & Evelyn
+        text:
+          content: Joseph & Evelyn
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-11-10T20:00:00.000-08:00'
+        start: '2025-11-10T19:00:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Rotary Waltz
+        text:
+          content: Rotary Waltz
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people:
+      - avatar_url: null
+        id: 143d872b-594c-810b-88ee-0002833d1f28
+        name: Akshay Srivatsan
+        object: user
+        person:
+          email: akshay01@stanford.edu
+        type: person
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people:
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
+        object: user
+        person:
+          email: manukian@stanford.edu
+        type: person
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Rotary-Waltz-264fe184d67880d2ab17fee817e693ce
+- archived: false
+  cover: null
+  created_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  created_time: '2025-09-04T17:22:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 264fe184-d678-80d3-a794-cf2c54ba3dde
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  last_edited_time: '2025-09-25T18:08:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: green
+        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
+        name: Beginner Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Bella & Hikari
+        text:
+          content: Bella & Hikari
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-09-29T20:30:00.000-07:00'
+        start: '2025-09-29T19:00:00.000-07:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: West Coast Swing
+        text:
+          content: West Coast Swing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people:
+      - avatar_url: https://lh3.googleusercontent.com/a/AATXAJyIDClVXLEo-FBYtpEbQ3ShCjnnoJvO1FYA1Ck3=s100
+        id: dd4f885f-7f5e-48a8-a9c5-81e2d759b354
+        name: Bella Archibald
+        object: user
+        person:
+          email: bellaa@stanford.edu
+        type: person
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people:
+      - avatar_url: null
+        id: 143d872b-594c-810b-88ee-0002833d1f28
+        name: Akshay Srivatsan
+        object: user
+        person:
+          email: akshay01@stanford.edu
+        type: person
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people:
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
+        object: user
+        person:
+          email: manukian@stanford.edu
+        type: person
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/West-Coast-Swing-264fe184d67880d3a794cf2c54ba3dde
 - archived: false
   cover: null
   created_by:
@@ -2250,18 +2041,18 @@
   created_by:
     id: 143d872b-594c-810b-88ee-0002833d1f28
     object: user
-  created_time: '2025-09-04T17:35:00.000Z'
+  created_time: '2025-09-04T17:36:00.000Z'
   icon:
     external:
       url: https://www.notion.so/icons/ticket_purple.svg
     type: external
-  id: 264fe184-d678-805f-bf87-fcfa701ad05e
+  id: 264fe184-d678-80f1-889e-ee8f919681d8
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 159d872b-594c-813a-829f-000223d42681
+    id: 273d872b-594c-8164-a8c1-0002fa150725
     object: user
-  last_edited_time: '2025-09-30T00:53:00.000Z'
+  last_edited_time: '2025-11-06T23:39:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -2270,9 +2061,9 @@
     Category:
       id: _UOD
       select:
-        color: blue
-        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
-        name: Social Dance
+        color: pink
+        id: 859dd842-6831-4972-8ac0-ffe027cdf9c6
+        name: Advanced Workshop
       type: select
     DJ/Instructor Status:
       id: im~V
@@ -2292,16 +2083,16 @@
           strikethrough: false
           underline: false
         href: null
-        plain_text: Samuel & Akshay Smit
+        plain_text: Bella & Gokul
         text:
-          content: Samuel & Akshay Smit
+          content: Bella & Gokul
           link: null
         type: text
       type: rich_text
     Event Date & Time:
       date:
-        end: '2025-10-20T22:00:00.000-07:00'
-        start: '2025-10-20T20:00:00.000-07:00'
+        end: '2025-12-08T20:00:00.000-08:00'
+        start: '2025-12-08T19:00:00.000-08:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -2316,22 +2107,15 @@
           strikethrough: false
           underline: false
         href: null
-        plain_text: Social Dancing
+        plain_text: Waltz Connection
         text:
-          content: Social Dancing
+          content: Waltz Connection
           link: null
         type: text
       type: title
     Instructor/DJ:
       id: '%3DRGW'
-      people:
-      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocKbHLRxBeHMh9ss6CB-HrASv-SA5Nc_hTn44EkiYe7GumIHWLGw=s100
-        id: 273d872b-594c-8164-a8c1-0002fa150725
-        name: Samuel Desai
-        object: user
-        person:
-          email: sdesai05@stanford.edu
-        type: person
+      people: []
       type: people
     Instructor/DJ Coordinator:
       id: U%7D%40U
@@ -2352,11 +2136,11 @@
       id: '%3CQwT'
       people:
       - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
+        id: 7f13d629-c25e-4fcc-aa6f-7628b51ef30d
+        name: Zev Granowitz
         object: user
         person:
-          email: manukian@stanford.edu
+          email: zgran@stanford.edu
         type: person
       type: people
     Room Status:
@@ -2370,141 +2154,11 @@
       id: ZW%5B_
       select:
         color: green
-        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
-        name: Roble 113
+        id: szlq
+        name: Koret Pavilion
       type: select
   public_url: null
-  url: https://www.notion.so/Social-Dancing-264fe184d678805fbf87fcfa701ad05e
-- archived: false
-  cover: null
-  created_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
-    object: user
-  created_time: '2025-09-04T17:34:00.000Z'
-  icon:
-    external:
-      url: https://www.notion.so/icons/ticket_purple.svg
-    type: external
-  id: 264fe184-d678-804a-8947-dab9224ea871
-  in_trash: false
-  is_locked: false
-  last_edited_by:
-    id: 159d872b-594c-813a-829f-000223d42681
-    object: user
-  last_edited_time: '2025-09-30T00:53:00.000Z'
-  object: page
-  parent:
-    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
-    type: database_id
-  properties:
-    Category:
-      id: _UOD
-      select:
-        color: blue
-        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
-        name: Social Dance
-      type: select
-    DJ/Instructor Status:
-      id: im~V
-      status:
-        color: green
-        id: 5384f414-3388-4144-bc59-cd85011d7ba4
-        name: Confirmed
-      type: status
-    Description:
-      id: MD%3Cr
-      rich_text:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Dakota & Chhavi
-        text:
-          content: Dakota & Chhavi
-          link: null
-        type: text
-      type: rich_text
-    Event Date & Time:
-      date:
-        end: '2025-10-13T22:00:00.000-07:00'
-        start: '2025-10-13T20:00:00.000-07:00'
-        time_zone: null
-      id: '%3C%5EBD'
-      type: date
-    Event name:
-      id: title
-      title:
-      - annotations:
-          bold: false
-          code: false
-          color: default
-          italic: false
-          strikethrough: false
-          underline: false
-        href: null
-        plain_text: Social Dancing
-        text:
-          content: Social Dancing
-          link: null
-        type: text
-      type: title
-    Instructor/DJ:
-      id: '%3DRGW'
-      people:
-      - avatar_url: null
-        id: 13bd872b-594c-81a1-84f6-00020268de07
-        name: Dakota Lawlar
-        object: user
-        person:
-          email: dblawlar@stanford.edu
-        type: person
-      type: people
-    Instructor/DJ Coordinator:
-      id: U%7D%40U
-      people:
-      - avatar_url: null
-        id: 143d872b-594c-810b-88ee-0002833d1f28
-        name: Akshay Srivatsan
-        object: user
-        person:
-          email: akshay01@stanford.edu
-        type: person
-      type: people
-    Private Notes:
-      id: f%3BIe
-      rich_text: []
-      type: rich_text
-    Room Coordinator:
-      id: '%3CQwT'
-      people:
-      - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
-        object: user
-        person:
-          email: manukian@stanford.edu
-        type: person
-      type: people
-    Room Status:
-      id: kLek
-      status:
-        color: green
-        id: 5384f414-3388-4144-bc59-cd85011d7ba4
-        name: Done
-      type: status
-    Venue:
-      id: ZW%5B_
-      select:
-        color: green
-        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
-        name: Roble 113
-      type: select
-  public_url: null
-  url: https://www.notion.so/Social-Dancing-264fe184d678804a8947dab9224ea871
+  url: https://www.notion.so/Waltz-Connection-264fe184d67880f1889eee8f919681d8
 - archived: false
   cover: null
   created_by:
@@ -2647,18 +2301,18 @@
   created_by:
     id: 143d872b-594c-810b-88ee-0002833d1f28
     object: user
-  created_time: '2025-09-04T17:31:00.000Z'
+  created_time: '2025-09-04T17:38:00.000Z'
   icon:
     external:
       url: https://www.notion.so/icons/ticket_purple.svg
     type: external
-  id: 264fe184-d678-800a-8418-e487855da970
+  id: 264fe184-d678-80f7-bdab-f28ca8347e7b
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 273d872b-594c-8164-a8c1-0002fa150725
     object: user
-  last_edited_time: '2025-10-03T18:00:00.000Z'
+  last_edited_time: '2025-10-31T05:06:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -2689,16 +2343,16 @@
           strikethrough: false
           underline: false
         href: null
-        plain_text: Gokul & TBD
+        plain_text: Cam & Rocky
         text:
-          content: Gokul & TBD
+          content: Cam & Rocky
           link: null
         type: text
       type: rich_text
     Event Date & Time:
       date:
-        end: '2025-10-06T20:00:00.000-07:00'
-        start: '2025-10-06T19:00:00.000-07:00'
+        end: '2025-11-03T20:00:00.000-08:00'
+        start: '2025-11-03T19:00:00.000-08:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -2713,9 +2367,252 @@
           strikethrough: false
           underline: false
         href: null
-        plain_text: Cross-Step Waltz
+        plain_text: Fusion
         text:
-          content: Cross-Step Waltz
+          content: Fusion
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people:
+      - avatar_url: null
+        id: 143d872b-594c-810b-88ee-0002833d1f28
+        name: Akshay Srivatsan
+        object: user
+        person:
+          email: akshay01@stanford.edu
+        type: person
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: What if we did a fusion class or musicality class or something
+          else funky/ that would appeal to people who already know the basic steps
+          of waltz
+        text:
+          content: What if we did a fusion class or musicality class or something
+            else funky/ that would appeal to people who already know the basic steps
+            of waltz
+          link: null
+        type: text
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people:
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
+        object: user
+        person:
+          email: manukian@stanford.edu
+        type: person
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Fusion-264fe184d67880f7bdabf28ca8347e7b
+- archived: false
+  cover: null
+  created_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  created_time: '2025-09-04T17:40:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 264fe184-d678-80fe-9b40-d0e8aaa732b6
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2025-11-18T16:14:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: orange
+        id: 98e83947-d756-4335-99d7-e810c6889f54
+        name: Intermediate Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Akshay Smit & Aili
+        text:
+          content: Akshay Smit & Aili
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-12-01T20:00:00.000-08:00'
+        start: '2025-12-01T19:00:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Rotary Waltz
+        text:
+          content: Rotary Waltz
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people:
+      - avatar_url: null
+        id: 143d872b-594c-810b-88ee-0002833d1f28
+        name: Akshay Srivatsan
+        object: user
+        person:
+          email: akshay01@stanford.edu
+        type: person
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: gray
+        id: 9a5d6a8f-ed5f-475a-91a3-777520b04e6a
+        name: EPC
+      type: select
+  public_url: null
+  url: https://www.notion.so/Rotary-Waltz-264fe184d67880fe9b40d0e8aaa732b6
+- archived: false
+  cover: null
+  created_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  created_time: '2025-09-05T02:02:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 265fe184-d678-8010-8065-f2eebd849f56
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 159d872b-594c-813a-829f-000223d42681
+    object: user
+  last_edited_time: '2025-09-28T06:32:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: green
+        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
+        name: Beginner Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text: []
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-09-22T20:00:00.000-07:00'
+        start: '2025-09-22T19:00:00.000-07:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Cross Step Waltz
+        text:
+          content: Cross Step Waltz
           link: null
         type: text
       type: title
@@ -2771,24 +2668,24 @@
         name: Roble 113
       type: select
   public_url: null
-  url: https://www.notion.so/Cross-Step-Waltz-264fe184d678800a8418e487855da970
+  url: https://www.notion.so/Cross-Step-Waltz-265fe184d67880108065f2eebd849f56
 - archived: false
   cover: null
   created_by:
     id: 143d872b-594c-810b-88ee-0002833d1f28
     object: user
-  created_time: '2025-09-04T17:30:00.000Z'
+  created_time: '2025-09-05T02:02:00.000Z'
   icon:
     external:
       url: https://www.notion.so/icons/ticket_purple.svg
     type: external
-  id: 264fe184-d678-8039-add2-e00f2b287231
+  id: 265fe184-d678-80e0-a7c1-fb03b55572bd
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 16ad872b-594c-81ce-a2dc-0002d7044026
     object: user
-  last_edited_time: '2025-09-25T18:09:00.000Z'
+  last_edited_time: '2025-09-29T00:40:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -2819,16 +2716,16 @@
           strikethrough: false
           underline: false
         href: null
-        plain_text: Bella & Hikari
+        plain_text: Briana
         text:
-          content: Bella & Hikari
+          content: Briana
           link: null
         type: text
       type: rich_text
     Event Date & Time:
       date:
-        end: '2025-09-29T22:00:00.000-07:00'
-        start: '2025-09-29T20:30:00.000-07:00'
+        end: '2025-09-22T22:00:00.000-07:00'
+        start: '2025-09-22T20:00:00.000-07:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -2851,13 +2748,136 @@
       type: title
     Instructor/DJ:
       id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
       people:
-      - avatar_url: https://lh3.googleusercontent.com/a/AATXAJyIDClVXLEo-FBYtpEbQ3ShCjnnoJvO1FYA1Ck3=s100
-        id: dd4f885f-7f5e-48a8-a9c5-81e2d759b354
-        name: Bella Archibald
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
         object: user
         person:
-          email: bellaa@stanford.edu
+          email: manukian@stanford.edu
+        type: person
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people:
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
+        object: user
+        person:
+          email: manukian@stanford.edu
+        type: person
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Social-Dancing-265fe184d67880e0a7c1fb03b55572bd
+- archived: false
+  cover: null
+  created_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  created_time: '2025-09-08T21:17:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 268fe184-d678-809b-b770-c33455bf3c73
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 143d872b-594c-810b-88ee-0002833d1f28
+    object: user
+  last_edited_time: '2025-10-02T04:28:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: orange
+        id: 98e83947-d756-4335-99d7-e810c6889f54
+        name: Intermediate Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Akshay Srivatsan
+        text:
+          content: Akshay Srivatsan
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-10-06T20:00:00.000-07:00'
+        start: '2025-10-06T19:00:00.000-07:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: DJing at Dancebreak Workshop
+        text:
+          content: DJing at Dancebreak Workshop
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people:
+      - avatar_url: null
+        id: 143d872b-594c-810b-88ee-0002833d1f28
+        name: Akshay Srivatsan
+        object: user
+        person:
+          email: akshay01@stanford.edu
         type: person
       type: people
     Instructor/DJ Coordinator:
@@ -2896,29 +2916,283 @@
     Venue:
       id: ZW%5B_
       select:
-        color: green
-        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
-        name: Roble 113
+        color: brown
+        id: 15f7ed21-99dd-45b6-b976-9246c870b417
+        name: Roble 137
       type: select
   public_url: null
-  url: https://www.notion.so/Social-Dancing-264fe184d6788039add2e00f2b287231
+  url: https://www.notion.so/DJing-at-Dancebreak-Workshop-268fe184d678809bb770c33455bf3c73
 - archived: false
   cover: null
   created_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 159d872b-594c-813a-829f-000223d42681
     object: user
-  created_time: '2025-09-04T17:22:00.000Z'
+  created_time: '2025-09-14T23:42:00.000Z'
   icon:
     external:
       url: https://www.notion.so/icons/ticket_purple.svg
     type: external
-  id: 264fe184-d678-80d3-a794-cf2c54ba3dde
+  id: 26efe184-d678-8083-90be-eba17016fedf
   in_trash: false
   is_locked: false
   last_edited_by:
-    id: 143d872b-594c-810b-88ee-0002833d1f28
+    id: 159d872b-594c-813a-829f-000223d42681
     object: user
-  last_edited_time: '2025-09-25T18:08:00.000Z'
+  last_edited_time: '2025-10-11T05:22:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: yellow
+        id: 8bf7b9dc-e3e4-4fa2-b650-f40334f34050
+        name: Admin Meeting
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text: []
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-09-22T19:00:00.000-07:00'
+        start: '2025-09-22T18:00:00.000-07:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Admin Meeting
+        text:
+          content: Admin Meeting
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people:
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
+        object: user
+        person:
+          email: manukian@stanford.edu
+        type: person
+      - avatar_url: null
+        id: 143d872b-594c-810b-88ee-0002833d1f28
+        name: Akshay Srivatsan
+        object: user
+        person:
+          email: akshay01@stanford.edu
+        type: person
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people:
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
+        object: user
+        person:
+          email: manukian@stanford.edu
+        type: person
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people:
+      - avatar_url: null
+        id: 159d872b-594c-813a-829f-000223d42681
+        name: Sophia
+        object: user
+        person:
+          email: manukian@stanford.edu
+        type: person
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: brown
+        id: 2cceb71e-5ac3-4c14-8ac6-3e35417a1e63
+        name: Roble Lounge
+      type: select
+  public_url: null
+  url: https://www.notion.so/Admin-Meeting-26efe184d678808390beeba17016fedf
+- archived: false
+  cover: null
+  created_by:
+    id: 159d872b-594c-813a-829f-000223d42681
+    object: user
+  created_time: '2025-10-16T05:27:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 28efe184-d678-8007-ae91-fb516e78ee96
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2025-12-06T04:34:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: blue
+        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
+        name: Social Dance
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Ethan & Akshay Srivatsan
+        text:
+          content: Ethan & Akshay Srivatsan
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-12-08T22:00:00.000-08:00'
+        start: '2025-12-08T20:00:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Social Dancing
+        text:
+          content: Social Dancing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people:
+      - avatar_url: null
+        id: 143d872b-594c-810b-88ee-0002833d1f28
+        name: Akshay Srivatsan
+        object: user
+        person:
+          email: akshay01@stanford.edu
+        type: person
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people:
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocIvpyd-zz1f-zzlYaxBbf-vGsRkltB0OIztHgRJaQAXOygAsQ=s100
+        id: 286d872b-594c-8127-ac79-0002bb9eb26c
+        name: Evelyn Yee
+        object: user
+        person:
+          email: yeevelyn@stanford.edu
+        type: person
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people:
+      - avatar_url: null
+        id: 7f13d629-c25e-4fcc-aa6f-7628b51ef30d
+        name: Zev Granowitz
+        object: user
+        person:
+          email: zgran@stanford.edu
+        type: person
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: szlq
+        name: Koret Pavilion
+      type: select
+  public_url: null
+  url: https://www.notion.so/Social-Dancing-28efe184d6788007ae91fb516e78ee96
+- archived: false
+  cover: null
+  created_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  created_time: '2025-10-31T23:22:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 29dfe184-d678-803e-9d39-f68640f3d958
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2025-11-13T04:57:00.000Z'
   object: page
   parent:
     database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
@@ -2949,16 +3223,16 @@
           strikethrough: false
           underline: false
         href: null
-        plain_text: Bella & Hikari
+        plain_text: Evelyn & Samuel
         text:
-          content: Bella & Hikari
+          content: Evelyn & Samuel
           link: null
         type: text
       type: rich_text
     Event Date & Time:
       date:
-        end: '2025-09-29T20:30:00.000-07:00'
-        start: '2025-09-29T19:00:00.000-07:00'
+        end: '2025-11-17T20:00:00.000-08:00'
+        start: '2025-11-17T19:00:00.000-08:00'
         time_zone: null
       id: '%3C%5EBD'
       type: date
@@ -2973,25 +3247,355 @@
           strikethrough: false
           underline: false
         href: null
-        plain_text: West Coast Swing
+        plain_text: Drop-In Beginner Rotary Waltz
         text:
-          content: West Coast Swing
+          content: Drop-In Beginner Rotary Waltz
           link: null
         type: text
       type: title
     Instructor/DJ:
       id: '%3DRGW'
       people:
-      - avatar_url: https://lh3.googleusercontent.com/a/AATXAJyIDClVXLEo-FBYtpEbQ3ShCjnnoJvO1FYA1Ck3=s100
-        id: dd4f885f-7f5e-48a8-a9c5-81e2d759b354
-        name: Bella Archibald
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocKbHLRxBeHMh9ss6CB-HrASv-SA5Nc_hTn44EkiYe7GumIHWLGw=s100
+        id: 273d872b-594c-8164-a8c1-0002fa150725
+        name: Samuel Desai
         object: user
         person:
-          email: bellaa@stanford.edu
+          email: sdesai05@stanford.edu
+        type: person
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocIvpyd-zz1f-zzlYaxBbf-vGsRkltB0OIztHgRJaQAXOygAsQ=s100
+        id: 286d872b-594c-8127-ac79-0002bb9eb26c
+        name: Evelyn Yee
+        object: user
+        person:
+          email: yeevelyn@stanford.edu
         type: person
       type: people
     Instructor/DJ Coordinator:
       id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: purple
+        id: af537962-6bf4-4ed4-9853-9ff300b05644
+        name: Roble 116 (RAG)
+      type: select
+  public_url: null
+  url: https://www.notion.so/Drop-In-Beginner-Rotary-Waltz-29dfe184d678803e9d39f68640f3d958
+- archived: false
+  cover: null
+  created_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  created_time: '2025-11-10T04:15:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2a7fe184-d678-80bf-b94e-e1449832e27a
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2025-11-19T14:35:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: purple
+        id: cf910618-b1ae-4501-aa6d-4ae3d4bd9198
+        name: Community Event
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: red
+        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
+        name: Open
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Supported by Twos
+        text:
+          content: Supported by Twos
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-12-01T22:00:00.000-08:00'
+        start: '2025-12-01T20:00:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: End of Quarter Boba Party!
+        text:
+          content: End of Quarter Boba Party!
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: gray
+        id: 9a5d6a8f-ed5f-475a-91a3-777520b04e6a
+        name: EPC
+      type: select
+  public_url: null
+  url: https://www.notion.so/End-of-Quarter-Boba-Party-2a7fe184d67880bfb94ee1449832e27a
+- archived: false
+  cover: null
+  created_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  created_time: '2025-11-19T05:48:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2b0fe184-d678-80ae-a5b4-e88eaa7644b8
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2025-11-19T06:31:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: green
+        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
+        name: Beginner Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Akshay Srivatsan & Austria (Vienna)
+        text:
+          content: Akshay Srivatsan & Austria (Vienna)
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2025-12-01T20:00:00.000-08:00'
+        start: '2025-12-01T19:00:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Drop-In Beginner Cross-Step Waltz
+        text:
+          content: Drop-In Beginner Cross-Step Waltz
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: gray
+        id: 9a5d6a8f-ed5f-475a-91a3-777520b04e6a
+        name: EPC
+      type: select
+  public_url: null
+  url: https://www.notion.so/Drop-In-Beginner-Cross-Step-Waltz-2b0fe184d67880aea5b4e88eaa7644b8
+- archived: false
+  cover: null
+  created_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  created_time: '2025-12-19T01:53:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2cefe184-d678-8004-b95b-ec0e0b977122
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-02T01:10:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: green
+        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
+        name: Beginner Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Akshay Srivatsan & Bella
+        text:
+          content: Akshay Srivatsan & Bella
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-01-05T21:30:00.000-08:00'
+        start: '2026-01-05T20:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Cross-Step Waltz
+        text:
+          content: Cross-Step Waltz
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
       people:
       - avatar_url: null
         id: 143d872b-594c-810b-88ee-0002833d1f28
@@ -3001,19 +3605,644 @@
           email: akshay01@stanford.edu
         type: person
       type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people:
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocKbHLRxBeHMh9ss6CB-HrASv-SA5Nc_hTn44EkiYe7GumIHWLGw=s100
+        id: 273d872b-594c-8164-a8c1-0002fa150725
+        name: Samuel Desai
+        object: user
+        person:
+          email: sdesai05@stanford.edu
+        type: person
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocIvpyd-zz1f-zzlYaxBbf-vGsRkltB0OIztHgRJaQAXOygAsQ=s100
+        id: 286d872b-594c-8127-ac79-0002bb9eb26c
+        name: Evelyn Yee
+        object: user
+        person:
+          email: yeevelyn@stanford.edu
+        type: person
+      type: people
     Private Notes:
       id: f%3BIe
       rich_text: []
       type: rich_text
     Room Coordinator:
       id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Cross-Step-Waltz-2cefe184d6788004b95bec0e0b977122
+- archived: false
+  cover: null
+  created_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  created_time: '2025-12-19T01:58:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2cefe184-d678-803d-bfed-e0049bc20914
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2025-12-28T00:59:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: blue
+        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
+        name: Social Dance
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Maiya & Eleanor Quirk
+        text:
+          content: Maiya & Eleanor Quirk
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-01-12T23:30:00.000-08:00'
+        start: '2026-01-12T21:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Social Dancing
+        text:
+          content: Social Dancing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
       people:
       - avatar_url: null
-        id: 159d872b-594c-813a-829f-000223d42681
-        name: Sophia
+        id: 114d872b-594c-8139-bb81-0002ec4c419a
+        name: Maiya Yu
         object: user
         person:
-          email: manukian@stanford.edu
+          email: msh24@stanford.edu
+        type: person
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Social-Dancing-2cefe184d678803dbfede0049bc20914
+- archived: false
+  cover: null
+  created_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  created_time: '2025-12-19T02:03:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2cefe184-d678-806c-99e7-cc86ce1f8511
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-11T22:09:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: orange
+        id: 98e83947-d756-4335-99d7-e810c6889f54
+        name: Intermediate Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Terrell
+        text:
+          content: Terrell
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-01-12T21:30:00.000-08:00'
+        start: '2026-01-12T20:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: The Art, Science, & Engineering of Partner Dance DJing
+        text:
+          content: The Art, Science, & Engineering of Partner Dance DJing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people:
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocIvpyd-zz1f-zzlYaxBbf-vGsRkltB0OIztHgRJaQAXOygAsQ=s100
+        id: 286d872b-594c-8127-ac79-0002bb9eb26c
+        name: Evelyn Yee
+        object: user
+        person:
+          email: yeevelyn@stanford.edu
+        type: person
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocKbHLRxBeHMh9ss6CB-HrASv-SA5Nc_hTn44EkiYe7GumIHWLGw=s100
+        id: 273d872b-594c-8164-a8c1-0002fa150725
+        name: Samuel Desai
+        object: user
+        person:
+          email: sdesai05@stanford.edu
+        type: person
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: pink
+        id: 8fd49ae0-5a22-4d0b-9cc6-791b85ccd673
+        name: Roble 139
+      type: select
+  public_url: null
+  url: https://www.notion.so/The-Art-Science-Engineering-of-Partner-Dance-DJing-2cefe184d678806c99e7cc86ce1f8511
+- archived: false
+  cover: null
+  created_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  created_time: '2025-12-19T02:00:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2cefe184-d678-809d-9095-cebfbefc53ac
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-08T23:18:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: green
+        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
+        name: Beginner Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Brando & Lorena
+        text:
+          content: Brando & Lorena
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-01-12T21:30:00.000-08:00'
+        start: '2026-01-12T20:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Bachata
+        text:
+          content: Bachata
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Bachata-2cefe184d678809d9095cebfbefc53ac
+- archived: false
+  cover: null
+  created_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  created_time: '2025-12-19T01:54:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2cefe184-d678-80b9-883e-d1851ba55706
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-01T22:34:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: blue
+        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
+        name: Social Dance
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Crowd-sourced set
+        text:
+          content: Crowd-sourced set
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-01-05T23:30:00.000-08:00'
+        start: '2026-01-05T21:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Social Dancing
+        text:
+          content: Social Dancing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people:
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocKbHLRxBeHMh9ss6CB-HrASv-SA5Nc_hTn44EkiYe7GumIHWLGw=s100
+        id: 273d872b-594c-8164-a8c1-0002fa150725
+        name: Samuel Desai
+        object: user
+        person:
+          email: sdesai05@stanford.edu
+        type: person
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocIvpyd-zz1f-zzlYaxBbf-vGsRkltB0OIztHgRJaQAXOygAsQ=s100
+        id: 286d872b-594c-8127-ac79-0002bb9eb26c
+        name: Evelyn Yee
+        object: user
+        person:
+          email: yeevelyn@stanford.edu
+        type: person
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people:
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocKbHLRxBeHMh9ss6CB-HrASv-SA5Nc_hTn44EkiYe7GumIHWLGw=s100
+        id: 273d872b-594c-8164-a8c1-0002fa150725
+        name: Samuel Desai
+        object: user
+        person:
+          email: sdesai05@stanford.edu
+        type: person
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocIvpyd-zz1f-zzlYaxBbf-vGsRkltB0OIztHgRJaQAXOygAsQ=s100
+        id: 286d872b-594c-8127-ac79-0002bb9eb26c
+        name: Evelyn Yee
+        object: user
+        person:
+          email: yeevelyn@stanford.edu
+        type: person
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Social-Dancing-2cefe184d67880b9883ed1851ba55706
+- archived: false
+  cover: null
+  created_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  created_time: '2025-12-19T02:43:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2cefe184-d678-80d1-9281-fc8dc93ef363
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-08T20:07:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: blue
+        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
+        name: Social Dance
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Terrell
+        text:
+          content: Terrell
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-01-19T23:30:00.000-08:00'
+        start: '2026-01-19T21:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Social Dancing
+        text:
+          content: Social Dancing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Terrell
+        text:
+          content: Terrell
+          link: null
+        type: text
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people:
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocKbHLRxBeHMh9ss6CB-HrASv-SA5Nc_hTn44EkiYe7GumIHWLGw=s100
+        id: 273d872b-594c-8164-a8c1-0002fa150725
+        name: Samuel Desai
+        object: user
+        person:
+          email: sdesai05@stanford.edu
         type: person
       type: people
     Room Status:
@@ -3031,4 +4260,2040 @@
         name: Roble 113
       type: select
   public_url: null
-  url: https://www.notion.so/West-Coast-Swing-264fe184d67880d3a794cf2c54ba3dde
+  url: https://www.notion.so/Social-Dancing-2cefe184d67880d19281fc8dc93ef363
+- archived: false
+  cover: null
+  created_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  created_time: '2025-12-19T02:01:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2cefe184-d678-80d9-8042-fcfe968ec885
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  last_edited_time: '2025-12-19T02:41:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: red
+        id: c0984178-debb-4e4b-a2a5-1e3a62037956
+        name: All Levels
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Admin Office Hours
+        text:
+          content: Admin Office Hours
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-01-05T21:30:00.000-08:00'
+        start: '2026-01-05T20:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: DJ/Instructor Guidelines Review
+        text:
+          content: DJ/Instructor Guidelines Review
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people:
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocIvpyd-zz1f-zzlYaxBbf-vGsRkltB0OIztHgRJaQAXOygAsQ=s100
+        id: 286d872b-594c-8127-ac79-0002bb9eb26c
+        name: Evelyn Yee
+        object: user
+        person:
+          email: yeevelyn@stanford.edu
+        type: person
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocKbHLRxBeHMh9ss6CB-HrASv-SA5Nc_hTn44EkiYe7GumIHWLGw=s100
+        id: 273d872b-594c-8164-a8c1-0002fa150725
+        name: Samuel Desai
+        object: user
+        person:
+          email: sdesai05@stanford.edu
+        type: person
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: pink
+        id: 8fd49ae0-5a22-4d0b-9cc6-791b85ccd673
+        name: Roble 139
+      type: select
+  public_url: null
+  url: https://www.notion.so/DJ-Instructor-Guidelines-Review-2cefe184d67880d98042fcfe968ec885
+- archived: false
+  cover: null
+  created_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  created_time: '2025-12-19T02:43:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2cefe184-d678-80da-a4c3-ee8b53f58eeb
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-08T20:07:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: green
+        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
+        name: Beginner Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Akshay Smit & Meera
+        text:
+          content: Akshay Smit & Meera
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-01-19T21:30:00.000-08:00'
+        start: '2026-01-19T20:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Rotary Waltz
+        text:
+          content: Rotary Waltz
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people:
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocKbHLRxBeHMh9ss6CB-HrASv-SA5Nc_hTn44EkiYe7GumIHWLGw=s100
+        id: 273d872b-594c-8164-a8c1-0002fa150725
+        name: Samuel Desai
+        object: user
+        person:
+          email: sdesai05@stanford.edu
+        type: person
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Rotary-Waltz-2cefe184d67880daa4c3ee8b53f58eeb
+- archived: false
+  cover: null
+  created_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  created_time: '2025-12-19T02:41:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2cefe184-d678-80e2-805f-c60734c1090d
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-07T19:31:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: orange
+        id: 98e83947-d756-4335-99d7-e810c6889f54
+        name: Intermediate Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Akshay Srivatsan & Maiya
+        text:
+          content: Akshay Srivatsan & Maiya
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-01-19T21:30:00.000-08:00'
+        start: '2026-01-19T20:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: How to Teach Dance
+        text:
+          content: How to Teach Dance
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people:
+      - avatar_url: null
+        id: 143d872b-594c-810b-88ee-0002833d1f28
+        name: Akshay Srivatsan
+        object: user
+        person:
+          email: akshay01@stanford.edu
+        type: person
+      - avatar_url: null
+        id: 114d872b-594c-8139-bb81-0002ec4c419a
+        name: Maiya Yu
+        object: user
+        person:
+          email: msh24@stanford.edu
+        type: person
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people:
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocKbHLRxBeHMh9ss6CB-HrASv-SA5Nc_hTn44EkiYe7GumIHWLGw=s100
+        id: 273d872b-594c-8164-a8c1-0002fa150725
+        name: Samuel Desai
+        object: user
+        person:
+          email: sdesai05@stanford.edu
+        type: person
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: gray
+        id: 9a5d6a8f-ed5f-475a-91a3-777520b04e6a
+        name: EPC
+      type: select
+  public_url: null
+  url: https://www.notion.so/How-to-Teach-Dance-2cefe184d67880e2805fc60734c1090d
+- archived: false
+  cover: null
+  created_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  created_time: '2026-01-01T22:49:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2dbfe184-d678-8010-be40-f8d33b68bd18
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-08T20:07:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: blue
+        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
+        name: Social Dance
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Eddy and Jasmin
+        text:
+          content: Eddy and Jasmin
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-03-02T22:30:00.000-08:00'
+        start: '2026-03-02T20:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Social Dancing
+        text:
+          content: Social Dancing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Social-Dancing-2dbfe184d6788010be40f8d33b68bd18
+- archived: false
+  cover: null
+  created_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  created_time: '2026-01-01T22:36:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2dbfe184-d678-8013-8de9-d20eb72783f6
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-14T22:51:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: gray
+        id: 4ddd3339-6bd9-4b09-b46e-798f73b0bb8f
+        name: Beginner+ Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Emma & Eleanor
+        text:
+          content: Emma & Eleanor
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-01-26T21:30:00.000-08:00'
+        start: '2026-01-26T20:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Beginner+ Rotary Waltz
+        text:
+          content: Beginner+ Rotary Waltz
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Beginner-Rotary-Waltz-2dbfe184d67880138de9d20eb72783f6
+- archived: false
+  cover: null
+  created_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  created_time: '2026-01-01T22:39:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2dbfe184-d678-801d-9d8c-c96af0a57e23
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-15T15:42:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: blue
+        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
+        name: Social Dance
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Evelyn & Akshay Srivatsan
+        text:
+          content: Evelyn & Akshay Srivatsan
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-01-26T23:30:00.000-08:00'
+        start: '2026-01-26T21:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Social Dancing
+        text:
+          content: Social Dancing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Evelyn & Sophia?
+        text:
+          content: Evelyn & Sophia?
+          link: null
+        type: text
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Social-Dancing-2dbfe184d678801d9d8cc96af0a57e23
+- archived: false
+  cover: null
+  created_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  created_time: '2026-01-01T22:40:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2dbfe184-d678-803e-a793-dd69d3f82b78
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-11T18:06:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: blue
+        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
+        name: Social Dance
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: 'Wally & Dakota & Maya Bridgeman
+
+          '
+        text:
+          content: 'Wally & Dakota & Maya Bridgeman
+
+            '
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-02-02T23:30:00.000-08:00'
+        start: '2026-02-02T21:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Social Dancing
+        text:
+          content: Social Dancing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Social-Dancing-2dbfe184d678803ea793dd69d3f82b78
+- archived: false
+  cover: null
+  created_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  created_time: '2026-01-01T22:39:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2dbfe184-d678-8076-9f91-f4844c8be18c
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-14T22:51:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: green
+        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
+        name: Beginner Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Wally & Dakota
+        text:
+          content: Wally & Dakota
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-02-02T21:30:00.000-08:00'
+        start: '2026-02-02T20:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Lindy Hop
+        text:
+          content: Lindy Hop
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Wally & Dakota?
+        text:
+          content: Wally & Dakota?
+          link: null
+        type: text
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Lindy-Hop-2dbfe184d67880769f91f4844c8be18c
+- archived: false
+  cover: null
+  created_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  created_time: '2026-01-01T22:45:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2dbfe184-d678-808f-aff5-e720efe9cb16
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-14T22:51:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: brown
+        id: 35330067-2a2c-4b69-a87f-3012b36adddd
+        name: Cancelled
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: gray
+        id: ^AI|
+        name: Cancelled
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: No Dancebreak
+        text:
+          content: No Dancebreak
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: null
+        start: '2026-02-16'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Cancelled - Austria Fortnight
+        text:
+          content: Cancelled - Austria Fortnight
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: gray
+        id: '{raP'
+        name: Cancelled
+      type: status
+    Venue:
+      id: ZW%5B_
+      select: null
+      type: select
+  public_url: null
+  url: https://www.notion.so/Cancelled-Austria-Fortnight-2dbfe184d678808faff5e720efe9cb16
+- archived: false
+  cover: null
+  created_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  created_time: '2026-01-01T22:46:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2dbfe184-d678-8095-b9aa-ec5e67fe244d
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-01T22:49:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: green
+        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
+        name: Beginner Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Eddy and Jasmin
+        text:
+          content: Eddy and Jasmin
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-03-02T20:30:00.000-08:00'
+        start: '2026-03-02T19:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Night Club Two Step
+        text:
+          content: Night Club Two Step
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: blue
+        id: 1db1bbbe-24e0-45d0-a5c1-0376733f9686
+        name: Roble 115
+      type: select
+  public_url: null
+  url: https://www.notion.so/Night-Club-Two-Step-2dbfe184d6788095b9aaec5e67fe244d
+- archived: false
+  cover: null
+  created_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  created_time: '2026-01-01T22:45:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2dbfe184-d678-809c-8232-f3cd1b9798fb
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-14T22:51:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: brown
+        id: 35330067-2a2c-4b69-a87f-3012b36adddd
+        name: Cancelled
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: gray
+        id: ^AI|
+        name: Cancelled
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: No Dancebreak
+        text:
+          content: No Dancebreak
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: null
+        start: '2026-02-23'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Cancelled - Austria Fortnight
+        text:
+          content: Cancelled - Austria Fortnight
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: gray
+        id: '{raP'
+        name: Cancelled
+      type: status
+    Venue:
+      id: ZW%5B_
+      select: null
+      type: select
+  public_url: null
+  url: https://www.notion.so/Cancelled-Austria-Fortnight-2dbfe184d678809c8232f3cd1b9798fb
+- archived: false
+  cover: null
+  created_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  created_time: '2026-01-01T22:35:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2dbfe184-d678-80db-afb9-ff3e4347fd1c
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  last_edited_time: '2026-01-06T21:41:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: green
+        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
+        name: Beginner Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Phil & Evelyn
+        text:
+          content: Phil & Evelyn
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-01-26T21:30:00.000-08:00'
+        start: '2026-01-26T20:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Beginner Drop In Rotary Waltz
+        text:
+          content: Beginner Drop In Rotary Waltz
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people:
+      - avatar_url: https://lh3.googleusercontent.com/a/ACg8ocIvpyd-zz1f-zzlYaxBbf-vGsRkltB0OIztHgRJaQAXOygAsQ=s100
+        id: 286d872b-594c-8127-ac79-0002bb9eb26c
+        name: Evelyn Yee
+        object: user
+        person:
+          email: yeevelyn@stanford.edu
+        type: person
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: purple
+        id: af537962-6bf4-4ed4-9853-9ff300b05644
+        name: Roble 116 (RAG)
+      type: select
+  public_url: null
+  url: https://www.notion.so/Beginner-Drop-In-Rotary-Waltz-2dbfe184d67880dbafb9ff3e4347fd1c
+- archived: false
+  cover: null
+  created_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  created_time: '2026-01-01T22:44:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2dbfe184-d678-80e1-97ef-e6aacdc7448c
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-02-01T02:46:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: blue
+        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
+        name: Social Dance
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Samuel & Zev
+        text:
+          content: Samuel & Zev
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-02-09T23:30:00.000-08:00'
+        start: '2026-02-09T21:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Social Dancing
+        text:
+          content: Social Dancing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Samuel & TBD (Harshad?)
+        text:
+          content: Samuel & TBD (Harshad?)
+          link: null
+        type: text
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Social-Dancing-2dbfe184d67880e197efe6aacdc7448c
+- archived: false
+  cover: null
+  created_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  created_time: '2026-01-01T22:43:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2dbfe184-d678-80e6-b2fc-ce8dc89e0c33
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  last_edited_time: '2026-01-06T21:47:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: red
+        id: c0984178-debb-4e4b-a2a5-1e3a62037956
+        name: All Levels
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Cameron & Rocky
+        text:
+          content: Cameron & Rocky
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: '2026-02-09T21:30:00.000-08:00'
+        start: '2026-02-09T20:30:00.000-08:00'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Fusion
+        text:
+          content: Fusion
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Done
+      type: status
+    Venue:
+      id: ZW%5B_
+      select:
+        color: green
+        id: 7fd4aaf4-b944-4c7d-aa53-25c1ba0fdf81
+        name: Roble 113
+      type: select
+  public_url: null
+  url: https://www.notion.so/Fusion-2dbfe184d67880e6b2fcce8dc89e0c33
+- archived: false
+  cover: null
+  created_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  created_time: '2026-01-06T21:43:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2e0fe184-d678-8022-b2d0-c8c5ad8b3e3f
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  last_edited_time: '2026-01-06T21:43:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: blue
+        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
+        name: Social Dance
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: red
+        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
+        name: Open
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: TBD
+        text:
+          content: TBD
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: null
+        start: '2026-03-09'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Social Dancing
+        text:
+          content: Social Dancing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: red
+        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
+        name: Needed
+      type: status
+    Venue:
+      id: ZW%5B_
+      select: null
+      type: select
+  public_url: null
+  url: https://www.notion.so/Social-Dancing-2e0fe184d6788022b2d0c8c5ad8b3e3f
+- archived: false
+  cover: null
+  created_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  created_time: '2026-01-06T21:41:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2e0fe184-d678-8064-ac8b-db398e8e3667
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-27T21:44:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: green
+        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
+        name: Beginner Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Maiya & Samuel
+        text:
+          content: Maiya & Samuel
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: null
+        start: '2026-03-09'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Cross-Step Waltz
+        text:
+          content: Cross-Step Waltz
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: red
+        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
+        name: Needed
+      type: status
+    Venue:
+      id: ZW%5B_
+      select: null
+      type: select
+  public_url: null
+  url: https://www.notion.so/Cross-Step-Waltz-2e0fe184d6788064ac8bdb398e8e3667
+- archived: false
+  cover: null
+  created_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  created_time: '2026-01-06T21:42:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2e0fe184-d678-8087-adf0-fb48207683c5
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-08T20:07:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: green
+        id: 5b51e128-572a-4af3-8afc-8015a3a622a5
+        name: Beginner Workshop
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Bandana Bob
+        text:
+          content: Bandana Bob
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: null
+        start: '2026-03-16'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Irish Ceili
+        text:
+          content: Irish Ceili
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: red
+        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
+        name: Needed
+      type: status
+    Venue:
+      id: ZW%5B_
+      select: null
+      type: select
+  public_url: null
+  url: https://www.notion.so/Irish-Ceili-2e0fe184d6788087adf0fb48207683c5
+- archived: false
+  cover: null
+  created_by:
+    id: 286d872b-594c-8127-ac79-0002bb9eb26c
+    object: user
+  created_time: '2026-01-06T21:44:00.000Z'
+  icon:
+    external:
+      url: https://www.notion.so/icons/ticket_purple.svg
+    type: external
+  id: 2e0fe184-d678-80d1-b058-d291127305eb
+  in_trash: false
+  is_locked: false
+  last_edited_by:
+    id: 273d872b-594c-8164-a8c1-0002fa150725
+    object: user
+  last_edited_time: '2026-01-08T20:07:00.000Z'
+  object: page
+  parent:
+    database_id: 264fe184-d678-8074-a210-c7cdfea69ed4
+    type: database_id
+  properties:
+    Category:
+      id: _UOD
+      select:
+        color: blue
+        id: ffd0721e-4ca1-4473-a706-d7250f9270d0
+        name: Social Dance
+      type: select
+    DJ/Instructor Status:
+      id: im~V
+      status:
+        color: green
+        id: 5384f414-3388-4144-bc59-cd85011d7ba4
+        name: Confirmed
+      type: status
+    Description:
+      id: MD%3Cr
+      rich_text:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Samuel & Bandana Bob
+        text:
+          content: Samuel & Bandana Bob
+          link: null
+        type: text
+      type: rich_text
+    Event Date & Time:
+      date:
+        end: null
+        start: '2026-03-16'
+        time_zone: null
+      id: '%3C%5EBD'
+      type: date
+    Event name:
+      id: title
+      title:
+      - annotations:
+          bold: false
+          code: false
+          color: default
+          italic: false
+          strikethrough: false
+          underline: false
+        href: null
+        plain_text: Social Dancing
+        text:
+          content: Social Dancing
+          link: null
+        type: text
+      type: title
+    Instructor/DJ:
+      id: '%3DRGW'
+      people: []
+      type: people
+    Instructor/DJ Coordinator:
+      id: U%7D%40U
+      people: []
+      type: people
+    Private Notes:
+      id: f%3BIe
+      rich_text: []
+      type: rich_text
+    Room Coordinator:
+      id: '%3CQwT'
+      people: []
+      type: people
+    Room Status:
+      id: kLek
+      status:
+        color: red
+        id: bafb31e5-105c-48bd-96fb-09eb990cc6f3
+        name: Needed
+      type: status
+    Venue:
+      id: ZW%5B_
+      select: null
+      type: select
+  public_url: null
+  url: https://www.notion.so/Social-Dancing-2e0fe184d67880d1b058d291127305eb
