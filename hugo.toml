@@ -5,6 +5,9 @@ theme = 'hextra'
 enableGitInfo = true
 ignoreLogs = ['warning-goldmark-raw-html']
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 editURL = { enable=true, base="https://github.com/stanford-dancebreak/stanford-dancebreak.github.io/edit/main/content" }
 
