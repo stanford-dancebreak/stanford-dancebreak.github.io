@@ -22,11 +22,13 @@ change---the best way to keep up is through [our mailing list][mail].  Join us
 for social dancing, classes, snacks, and community!
 
 {{< callout emoji="📍" >}}
-Dancebreak will be in Roble 113 most Mondays during winter quarter! Workshops will be 8:30-9:30 PM,
-with social dancing 9:30-11:30 PM.
+Dancebreak is currently on break to make room for [Austria
+Fortnight](/posts/26win-fortnight)!  We (and our friends from other dance
+clubs) will be teaching dance lessons **every day** from 2/13 to 2/27.
 
-In mid-February, we and other dance clubs run daily lessons during [Austria
-Fortnight](/posts/26win-fortnight)!
+Dancebreak will return in March, after the Stanford Viennese Ball! Workshops
+will be 7:30-8:30 PM, with social dancing 8:30-10:30 PM, from March 2nd
+onwards.
 {{< /callout >}}
 
 If you don't know how to dance, we teach lessons every week! See the [list of
