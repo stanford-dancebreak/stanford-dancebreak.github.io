@@ -7,8 +7,8 @@ weight: 6
 
 Dancebreak would love to share with you a collection of social dance and
 performance groups on and around campus that you may be interested in getting
-involved with. This is an ever-evolving list, feel free to reach out if you
-know of additional resources we can add to this list!
+involved with. This is an ever-evolving list; feel free to reach out if you
+know of additional resources we can add!
 
 Hear more about upcoming events by subscribing to…
 
@@ -27,7 +27,7 @@ Powers's Stanford Social Dance website](http://socialdance.stanford.edu/).
 ## Social Dance Groups
 
 All social dance groups listed in the next section are non-audition and
-beginner friendly, and almost all of them hold weekly beginner classes
+beginner-friendly, and almost all of them hold weekly beginner classes
 throughout the week. There is absolutely no dance experience necessary to come
 check a class or social out. There is also no need to bring a dance partner, as
 we switch partners in classes and socials.
@@ -38,9 +38,9 @@ What: Lessons & socials! West Coast Swing - a style of swing that is
 characterized by an elastic style that is typically danced to more modern
 music.
 
-When/Where: Saturdays 2:30 - 5:30pm, usually in either the EVGR-C Dance Studio,
-Roble Gym, or GCC Havana Room. Lessons 2:30 -- 4:00 pm, open dancing 4:00 --
-5:30 pm. Join the mailing list for the most up-to-date schedules!
+When/Where: Saturdays 1 - 4 pm, usually in either the EVGR-C Dance Studio,
+Roble Gym, or GCC Havana Room. Lessons 1 -- 2:30 pm, open dancing 2:30 --
+4:00 pm. Join the mailing list for the most up-to-date schedules!
 
 Mailing List: https://mailman.stanford.edu/mailman/listinfo/cardinal-swing 
 
@@ -58,10 +58,11 @@ choreographed dances (Bohemian National Polka, Romany Polka, Cross-Step Mixer,
 Bus Stop, Tokyo Polka, etc.), learn new moves, and have fun with us at
 Dancebreak! Additionally, we have intro-courses taught by our members from time
 to time, [subscribe to our mailing list][dancebreak] to hear about upcoming
-classes. Beginners always welcome :)
+classes. Beginners are always welcome :)
 
-When/Where: Usually Mondays, 7 - 10 pm in Roble 113 (large gym). Times and
-locations vary – [join our mailing list][dancebreak] to keep up to date on
+When/Where: Usually Mondays, 7:30 - 10:30 pm in Roble 113 (large gym). We have a beginner-friendly lesson from 7:30 - 8:30 followed by a two-hour DJ'd social dance with free pizza!
+
+Times and locations vary – [join our mailing list][dancebreak] to keep up to date on
 location, times, and classes!
 
 Mailing List: https://mailman.stanford.edu/mailman/listinfo/dancebreak
@@ -109,7 +110,7 @@ expression. Our world-class coaches are dedicated to supporting you every step
 of the way, whether you are interested in exploring ballroom dancing (Standard
 and Latin styles) or aiming to become a state or national champion. We welcome
 individuals of all experience levels to join our club, as no prior dance
-experience is necessary. Many of our weekly lessons are beginner friendly, and
+experience is necessary. Many of our weekly lessons are beginner-friendly, and
 we also offer various socials and workshops suitable for dancers of all levels.
 For those who wish to become more involved, we provide numerous opportunities
 to participate in performances and competitions.
@@ -124,12 +125,11 @@ FB Page: https://www.facebook.com/StanfordDanceSport/
 ### Stanford Swing Dancers (SSD)
 
 What: Stanford Swing Dancers host (free!) weekly dances and lessons on Lindy
-Hop, Charleston, and more every Tuesday. We have a Pizza social followed by
-Intermediate and Beginner swing lessons and then DJ'd social dancing.
+Hop, Charleston, and more every Tuesday. Intermediate and beginner swing lessons, followed by a Pizza social and DJ'd social Dancing.
 
-When: Tuesdays 7 – 11 pm
+When: Tuesdays 7:30 – 11 pm
 
-Where: usually EVGR or Roble Gym
+Where: Roble Gym 115
 
 Website: https://swing.stanford.edu/ 
 
@@ -149,7 +149,7 @@ practicas (practice sessions), milongas (tango dance parties), workshops, and
 outings.
 
 When/Where: Wednesday nights, Koret Pavilion – check Discord, FB page,
-Instagram, or mailing list for up to date information
+Instagram, or mailing list for up-to-date information
 
 Mailing List: https://mailman.stanford.edu/mailman/listinfo/tango-club 
 
@@ -163,7 +163,7 @@ Instagram: https://www.instagram.com/stanfordtango
 
 The following groups require an audition to join. Auditions are generally
 around the first week of the fall quarter each year. Many of the auditions are
-beginner friendly and encourage beginners to come try out!
+beginner-friendly and encourage beginners to come try out!
 
 ### Cardinal Ballet Company (CBC)
 
@@ -180,8 +180,8 @@ Website: https://cardinalballet.stanford.edu/
 ### Stanford Bhangra
 
 What: The Stanford Bhangra Team practices and performs bhangra, a traditional
-Punjabi folk dance originating from the Punjab region in Northwestern India.
-The team performs traditional and hip-hop fusion variations, holds on-campus
+Punjabi folk dance originates from the Punjab region in Northwestern India.
+The team performs traditional and hip-hop fusion variations, and holds on-campus
 workshops, and hosts bhangra parties. Stanford Bhangra also attends
 competitions throughout California and around the nation.
 
@@ -197,8 +197,7 @@ dances and integrate current trends. Swingtime's repertoire ranges from smooth
 swing with sleek moves to fast-paced Lindy Hop with jaw-dropping aerials. We
 are continually pressing the limits of how smooth, fast, and high we can go!
 
-When/Where: Auditions are held at the start of Fall Quarter (September
-28th-29th, 2024) each year, prefaced by a set of beginner-friendly workshops to
+When/Where: Auditions are held at the start of Fall Quarter each year, prefaced by a set of beginner-friendly workshops to
 get dancers up to speed. Keep an eye on [Dancebreak][dancebreak] and [Dance
 News][dance-news] mailing lists for more information.
 
@@ -223,8 +222,7 @@ waltz, swing, cha-cha, salsa, tango, and polka. The event is a highlight of
 Stanford's social calendar, drawing students, alumni, and dance enthusiasts
 from the Bay Area.
 
-When/Where: Auditions are held at the start of Fall Quarter (September
-28th-29th, 2024) each year, prefaced by a set of beginner-friendly workshops to
+When/Where: Auditions are held at the start of Fall Quarter each year, prefaced by a set of beginner-friendly workshops to
 get dancers up to speed. Keep an eye on the [Dancebreak][dancebreak] and [Dance
 News][dance-news] mailing lists for more information.
 
@@ -318,6 +316,6 @@ Spring Quarter:
 Recurring:
 * Jammix (must be a current or former social dance series student to attend)
 
-[dancebreak]: https://mailman.stanford.edu/mailman/listinfo/dancebreak:
-[dance-news]: https://mailman.stanford.edu/mailman/listinfo/dance-news:
-[local-dance-news]: https://mailman.stanford.edu/mailman/listinfo/local-dance-news:
+[dancebreak]: https://mailman.stanford.edu/mailman/listinfo/dancebreak
+[dance-news]: https://mailman.stanford.edu/mailman/listinfo/dance-news
+[local-dance-news]: https://mailman.stanford.edu/mailman/listinfo/local-dance-news
