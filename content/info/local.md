@@ -56,8 +56,7 @@ waltz and swing. Come hang out with our campus’ largest social dancing crew,
 practice styles taught in Richard Powers’ Social Dance class series, learn
 choreographed dances (Bohemian National Polka, Romany Polka, Cross-Step Mixer,
 Bus Stop, Tokyo Polka, etc.), learn new moves, and have fun with us at
-Dancebreak! Additionally, we have intro-courses taught by our members from time
-to time, [subscribe to our mailing list][dancebreak] to hear about upcoming
+Dancebreak! Each week, we have a beginner-friendly workshop followed by two hours of open social dancing with pizza! [Subscribe to our mailing list][dancebreak] to hear about upcoming
 classes. Beginners are always welcome :)
 
 When/Where: Usually Mondays, 7:30 - 10:30 pm in Roble 113 (large gym). We have a beginner-friendly lesson from 7:30 - 8:30 followed by a two-hour DJ'd social dance with free pizza!
