@@ -101,8 +101,6 @@ Linktree: https://linktr.ee/ultimate_brando9
 
 Email: subachata@stanford.edu
 
-### Stanford Ballroom
-
 ### Stanford Ballroom (DanceSport) 
 
 What: Stanford Ballroom is a place where everyone can learn to dance in a fun and
