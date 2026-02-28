@@ -101,25 +101,28 @@ Linktree: https://linktr.ee/ultimate_brando9
 
 Email: subachata@stanford.edu
 
-### Stanford DanceSport
+### Stanford Ballroom
 
-What: Stanford DanceSport is a place where everyone can learn to dance in a
-fun, relaxed, and welcoming environment and discover a new form of artistic
-expression. Our world-class coaches are dedicated to supporting you every step
-of the way, whether you are interested in exploring ballroom dancing (Standard
-and Latin styles) or aiming to become a state or national champion. We welcome
-individuals of all experience levels to join our club, as no prior dance
-experience is necessary. Many of our weekly lessons are beginner-friendly, and
-we also offer various socials and workshops suitable for dancers of all levels.
-For those who wish to become more involved, we provide numerous opportunities
-to participate in performances and competitions.
+### Stanford Ballroom (DanceSport) 
 
-When/Where: Usually Mondays (7 – 9 pm) and Saturdays/Sundays (12 – 2 pm) at the
-Graduate Community Center or Roble Gym.
+What: Stanford Ballroom is a place where everyone can learn to dance in a fun and
+welcoming environment. Whether you want to explore the world of ballroom dancing
+(DanceSport), gain another artistic way of expressing yourself, or win state
+and national competitions, our world-class coaches and mentors will accompany 
+you at every stage of your journey! Our weekly lessons are beginner-friendly
+and we also offer many socials and workshops that you can attend no matter
+your level of dance proficiency. For those interested in being more involved,
+we also provide many opportunities to participate in performances and
+competitions.
 
-Mailing List: https://mailman.stanford.edu/mailman/listinfo/ballroom-at-stanford 
+When/Where: Usually lessons on Mondays (evening) and practice on weekends
+at Roble Gym or the Graduate Community Center.
 
-FB Page: https://www.facebook.com/StanfordDanceSport/ 
+[{{< icon "globe-alt" >}} Website](https://stanfordballroom.com) |
+[{{< icon "inbox-in" >}} Mailing List](https://mailman.stanford.edu/mailman/listinfo/ballroom-at-stanford) |
+[{{< icon "at-symbol" >}} Email](mailto:contact@ballroom.stanford.edu) |
+[{{< icon "facebook" >}} Facebook](https://www.facebook.com/stanford.ballroom) |
+[{{< icon "instagram" >}} Instagram](https://instagram.com/stanford.ballroom)
 
 ### Stanford Swing Dancers (SSD)
 
@@ -140,23 +143,12 @@ Instagram: https://www.instagram.com/stanfordswingdancers
 
 ### Stanford Tango Club
 
-What: The Stanford Tango Club is a student-run non-profit organization that is
-dedicated to building and sustaining an open community of Argentine Tango
-dancers.  We strive to promote Argentine Tango as an evolving global social
-dance and art form rooted in tradition.  Our activities include classes,
-practicas (practice sessions), milongas (tango dance parties), workshops, and
-outings.
+What: We have fostered an Argentine Tango community at Stanford for over 25 years; our activities include classes, practicas, milongas, and outings.
 
-When/Where: Wednesday nights, Koret Pavilion – check Discord, FB page,
-Instagram, or mailing list for up-to-date information
+When/Where: Thursday nights, Roble Gym – check our mailing list!
 
-Mailing List: https://mailman.stanford.edu/mailman/listinfo/tango-club 
+Mailing List: [https://mailman.stanford.edu/mailman/listinfo/tango-club ](https://mailman.stanford.edu/mailman/listinfo/tango-at-stanford)
 
-Facebook: https://www.facebook.com/groups/55258375256 
-
-Discord: https://discord.gg/3dUG3HqA2T 
-
-Instagram: https://www.instagram.com/stanfordtango 
 
 ## Performance Groups (Audition-Based)
 
