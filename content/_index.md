@@ -22,13 +22,7 @@ change---the best way to keep up is through [our mailing list][mail].  Join us
 for social dancing, classes, snacks, and community!
 
 {{< callout emoji="📍" >}}
-Dancebreak is currently on break to make room for [Austria
-Fortnight](/posts/26win-fortnight)!  We (and our friends from other dance
-clubs) will be teaching dance lessons **every day** from 2/13 to 2/27.
-
-Dancebreak will return in March, after the Stanford Viennese Ball! Workshops
-will be 7:30-8:30 PM, with social dancing 8:30-10:30 PM, from March 2nd
-onwards.
+Dancebreak is **back**! Workshops are 7:30-8:30PM, with social dancing and pizza 8:30-10:30 PM. Check the table below as locations vary.
 {{< /callout >}}
 
 If you don't know how to dance, we teach lessons every week! See the [list of
@@ -44,10 +38,6 @@ nearby.
 Here are the next month of events! (See [the full calendar](/posts/26win) for the rest of the quarter.)
 
 {{< EventsTable 1 >}}
-
-**During the two weeks before Viennese Ball, Stanford has daily free beginner
-dance classes! See here for more information: [Austria Fortnight
-Schedule](/posts/26win-fortnight)**
 
 Beginner lessons (bolded) are for everyone---no dance experience necessary!
 Practice what you learned by staying for the dance social, immediately after
