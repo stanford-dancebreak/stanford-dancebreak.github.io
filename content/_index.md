@@ -32,8 +32,7 @@ few weeks below.  [Check out our FAQ if you have more questions!](/info/faq)
 ## Upcoming Lessons and Dances
 
 No need to come with a partner---we rotate partners often in class! Each lesson
-is followed by a two-hour DJed dance social, either in the same location or
-nearby.
+is followed by a two-hour DJed dance social with free pizza for Stanford Students!
 
 Here are the next month of events! (See [the full calendar](/posts/26win) for the rest of the quarter.)
 
