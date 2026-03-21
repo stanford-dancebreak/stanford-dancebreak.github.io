@@ -22,7 +22,7 @@ change---the best way to keep up is through [our mailing list][mail].  Join us
 for social dancing, classes, snacks, and community!
 
 {{< callout emoji="📍" >}}
-Dancebreak is **back**! Workshops are 7:30-8:30PM, with social dancing and pizza 8:30-10:30 PM. Check the table below as locations vary.
+Dancebreak will be in **Roble 113** starting 3/30 from 7-10 pm for spring quarter! Join us at Koret on Monday!
 {{< /callout >}}
 
 If you don't know how to dance, we teach lessons every week! See the [list of
