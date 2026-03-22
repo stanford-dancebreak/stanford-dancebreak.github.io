@@ -59,7 +59,7 @@ Bus Stop, Tokyo Polka, etc.), learn new moves, and have fun with us at
 Dancebreak! Each week, we have a beginner-friendly workshop followed by two hours of open social dancing with pizza! [Subscribe to our mailing list][dancebreak] to hear about upcoming
 classes. Beginners are always welcome :)
 
-When/Where: Usually Mondays, 7:30 - 10:30 pm in Roble 113 (large gym). We have a beginner-friendly lesson from 7:30 - 8:30 followed by a two-hour DJ'd social dance with free pizza!
+When/Where: Mondays, 7:00 - 10:00 pm in Roble 113 (large gym). We have a beginner-friendly lesson from 7:00 - 8:00 followed by a two-hour DJ'd social dance with free pizza!
 
 Times and locations vary – [join our mailing list][dancebreak] to keep up to date on
 location, times, and classes!
@@ -86,7 +86,7 @@ Mailing List: https://mailman.stanford.edu/mailman/listinfo/salsa-amigos
 ### Stanford Bachata Sensual and Brazilian Zouk (SBSBZ)
 
 What: SU Bachata Sensual Club is dedicated to social dancing with a focus on
-Bachata Sensual. Every quarter, we organize classes taught by high quality
+Bachata Sensual. Every quarter, we organize classes taught by high-quality
 instructors, practices, and social events. Bachata Sensual is a contemporary
 variation of Bachata, made in Spain. This dance style is based on solid follow
 and lead principles of natural motions of energy.
@@ -113,7 +113,7 @@ your level of dance proficiency. For those interested in being more involved,
 we also provide many opportunities to participate in performances and
 competitions.
 
-When/Where: Usually lessons on Mondays (evening) and practice on weekends
+When/Where: Mondays 6:30-9 PM in Roble 115 and practice on weekends
 at Roble Gym or the Graduate Community Center.
 
 [{{< icon "globe-alt" >}} Website](https://stanfordballroom.com) |
@@ -127,7 +127,7 @@ at Roble Gym or the Graduate Community Center.
 What: Stanford Swing Dancers host (free!) weekly dances and lessons on Lindy
 Hop, Charleston, and more every Tuesday. Intermediate and beginner swing lessons, followed by a Pizza social and DJ'd social Dancing.
 
-When: Tuesdays 7:30 – 11 pm
+When: Tuesdays 7:20 – 10:30 pm
 
 Where: Roble Gym 115
 
