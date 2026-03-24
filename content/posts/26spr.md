@@ -10,7 +10,7 @@ Dancebreak will be in Roble 113, 7:00-10:00 PM on Mondays this spring!
 
 Our beginner workshops (bolded) and dance socials are open to everyone!  Intermediate workshops assume some social dance experience.
 
-{{< EventsTable 3 "2026-03-25" >}}
+{{< EventsTable 3 "2026-03-26" >}}
 <!-- Pulls 3 months of events from the events.yaml file, starting at date 2026-03-025 -->
 
 
