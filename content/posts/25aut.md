@@ -1,6 +1,5 @@
 ---
 title: Autumn 2025
-aliases: ["/events", "/workshops", "/calendar"]
 date: 2025-09-22
 ---
 

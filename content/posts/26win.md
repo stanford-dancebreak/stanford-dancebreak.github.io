@@ -1,6 +1,5 @@
 ---
 title: Winter 2026
-aliases: ["/events", "/workshops", "/calendar"]
 date: 2025-12-18
 ---
 
