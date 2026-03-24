@@ -22,7 +22,7 @@ change---the best way to keep up is through [our mailing list][mail].  Join us
 for social dancing, classes, snacks, and community!
 
 {{< callout emoji="📍" >}}
-Dancebreak will be in **Roble 113** starting 3/30 from 7-10 pm for spring quarter! Workshops from 7-8 pm and social dancing with pizza from 8-10pm! Join us at Koret on Monday!
+Dancebreak will be in **Roble 113** from 7-10 pm for spring quarter! Workshops from 7-8 pm and social dancing with pizza from 8-10pm!
 {{< /callout >}}
 
 If you don't know how to dance, we teach lessons every week! See the [list of
@@ -34,7 +34,7 @@ few weeks below.  [Check out our FAQ if you have more questions!](/info/faq)
 No need to come with a partner---we rotate partners often in class! Each lesson
 is followed by a two-hour DJed dance social with free pizza for Stanford Students!
 
-Here are the next month of events! (See [the full calendar](/posts/26win) for the rest of the quarter.)
+Here are the next month of events! (See [the full calendar](/posts/26spr) for the rest of the quarter.)
 
 {{< EventsTable 1 >}}
 
@@ -48,7 +48,7 @@ learn new skills or just get more practice!
 ## More Info
 
 {{< cards >}}
-{{< card link="posts/26win" icon="calendar" title="Calendar (Winter 2025)" subtitle="Find out about future workshops and socials!" >}}
+{{< card link="posts/26spr" icon="calendar" title="Calendar (Spring 2026)" subtitle="Find out about future workshops and socials!" >}}
 {{< card link="https://mailman.stanford.edu/mailman/listinfo/dancebreak" icon="mail" title="Mailing List" subtitle="Get weekly updates about locations and events." >}}
 {{< card link="https://instagram.com/stanforddancebreak" icon="instagram" title="Instagram" subtitle="Photos from Dancebreak (and updates).">}}
 {{< card link="info/faq" icon="question-mark-circle" title="Frequently Asked Questions" subtitle="First time social dancing? Find out more here." >}}

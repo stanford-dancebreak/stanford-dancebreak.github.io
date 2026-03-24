@@ -10,9 +10,34 @@ Dancebreak will be in Roble 113, 8:30-11:30 PM on Mondays this winter!
 
 Our beginner workshops (bolded) and dance socials are open to everyone!  Intermediate workshops assume some social dance experience.
 
-{{< EventsTable 3 "2026-01-01" >}}
-<!-- Pulls 3 months of events from the events.yaml file, starting at date 2025-01-01 -->
-
+| Date   | Time               | Location        | Description                                                             | Category                  |
+|:-------|:-------------------|:----------------|:------------------------------------------------------------------------|:--------------------------|
+| 1/5    | 8:30 PM → 9:30 PM  | Roble 113       | **Cross-Step Waltz** (Akshay Srivatsan & Bella)                         | Beginner Workshop         |
+|        | 8:30 PM → 9:30 PM  | Roble 139       | DJ/Instructor Guidelines Review (Admin Office Hours)                    | All Levels                |
+|        | 9:30 PM → 11:30 PM | Roble 113       | Social Dancing (Crowd-sourced set)                                      | Social Dance              |
+| 1/12   | 8:30 PM → 9:30 PM  | Roble 139       | The Art, Science, & Engineering of Partner Dance DJing (Terrell)        | Intermediate Workshop     |
+|        | 8:30 PM → 9:30 PM  | Roble 113       | **Bachata** (Brando & Lorena)                                           | Beginner Workshop         |
+|        | 9:30 PM → 11:30 PM | Roble 113       | Social Dancing (Maiya & Eleanor Quirk)                                  | Social Dance              |
+| 1/19   | 8:30 PM → 9:30 PM  | Roble 113       | **Rotary Waltz** (Akshay Smit & Meera)                                  | Beginner Workshop         |
+|        | 8:30 PM → 9:30 PM  | EPC             | How to Teach Dance (Akshay Srivatsan & Maiya)                           | Intermediate Workshop     |
+|        | 9:30 PM → 11:30 PM | Roble 113       | Social Dancing (Terrell)                                                | Social Dance              |
+| 1/26   | 8:30 PM → 9:30 PM  | Roble 113       | **Beginner+ Rotary Waltz** (Emma & Eleanor)                             | Beginner+ Workshop        |
+|        | 8:30 PM → 9:30 PM  | Roble 116 (RAG) | Beginner Drop In **Rotary Waltz** (Phil & Evelyn)                       | Beginner Workshop         |
+|        | 9:30 PM → 11:30 PM | Roble 113       | Social Dancing (Evelyn & Akshay Srivatsan)                              | Social Dance              |
+| 2/2    | 8:30 PM → 9:30 PM  | Roble 113       | **Lindy Hop** (Wally & Dakota)                                          | Beginner Workshop         |
+|        | 9:30 PM → 11:30 PM | Roble 113       | Social Dancing (Wally & Dakota & Maya Bridgeman)                        | Social Dance              |
+| 2/9    | 8:30 PM → 9:30 PM  | Roble 113       | **Fusion** (Cameron & Rocky)                                            | All Levels                |
+|        | 9:30 PM → 11:30 PM | Roble 113       | Social Dancing (Samuel & Zev)                                           | Social Dance              |
+| 2/16   | —                  | —               | Cancelled - Austria Fortnight (No Dancebreak)                           | Cancelled                 |
+| 2/23   | —                  | —               | Cancelled - Austria Fortnight (No Dancebreak)                           | Cancelled                 |
+| 3/2    | 7:30 PM → 8:30 PM  | Roble 115       | **Night Club Two Step** (Eddy and Jasmin)                               | Beginner Workshop         |
+|        | 8:30 PM → 10:30 PM | Roble 113       | Social Dancing (Eddy and Jasmin)                                        | Social Dance              |
+| 3/9    | 7:30 PM → 8:30 PM  | Koret Pavilion  | **Cross-Step Waltz** (Maiya & Samuel)                                   | Beginner Workshop         |
+|        | 8:30 PM → 10:30 PM | Koret Pavilion  | Social Dancing (Dakota & Evelyn)                                        | Social Dance              |
+| 3/16   | 7:30 PM → 8:30 PM  | Koret Pavilion  | **Irish Ceili** (Bandana Bob)                                           | Beginner Workshop         |
+|        | 8:30 PM → 10:30 PM | Koret Pavilion  | Social Dancing (Samuel & Bandana Bob)                                   | Social Dance              |
+| 3/23   | 7:30 PM → 8:30 PM  | Koret Pavilion  | **West Coast Swing** (Joseph and Sophia)                                | Beginner Workshop         |
+|        | 8:30 PM → 10:30 PM | Koret Pavilion  | Social Dancing (Terrell)                                                | Social Dance              |
 
 
 [There are also many other local dance events, pretty much every day of the week!](/info/local)

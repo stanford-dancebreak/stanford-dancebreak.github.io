@@ -16,7 +16,7 @@ displayTitle = true
 displayLogo = true
 
 [params.navbar.logo]
-path = "images/dancebreak.svg"
+path = "images/Dancebreak2026.svg"
 width = 48
 height = 48
 
@@ -24,24 +24,19 @@ height = 48
 width = "wide"
 
 [[menu.main]]
-name = "Fortnight"
-pageRef = "/posts/26win-fortnight"
-weight = 1
-
-[[menu.main]]
 name = "Calendar"
-pageRef = "/posts/26win"
-weight = 2
+pageRef = "/posts/26spr"
+weight = 1
 
 [[menu.main]]
 name = "Info"
 pageRef = "/info"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "Archive"
 pageRef = "/archive"
-weight = 4
+weight = 3
 
 [[menu.main]]
 name = "Search"
