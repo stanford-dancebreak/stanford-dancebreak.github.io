@@ -22,7 +22,7 @@ change---the best way to keep up is through [our mailing list][mail].  Join us
 for social dancing, classes, snacks, and community!
 
 {{< callout emoji="📍" >}}
-Dancebreak will be in **Roble 113** from 7-10 pm for spring quarter! Workshops from 7-8 pm and social dancing with pizza from 8-10pm!
+Dancebreak will be in **Roble 113** from 7-10 pm for spring quarter! Workshops from 7-8pm and social dancing with pizza from 8-10pm!
 {{< /callout >}}
 
 If you don't know how to dance, we teach lessons every week! See the [list of
