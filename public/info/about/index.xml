@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dancebreak – About Dancebreak</title>
-    <link>http://localhost:49710/info/about/</link>
+    <link>http://localhost:1313/info/about/</link>
     <description>Recent content in About Dancebreak on Dancebreak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:49710/info/about/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/info/about/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,9 +16,9 @@
     
     <item>
       <title>Constitution</title>
-      <link>http://localhost:49710/info/about/constitution/</link>
+      <link>http://localhost:1313/info/about/constitution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49710/info/about/constitution/</guid>
+      <guid>http://localhost:1313/info/about/constitution/</guid>
       <description>
         
         
@@ -135,9 +135,9 @@ after obtaining approval from OSE.&lt;/p&gt;
     
     <item>
       <title>History</title>
-      <link>http://localhost:49710/info/about/history/</link>
+      <link>http://localhost:1313/info/about/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49710/info/about/history/</guid>
+      <guid>http://localhost:1313/info/about/history/</guid>
       <description>
         
         
@@ -201,39 +201,39 @@ graduate students alike.&lt;/p&gt;
     
     <item>
       <title>Officers</title>
-      <link>http://localhost:49710/info/about/officers/</link>
+      <link>http://localhost:1313/info/about/officers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49710/info/about/officers/</guid>
+      <guid>http://localhost:1313/info/about/officers/</guid>
       <description>
         
         
         &lt;h2&gt;Current Officers (2025-2026)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;current-officers-2025-2026&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#current-officers-2025-2026&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Our current leadership team is:&lt;/p&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Role&lt;/th&gt;
-          &lt;th&gt;Name&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;President&lt;/td&gt;
-          &lt;td&gt;Samuel Desai  (BS 2027)&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;President&lt;/td&gt;
-          &lt;td&gt;Evelyn Yee    (MS 2026)&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Financial Officer&lt;/td&gt;
-          &lt;td&gt;Zev Granowitz (PhD 2027)&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Communications Chair&lt;/td&gt;
-          &lt;td&gt;Dakota Lawlar (BS 2026)&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Role&lt;/th&gt;
+					&lt;th&gt;Name&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;President&lt;/td&gt;
+					&lt;td&gt;Samuel Desai  (BS 2027)&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;President&lt;/td&gt;
+					&lt;td&gt;Evelyn Yee    (MS 2026)&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Financial Officer&lt;/td&gt;
+					&lt;td&gt;Zev Granowitz (PhD 2027)&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Communications Chair&lt;/td&gt;
+					&lt;td&gt;Dakota Lawlar (BS 2026)&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2&gt;Past Officers&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;past-officers&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#past-officers&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here are the Dancebreak officers for prior academic years:&lt;/p&gt;
