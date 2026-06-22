@@ -41,7 +41,7 @@
           {{ if .properties.Category.select }}
             {{ $categoryName = .properties.Category.select.name }}
           {{ end }}
-          {{ $beginner := strings.Contains $categoryName "Beginner" }}
+          {{ $beginner := or (strings.Contains $categoryName "Beginner") (strings.Contains $categoryName "All Levels") }}
           
           <tr>
             <td>
