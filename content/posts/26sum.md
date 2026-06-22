@@ -1,7 +1,7 @@
 ---
 title: Summer 2026
 aliases: ["/events", "/workshops", "/calendar"]
-date: 2026-06-10
+date: 2026-06-11
 ---
 
 Dancebreak will be in various locations, 7:00-10:00 PM on Mondays this summer. After August 10th we will move to Koret Pavilion. Check the table below for the most up-to-date locations!
