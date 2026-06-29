@@ -2,22 +2,31 @@
 title: Officers
 ---
 
-## Current Officers (2025-2026)
+## Current Officers (2026-2027)
 
 Our current leadership team is:
 
-| Role                 | Name                     |
-|----------------------|--------------------------|
-| President            | Samuel Desai  (BS 2027)  |
-| President            | Evelyn Yee    (MS 2026)  |
-| Financial Officer    | Zev Granowitz (PhD 2027) |
-| Communications Chair | Dakota Lawlar (BS 2026)  |
+| Role                     | Name                          |
+|--------------------------|-------------------------------|
+| President                | Rehman Hassan     (BA  2027)  |
+| President                | Lisbeth Tejada    (BS  2027)  |
+| Financial Officer        | Kiran Sun         (BS  2028)  |
+| Instructor Coordinator   | Dulce Soto        (BS  2028)  |
+| DJ Coordinator           | Brandyn Lu        (BS  2028)  |
+| Community Safety Officer | Vienna Panossian  (BS  2027)  |
+| Community Safety Officer | Maiya Yu          (PhD 2027)  |
+| Webmaster                | Samuel Desai      (BS  2027)  |
+
 
 ## Past Officers
 
 Here are the Dancebreak officers for prior academic years:
  
-* 2025 (until June):
+* 2025-2026 Academic Year:
+  * Presidents: Samuel Desai (BS 2027) and Evelyn Yee (MS 2026)
+  * Financial Officer: Zev Granowitz (PhD 2027)
+  * Communications Chair: Dakota Lawlar (BS 2026)
+* 2024-2025 Academic Year:
   * Presidents: Akshay Srivatsan (PhD 2025) and Sophia Manukian (PhD 2029)
   * Financial Officer: Donovan Jasper (BS 2025, BA 2026, MS 2026)
   * Communications Chair: Ashley Chen (MS 2025)
