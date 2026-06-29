@@ -6,17 +6,17 @@ title: Officers
 
 Our current leadership team is:
 
-| Role                     | Name                          |
-|--------------------------|-------------------------------|
-| President                | Rehman Hassan     (BA  2027)  |
-| President                | Lisbeth Tejada    (BS  2027)  |
-| Financial Officer        | Kiran Sun         (BS  2028)  |
-| Instructor Coordinator   | Dulce Soto        (BS  2028)  |
-| DJ Coordinator           | Brandyn Lu        (BS  2028)  |
-| Community Safety Officer | Vienna Panossian  (BS  2027)  |
-| Community Safety Officer | Maiya Yu          (PhD 2027)  |
-| Webmaster                | Samuel Desai      (BS  2027)  |
-
+| Role                     | Name             | Degree     |
+|--------------------------|------------------|------------|
+| President                | Rehman Hassan    |(BA  2027)  |
+| President                | Lisbeth Tejada   |(BS  2027)  |
+| Financial Officer        | Kiran Sun        |(BS  2028)  |
+| Instructor Coordinator   | Dulce Soto       |(BS  2028)  |
+| DJ Coordinator           | Brandyn Lu       |(BS  2028)  |
+| Community Safety Officer | Vienna Panossian |(BS  2027)  |
+| Community Safety Officer | Maiya Yu         |(PhD 2027)  |
+| Community Safety Officer | Akshay Srivatsan |(PhD 2027)  |
+| Webmaster                | Samuel Desai     |(BS  2027)  |
 
 ## Past Officers
 
