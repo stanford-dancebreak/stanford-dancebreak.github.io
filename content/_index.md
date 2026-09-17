@@ -22,7 +22,7 @@ change---the best way to keep up is through [our mailing list][mail].  Join us
 for social dancing, classes, snacks, and community!
 
 {{< callout emoji="📍" >}}
-Dancebreak will be in various locations, 7:00-10:00 PM on Mondays this summer. After August 10th we will move to Koret Pavilion. Check the table below for the most up-to-date locations!
+Dancebreak will be in Roble 113 from 6:30-9:30 this quarter most weeks this quarter. Check the table below for the most up-to-date information.
 {{< /callout >}}
 
 If you don't know how to dance, we teach lessons every week! See the [list of
@@ -34,7 +34,7 @@ few weeks below.  [Check out our FAQ if you have more questions!](/info/faq)
 No need to come with a partner---we rotate partners often in class! Each lesson
 is followed by a two-hour DJed dance social with free pizza for Stanford Students!
 
-Here are the next month of events! (See [the full calendar](/posts/26sum) for the rest of the quarter.)
+Here are the next month of events! (See [the full calendar](/posts/26aut) for the rest of the quarter.)
 
 {{< EventsTable 1 >}}
 
@@ -43,12 +43,12 @@ Practice what you learned by staying for the dance social, immediately after
 the beginner lesson.
 
 Intermediate lessons are for those who already know the basics and want to
-learn new skills or just get more practice!
+learn new skills or just get more practice! We typically teach a beginner drop-in with every intermediate lesson!
 
 ## More Info
 
 {{< cards >}}
-{{< card link="posts/26sum" icon="calendar" title="Calendar (Summer 2026)" subtitle="Find out about future workshops and socials!" >}}
+{{< card link="posts/26aut" icon="calendar" title="Calendar (Fall 2026)" subtitle="Find out about future workshops and socials!" >}}
 {{< card link="https://mailman.stanford.edu/mailman/listinfo/dancebreak" icon="mail" title="Mailing List" subtitle="Get weekly updates about locations and events." >}}
 {{< card link="https://instagram.com/stanforddancebreak" icon="instagram" title="Instagram" subtitle="Photos from Dancebreak (and updates).">}}
 {{< card link="info/faq" icon="question-mark-circle" title="Frequently Asked Questions" subtitle="First time social dancing? Find out more here." >}}

@@ -38,15 +38,12 @@ What: Lessons & socials! West Coast Swing - a style of swing that is
 characterized by an elastic style that is typically danced to more modern
 music.
 
-When/Where: Saturdays 1 - 4 pm, usually in either the EVGR-C Dance Studio,
-Roble Gym, or GCC Havana Room. Lessons 1 -- 2:30 pm, open dancing 2:30 --
-4:00 pm. Join the mailing list for the most up-to-date schedules!
+When/Where: Thursdays 7:30 - 10:30 pm in Roble 113.  Join the mailing list for the most up-to-date schedules!
 
-Mailing List: https://mailman.stanford.edu/mailman/listinfo/cardinal-swing 
+[{{< icon "inbox-in" >}} Mailing List](https://mailman.stanford.edu/mailman/listinfo/cardinal-swing) |
+[{{< icon "facebook" >}} Facebook](https://www.facebook.com/cardinalswing)
 
-Facebook: https://www.facebook.com/cardinalswing 
-
-or contact Hikari Iwasaki (iwasakih@stanford.edu) to join the Messenger group
+or contact Joseph Lucero (jlucero@stanford.edu) to join the Messenger group
 chat
 
 ### Dancebreak
@@ -59,12 +56,13 @@ Bus Stop, Tokyo Polka, etc.), learn new moves, and have fun with us at
 Dancebreak! Each week, we have a beginner-friendly workshop followed by two hours of open social dancing with pizza! [Subscribe to our mailing list][dancebreak] to hear about upcoming
 classes. Beginners are always welcome :)
 
-When/Where: Mondays, 7:00 - 10:00 pm in Roble 113 (large gym). We have a beginner-friendly lesson from 7:00 - 8:00 followed by a two-hour DJ'd social dance with free pizza!
+When/Where: Mondays, 6:30 - 9:30 pm in Roble 113 (large gym). We have a beginner-friendly lesson from 6:30 - 7:30 followed by a two-hour DJ'd social dance with free pizza!
 
 Times and locations vary – [join our mailing list][dancebreak] to keep up to date on
 location, times, and classes!
 
-Mailing List: https://mailman.stanford.edu/mailman/listinfo/dancebreak
+[{{< icon "inbox-in" >}} Mailing List](https://mailman.stanford.edu/mailman/listinfo/dancebreak) |
+[{{< icon "instagram" >}} Instagram](https://instagram.com/dancebreak)
 
 ### Los Salseros de Stanford
 
@@ -91,15 +89,13 @@ instructors, practices, and social events. Bachata Sensual is a contemporary
 variation of Bachata, made in Spain. This dance style is based on solid follow
 and lead principles of natural motions of energy.
 
-When: Zouk on Wednesdays, 6:30 - 9:30 pm. Bachata Sensual on Thursdays, 7 - 10 pm. 
+When: Bachata Sensual on Thursdays, 7 - 10 pm. Zouk TBD.
 
-Instagram: https://www.instagram.com/stanford_bachata_sensual_zouk/
+[{{< icon "inbox-in" >}} Mailing List](https://mailman.stanford.edu/mailman/listinfo/stanford_bachata_zouk) |
+[{{< icon "at-symbol" >}} Email](mailto:subachata@stanford.edu) |
+[{{< icon "link" >}} Linktree](https://linktr.ee/ultimate_brando9) |
+[{{< icon "instagram" >}} Instagram](https://instagram.com/stanford.ballroom)
 
-Mailing List: https://mailman.stanford.edu/mailman/listinfo/stanford_bachata_zouk
-
-Linktree: https://linktr.ee/ultimate_brando9
-
-Email: subachata@stanford.edu
 
 ### Stanford Ballroom (DanceSport) 
 
@@ -223,26 +219,6 @@ Instagram: https://www.instagram.com/stanfordvienneseball/
 
 YouTube: https://www.youtube.com/@StanfordVienneseBall
 
-## Performance Groups (No Audition Required)
-
-The following groups perform throughout the year, but do not require an
-audition to join!
-
-### Stanford Chinese Dance
-
-What: Since 2006, Stanford Chinese Dance has fostered close community and
-spread appreciation for Chinese dance through classical and folkloric Chinese
-dance. All ethnic and dance backgrounds are welcome to join! No experience or
-audition required!
-
-When/Where: Saturday, 3 – 4:30 pm, Roble 114
-
-Instagram: https://www.instagram.com/stanfordchinesedance/ 
-
-Mailing List:
-
-https://docs.google.com/forms/d/e/1FAIpQLScgJi9GbhgDT5EXJT72zCw9IyFilTQmnCY2ghRON5UgoJSxtQ/viewform 
-
 ## Related Groups
 
 ### Viennese Ball Steering Committee
@@ -258,28 +234,69 @@ Stanford Report](https://news.stanford.edu/stories/2022/06/meet-gaurab-banerjee)
 When/Where: Applications are open at the start of Fall Quarter – keep an eye on
 the Dance-News mailing list for more information!
 
-## Off-Campus Social Dance
+## Dance Calendar
 
-Social dance extends off campus too!
+Below, find a calendar of social dancing on and near campus! 
+
+## Monday
+
+* [Dancebreak - Waltz + Variety](https://dancebreak.stanford.edu) - On Campus
+* [Albertos - Bachata](https://albertos.com) - Mountain View
+
+## Tuesday
+
+* [Stanford Swing Dancers - Lindy Hop](https://swing.stanford.edu) - On Campus
+* [Groovy Tuesdays - West Coast Swing]
+* [Albertos - Salsa](https://albertos.com) - Mountain View
+
+## Wednesday
+
+* [Wednesday Night Hop - Lindy Hop](https://wednesdaynighthop.com/) - Palo Alto
+* [Albertos - Bachata](https://albertos.com) - Mountain View
+* [Mission City Swing - West Coast Swing]() - San Francisco
+
+## Thursday
+
+* [SBSBZ - Bachata](https://linktr.ee/ultimate_brando9) - On Campus
+* [Solar Fusion - Fusion](https://solarfusion.dance) - Redwood City
+* [Albertos - Bachata and Salsa](https://albertos.com) - Mountain View
+* [DYOS - West Coast Swing](https://www.doyourownswing.com/) - San Jose
+
+## Friday
+
+* [Friday Night Waltz - Waltz + Variety](http://www.fridaynightwaltz.com) - Palo Alto
+* [Albertos - Salsa](https://albertos.com) - Mountain View
+* [For Dancers Only - Lindy Hop]() - Sunnyvale
+* [Moonlit Moves - West Coast Swing](moonlitmoves.com) - San Francisco
+* [Bachata Lab - Bachata](https://www.bachatalab.org/) - San Francisco
+
+## Saturday
+
+* [Cardinal West Coast Swing]() - On Campus
+* [Sharky Swing - West Coast Swing](https://www.sharkyswing.com/) - San Jose
+* [The Bootleggers Ball]() - San Francisco
+* [Mission Fusion - Fusion](https://missionfusion.com) - San Francisco
+
+
+## Sunday
+
+* [Alberto’s - Argentine Tango](https://www.facebook.com/MilongaAtAlbertos/) - Mountain View
+* [SJ Fusion - Fusion](https://www.instagram.com/sjfusiondance/) - San Jose
+* [Lindy in the Park](https://lindyinthepark.com/) - San Francisco
 
 ### Close to Stanford
 
-* [Friday Night Waltz](http://www.fridaynightwaltz.com/)
-* [Milonga @ Alberto’s](https://www.facebook.com/MilongaAtAlbertos/)
+
 * [StudioM](https://www.studiomballroom.com/events-and-parties.html)
-* [Wednesday Night Hop](https://wednesdaynighthop.com/)
 
 ### Greater Bay Area
 
 * [East Bay Waltz](https://eastbaywaltz.com/) - Berkeley, Berkeley Finnish Hall
 * [Irish Ceili Folk Dancing](https://www.thestarryplough.com/) - Berkeley, Starry Plough Pub
 * [Irish Ceili and Set Dancing](http://alhambra-irish-house.com/) - Redwood City, Alhambra Irish House
-* [Lindy in the Park](https://lindyinthepark.com/) - San Francisco, Golden Gate Park
 * [Lindy On Sproul](https://www.facebook.com/LindyonSproul/) - Berkeley, Upper Sproul Plaza
 * [Mission City Swing](https://missioncityswing.com/) - San Francisco, The Polish Club
-* [Mission Fusion](https://www.missionfusion.com/) - San Francisco, St. Gregory of Nyssa Church
 * [PEERS](https://peersdance.org/) - Alameda, Elks Lodge
-* [Sharky Swing](https://www.sharkyswing.com/) - San Jose, Dance Boulevard
 * [9:20 Special](https://www.920special.com/) - San Francisco, The Russian Center
 
 ## Off-Campus Performance Groups
