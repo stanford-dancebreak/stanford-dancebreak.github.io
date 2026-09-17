@@ -24,6 +24,67 @@ Hear more about upcoming events by subscribing to…
 For more information about social dance and norms on campus, see [Richard
 Powers's Stanford Social Dance website](http://socialdance.stanford.edu/).
 
+## Dance Calendar
+
+Below, find a calendar of social dancing on and near campus sorted by location. Scroll past this for more information about student clubs!
+
+## Monday
+
+* [Dancebreak - Waltz + Variety](https://dancebreak.stanford.edu) - On Campus
+* [Albertos - Bachata](https://albertos.com) - Mountain View
+
+## Tuesday
+
+* [Stanford Swing Dancers - Lindy Hop](https://swing.stanford.edu) - On Campus
+* [Albertos - Salsa](https://albertos.com) - Mountain View
+* [Alhambra Irish House - Ceili/Line Dancing](https://alhambra-irish-house.com/) - Redwood City
+* [Groovy Tuesdays - West Coast Swing](https://www.groovytuesdayswcs.com/) - San Jose
+
+## Wednesday
+
+* [Wednesday Night Hop - Lindy Hop](https://wednesdaynighthop.com/) - Palo Alto
+* [Albertos - Bachata](https://albertos.com) - Mountain View
+* [Mission City Swing - West Coast Swing](https://missioncityswing.com/) - San Francisco
+
+## Thursday
+
+* [Cardinal Swing - West Coast Swing](https://www.facebook.com/cardinalswing) - On Campus
+* [Stanford Tango Club - Argentine Tango](https://mailman.stanford.edu/mailman/listinfo/tango-at-stanford) - On Campus
+* [SBSBZ - Bachata](https://linktr.ee/ultimate_brando9) - On Campus
+* [Solar Fusion - Fusion](https://solarfusion.dance) - Redwood City
+* [Albertos - Bachata and Salsa](https://albertos.com) - Mountain View
+* [DYOS - West Coast Swing](https://www.doyourownswing.com/) - San Jose
+
+## Friday
+
+* [Friday Night Waltz - Waltz + Variety](http://www.fridaynightwaltz.com) - Palo Alto
+* [Albertos - Salsa](https://albertos.com) - Mountain View
+* [For Dancers Only - Lindy Hop](https://www.fordancersonly.org/) - Sunnyvale
+* [Bachata Heat - Bachata](https://www.studiomballroom.com/events-and-parties.html) - San Jose
+* [Moonlit Moves - West Coast Swing](moonlitmoves.com) - San Francisco
+* [Bachata Lab - Bachata](https://www.bachatalab.org/) - San Francisco
+
+## Saturday
+
+* [Sharky Swing - West Coast Swing](https://www.sharkyswing.com/) - San Jose
+* [The Bootleggers Ball - Lindy Hop](https://www.sfbootleggersball.com/) - San Francisco
+* [Mission Fusion - Fusion](https://missionfusion.com) - San Francisco
+
+
+## Sunday
+
+* [Alberto’s - Argentine Tango](https://www.facebook.com/MilongaAtAlbertos/) - Mountain View
+* [SJ Fusion - Fusion](https://www.instagram.com/sjfusiondance/) - San Jose
+* [Lindy in the Park](https://lindyinthepark.com/) - San Francisco
+
+### Some Greater Bay Options
+
+* [East Bay Waltz](https://eastbaywaltz.com/) - Berkeley, Berkeley Finnish Hall
+* [Irish Ceili Folk Dancing](https://www.thestarryplough.com/) - Berkeley, Starry Plough Pub
+* [Lindy On Sproul](https://www.facebook.com/LindyonSproul/) - Berkeley, Upper Sproul Plaza
+* [PEERS](https://peersdance.org/) - Alameda, Elks Lodge
+* [Fusion Calendar](https://bayareafusioncal.com/) - All Events in SF, Oakland, and Sacramento for Fusion
+
 ## Social Dance Groups
 
 All social dance groups listed in the next section are non-audition and
@@ -75,11 +136,9 @@ the Bay.
 
 When/Where: Check Facebook page or mailing list for more information!
 
-Facebook: https://www.facebook.com/LosSalserosDeStanford/ 
-
-Instagram: https://www.instagram.com/stanfordsalsa/ 
-
-Mailing List: https://mailman.stanford.edu/mailman/listinfo/salsa-amigos 
+[{{< icon "inbox-in" >}} Mailing List](https://mailman.stanford.edu/mailman/listinfo/salsa-amigos) |
+[{{< icon "facebook" >}} Facebook](https://www.facebook.com/LosSalserosDeStanford/) |
+[{{< icon "instagram" >}} Instagram](https://www.instagram.com/stanfordsalsa/)
 
 ### Stanford Bachata Sensual and Brazilian Zouk (SBSBZ)
 
@@ -127,21 +186,18 @@ When: Tuesdays 7:20 – 10:30 pm
 
 Where: Roble Gym 115
 
-Website: https://swing.stanford.edu/ 
-
-Mailing List: https://mailman.stanford.edu/mailman/listinfo/stanfordswingdancers 
-
-FB Page: https://www.facebook.com/stanfordswingdancers 
-
-Instagram: https://www.instagram.com/stanfordswingdancers 
+[{{< icon "globe-alt" >}} Website](https://swing.stanford.edu/) |
+[{{< icon "inbox-in" >}} Mailing List](https://mailman.stanford.edu/mailman/listinfo/stanfordswingdancers) |
+[{{< icon "facebook" >}} Facebook](https://www.facebook.com/stanfordswingdancers) |
+[{{< icon "instagram" >}} Instagram](https://www.instagram.com/stanfordswingdancers)
 
 ### Stanford Tango Club
 
 What: We have fostered an Argentine Tango community at Stanford for over 25 years; our activities include classes, practicas, milongas, and outings.
 
-When/Where: Thursday nights, Roble Gym – check our mailing list!
+When/Where: Thursday nights, Koret Pavilion – check our mailing list!
 
-Mailing List: [https://mailman.stanford.edu/mailman/listinfo/tango-club ](https://mailman.stanford.edu/mailman/listinfo/tango-at-stanford)
+[{{< icon "inbox-in" >}} Mailing List](https://mailman.stanford.edu/mailman/listinfo/tango-at-stanford)
 
 
 ## Performance Groups (Audition-Based)
@@ -160,7 +216,7 @@ full-length ballet in the spring), we also offer opportunities for student
 choreography in various forms. Our mission is to bring dancers together who
 love performing and share our art with the community.
 
-Website: https://cardinalballet.stanford.edu/ 
+[{{< icon "globe-alt" >}} Website](https://cardinalballet.stanford.edu)
 
 ### Stanford Bhangra
 
@@ -170,7 +226,7 @@ The team performs traditional and hip-hop fusion variations, and holds on-campus
 workshops, and hosts bhangra parties. Stanford Bhangra also attends
 competitions throughout California and around the nation.
 
-Instagram: https://www.instagram.com/stanfordbhangra/ 
+[{{< icon "instagram" >}} Instagram](https://instagram.com/stanfordbhangra)
 
 ### Stanford Swingtime
 
@@ -186,13 +242,10 @@ When/Where: Auditions are held at the start of Fall Quarter each year, prefaced 
 get dancers up to speed. Keep an eye on [Dancebreak][dancebreak] and [Dance
 News][dance-news] mailing lists for more information.
 
-Website: https://swingtime.stanford.edu/ 
-
-Facebook: https://www.facebook.com/stanfordswingtime 
-
-Instagram: https://www.instagram.com/stanford.swingtime/ 
-
-YouTube: https://www.youtube.com/@swingtimedancetroupe 
+[{{< icon "globe-alt" >}} Website](https://swingtime.stanford.edu) |
+[{{< icon "at-symbol" >}} Youtube](https://www.youtube.com/@swingtimedancetroupe) |
+[{{< icon "facebook" >}} Facebook](https://www.facebook.com/stanfordswingtime) |
+[{{< icon "instagram" >}} Instagram](https://www.instagram.com/stanford.swingtime/)
 
 ### Stanford Viennese Ball Opening Committee
 
@@ -211,13 +264,10 @@ When/Where: Auditions are held at the start of Fall Quarter each year, prefaced 
 get dancers up to speed. Keep an eye on the [Dancebreak][dancebreak] and [Dance
 News][dance-news] mailing lists for more information.
 
-Website: https://vienneseball.stanford.edu/
-
-Facebook: https://www.facebook.com/vienneseball/
-
-Instagram: https://www.instagram.com/stanfordvienneseball/
-
-YouTube: https://www.youtube.com/@StanfordVienneseBall
+[{{< icon "globe-alt" >}} Website](https://vienneseball.stanford.edu) |
+[{{< icon "at-symbol" >}} Youtube](https://www.youtube.com/@StanfordVienneseBall) |
+[{{< icon "facebook" >}} Facebook](hhttps://www.facebook.com/vienneseball/) |
+[{{< icon "instagram" >}} Instagram](https://www.instagram.com/stanfordvienneseball/)
 
 ## Related Groups
 
@@ -228,76 +278,10 @@ committed to planning the most memorable night of the year. If you've been to
 the Viennese Ball, we are the people wearing the red sashes running the entire
 night. Learn what it takes to plan a 1,500+ person event from start to finish
 while making lifelong friends -- we have a strong network ready to welcome you
-this year! Just hear what our 2022 Co-Chair had to say in [his feature video on
-Stanford Report](https://news.stanford.edu/stories/2022/06/meet-gaurab-banerjee).
+this year! Just hear what our 2022 Co-Chair had to say in [his feature video on Stanford Report](https://news.stanford.edu/stories/2022/06/meet-gaurab-banerjee).
 
 When/Where: Applications are open at the start of Fall Quarter – keep an eye on
 the Dance-News mailing list for more information!
-
-## Dance Calendar
-
-Below, find a calendar of social dancing on and near campus! 
-
-## Monday
-
-* [Dancebreak - Waltz + Variety](https://dancebreak.stanford.edu) - On Campus
-* [Albertos - Bachata](https://albertos.com) - Mountain View
-
-## Tuesday
-
-* [Stanford Swing Dancers - Lindy Hop](https://swing.stanford.edu) - On Campus
-* [Groovy Tuesdays - West Coast Swing]
-* [Albertos - Salsa](https://albertos.com) - Mountain View
-
-## Wednesday
-
-* [Wednesday Night Hop - Lindy Hop](https://wednesdaynighthop.com/) - Palo Alto
-* [Albertos - Bachata](https://albertos.com) - Mountain View
-* [Mission City Swing - West Coast Swing]() - San Francisco
-
-## Thursday
-
-* [SBSBZ - Bachata](https://linktr.ee/ultimate_brando9) - On Campus
-* [Solar Fusion - Fusion](https://solarfusion.dance) - Redwood City
-* [Albertos - Bachata and Salsa](https://albertos.com) - Mountain View
-* [DYOS - West Coast Swing](https://www.doyourownswing.com/) - San Jose
-
-## Friday
-
-* [Friday Night Waltz - Waltz + Variety](http://www.fridaynightwaltz.com) - Palo Alto
-* [Albertos - Salsa](https://albertos.com) - Mountain View
-* [For Dancers Only - Lindy Hop]() - Sunnyvale
-* [Moonlit Moves - West Coast Swing](moonlitmoves.com) - San Francisco
-* [Bachata Lab - Bachata](https://www.bachatalab.org/) - San Francisco
-
-## Saturday
-
-* [Cardinal West Coast Swing]() - On Campus
-* [Sharky Swing - West Coast Swing](https://www.sharkyswing.com/) - San Jose
-* [The Bootleggers Ball]() - San Francisco
-* [Mission Fusion - Fusion](https://missionfusion.com) - San Francisco
-
-
-## Sunday
-
-* [Alberto’s - Argentine Tango](https://www.facebook.com/MilongaAtAlbertos/) - Mountain View
-* [SJ Fusion - Fusion](https://www.instagram.com/sjfusiondance/) - San Jose
-* [Lindy in the Park](https://lindyinthepark.com/) - San Francisco
-
-### Close to Stanford
-
-
-* [StudioM](https://www.studiomballroom.com/events-and-parties.html)
-
-### Greater Bay Area
-
-* [East Bay Waltz](https://eastbaywaltz.com/) - Berkeley, Berkeley Finnish Hall
-* [Irish Ceili Folk Dancing](https://www.thestarryplough.com/) - Berkeley, Starry Plough Pub
-* [Irish Ceili and Set Dancing](http://alhambra-irish-house.com/) - Redwood City, Alhambra Irish House
-* [Lindy On Sproul](https://www.facebook.com/LindyonSproul/) - Berkeley, Upper Sproul Plaza
-* [Mission City Swing](https://missioncityswing.com/) - San Francisco, The Polish Club
-* [PEERS](https://peersdance.org/) - Alameda, Elks Lodge
-* [9:20 Special](https://www.920special.com/) - San Francisco, The Russian Center
 
 ## Off-Campus Performance Groups
 
