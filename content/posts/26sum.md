@@ -1,6 +1,5 @@
 ---
 title: Summer 2026
-aliases: ["/events", "/workshops", "/calendar"]
 date: 2026-06-11
 ---
 
