@@ -1,7 +1,7 @@
 ---
 title: Fall 2026
 aliases: ["/events", "/workshops", "/calendar"]
-date: 2026-09-19
+date: 2026-09-17
 ---
 
 Dancebreak will be in Roble 113 from 6:30 - 9:30 most weeks this quarter. Check the table below for more info and exceptions.
@@ -30,10 +30,6 @@ Our beginner workshops (bolded) and dance socials are open to everyone!  Interme
 [opening]: https://vienneseball.stanford.edu/
 [swingtime]: https://swingtime.stanford.edu/
 [vball]: https://vienneseball.stanford.edu/
-
-[jazz]: /posts/25spr-all-that-jazz
-[floorcraft]: https://www.facebook.com/events/30100345002885928
-[wcs]: https://www.facebook.com/cardinalswing/
 
 [lucas]: https://garron.net
 [audrey]: https://www.audriix.com/
