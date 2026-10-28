@@ -86,7 +86,7 @@ A 2-hour social typically includes ~30-35 songs, including time for a jam. Of th
 
 |                                  **Style**                                  | **Waltz Lesson** | **Swing Lesson** | **Other Lesson** |
 | --------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- |
-| **Lesson style (including 1 Dance with a Stranger in first half of a set)** | Minimum 7        | Minimum 7        | Minimum 7        |
+| **Lesson style (including 1 Dance with a Stranger in first half of a set)** | Minimum 7        | Minimum 7        | Minimum 5        |
 | **Cross step waltz (including 1 Jam in second half of the set)**            | Minimum 9        | Minimum 8        | Minimum 8        |
 | **Rotary waltz (including no more than 3 fast/accelerating waltzes)**       | Minimum 7        | Minimum 6        | Minimum 6        |
 | **Lindy Hop**                                                               | Minimum 4        | Minimum 4        | Minimum 3        |
@@ -96,6 +96,7 @@ A 2-hour social typically includes ~30-35 songs, including time for a jam. Of th
 | Latin                                                                       | Minimum 1        | Minimum 1        | Minimum 1        |
 | Line Dance                                                                  | Minimum 1        | Minimum 1        | Minimum 1        |
 | Mixer                                                                       | Minimum 1        | Minimum 1        | Minimum 1        |
+| Choreography (BNP etc.)                                                     | Minimum 1        | Minimum 1        | Minimum 1        |
 | Additional non-core dance style                                             | Maximum 4        | Maximum 4        | Maximum 4        |
 
 
@@ -112,6 +113,7 @@ A song’s tempo should match the appropriate range for beginner-intermediate da
 | ---------------- | --------------------- | ----------------- |
 | Cross-Step Waltz | 110-120               | 105-125           |
 | Rotary Waltz     | 140-155               | 135-160           |
+| Fast Waltz       |                       | 170-200           |
 | Lindy Hop        | 130-150               | 125-160           |
 | West Coast Swing | 100-110               | 90-120            |
 | Polka            | 110-125               | 105-130           |

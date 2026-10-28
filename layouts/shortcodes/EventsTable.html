@@ -28,7 +28,11 @@
     {{ range . }}
     {{ if ge (time.AsTime (index .properties "Event Date & Time").date.start) $start }}
     {{ if le (time.AsTime (index .properties "Event Date & Time").date.start) ($start.AddDate 0 $duration_months 0) }}
-    {{ $beginner := strings.Contains .properties.Category.select.name "Beginner" }}
+    {{ $categoryName := "" }}
+    {{ with .properties.Category.select }}
+      {{ $categoryName = .name }}
+    {{ end }}
+    {{ $beginner := or (strings.Contains $categoryName "Beginner") (strings.Contains $categoryName "All Levels") }}
     <tr>
       <td>
         {{ with index .properties "Event Date & Time" }}
