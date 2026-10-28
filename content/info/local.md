@@ -182,9 +182,9 @@ at Roble Gym or the Graduate Community Center.
 What: Stanford Swing Dancers host (free!) weekly dances and lessons on Lindy
 Hop, Charleston, and more every Tuesday. Intermediate and beginner swing lessons, followed by a Pizza social and DJ'd social Dancing.
 
-When: Tuesdays 7:20 – 10:30 pm
+When: Tuesdays 7:30 – 11:00 pm
 
-Where: Roble Gym 115
+Where: various, check mailing list
 
 [{{< icon "globe-alt" >}} Website](https://swing.stanford.edu/) |
 [{{< icon "inbox-in" >}} Mailing List](https://mailman.stanford.edu/mailman/listinfo/stanfordswingdancers) |
