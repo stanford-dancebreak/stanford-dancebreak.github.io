@@ -2,8 +2,9 @@
 
 ## Setup
 
-You will need to install [Hugo](https://gohugo.io/), which is available for all
-major operating systems.
+Install [Hugo Extended](https://gohugo.io/installation/) **0.169.0**, the version
+pinned in `.github/workflows/hugo.yml`. Hugo 0.168.0 also works for local
+development. The Hextra theme is pinned as a Git submodule at **v0.13.0**.
 
 This repository uses submodules, so clone it using:
 ```

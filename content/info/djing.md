@@ -32,8 +32,8 @@ The DJ is the heart of the Dancebreak event. As the most visible leader of the n
 
 ### **DURING THE SET**
 
-- **Bring your own computer to play the set.** If you expect to need a specific dongle/converter, make sure to bring it with you as well.
-- **Display the setlist**. The TV in Roble only accepts input from MacBooks, you can either display on the TV, use the “Printed Setlist” page in the workbook, or create your own.
+- **Display the setlist**. The display in Roble only accepts Macs. Dancebreak has our own Mac for displaying things. Feel free to also use the “printed setlist” page in the DJ workbook.
+	- Also Dancebreak has created [this app](https://github.com/samueldesai/danceapp/releases) for playing and displaying music on the screen in Roble. It only works on Mac devices right now.
 - **Make relevant announcements.** For example:
 	- “Please no street shoes on the dancefloor. Dance shoes or socks are fine.” (Repeat as necessary)
 	- “There is pizza in the lounge.”
@@ -115,14 +115,14 @@ A song’s tempo should match the appropriate range for beginner-intermediate da
 | Rotary Waltz     | 140-155               | 135-160           |
 | Fast Waltz       |                       | 170-200           |
 | Lindy Hop        | 130-150               | 125-160           |
-| West Coast Swing | 100-110               | 90-120            |
+| West Coast Swing | 95-105                | 90-110            |
 | Polka            | 110-125               | 105-130           |
 
 
 **Other styles:** For styles not in this table (e.g., Latin dances), songs should follow the typical tempo range for a beginner-intermediate dancer. Feel free to reference [this guide](https://garron.net/dance/tempos/) from Lucas Garron for additional BPM ranges.
 
 
-**Tempo exceptions:** A small number of songs in each set (0-6) may violate the tempo and length guidelines for that particular dance style; however, these cannot be consecutive to each other.
+**Tempo exceptions:** A small number of songs in each set (0-6) may violate the tempo guidelines for that particular dance style; however, these cannot be consecutive to each other and should be after the first 10 songs in the set.
 
 
 <u>**Matching tempo to vibe:**</u> <u>For all styles, songs with tempos below the sweet range should be more mellow/smooth, while songs above the sweet range should be energetic and have a strong downbeat.</u>

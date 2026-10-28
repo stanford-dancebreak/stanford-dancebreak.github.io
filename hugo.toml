@@ -1,5 +1,5 @@
 baseURL = 'https://dancebreak.stanford.edu'
-languageCode = 'en-us'
+locale = 'en-US'
 title = 'Dancebreak'
 theme = 'hextra'
 enableGitInfo = true
